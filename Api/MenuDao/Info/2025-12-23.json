@@ -1,0 +1,872 @@
+[
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T19:02:55-03:00",
+        "tempo_execucao": 2.980056047439575,
+        "id": "25e7ad9cd06e2886df6776fac35b5b13f4bc5796"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T19:02:58-03:00",
+        "tempo_execucao": 1.8742239475250244,
+        "id": "5d09a21b067bbf46bcf5083490cd57da6a7aa7db"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T19:05:34-03:00",
+        "tempo_execucao": 1.6897120475769043,
+        "id": "93331d7d0f7e6d1c8085806c8e23ff68ae610743"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T19:07:00-03:00",
+        "tempo_execucao": 2.0474720001220703,
+        "id": "e4c1ed400d99eff905edfe001342271a2394c4b0"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T19:07:01-03:00",
+        "tempo_execucao": 1.6700410842895508,
+        "id": "56b517ca9294b1481fc489b3fac3a40657184030"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T19:14:28-03:00",
+        "tempo_execucao": 4.529191017150879,
+        "id": "69791659761e56a74136e6b0be8940067f91a55c"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T19:27:14-03:00",
+        "tempo_execucao": 2.8402581214904785,
+        "id": "701da3f8139d664b3f54a62538f7f450a2a1683e"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T19:28:52-03:00",
+        "tempo_execucao": 2.07049822807312,
+        "id": "1c2a0f544854f4e71365cc3c5d610388ed29046f"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T19:29:26-03:00",
+        "tempo_execucao": 2.3383140563964844,
+        "id": "0c7b2edc6536c26a35a5db5ae6d8810f10d68fdf"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T19:31:20-03:00",
+        "tempo_execucao": 4.12116813659668,
+        "id": "976da020e60dd69d13044c1ace8d2bde76c8b41d"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T20:15:15-03:00",
+        "tempo_execucao": 1.730478048324585,
+        "id": "2f881d20e2c485119d4770b74e1053669e57e49c"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T20:15:17-03:00",
+        "tempo_execucao": 1.3654320240020752,
+        "id": "81c1184a5e987e1e2eea1c387ab251397eb6420a"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T20:19:08-03:00",
+        "tempo_execucao": 1.622614860534668,
+        "id": "2a02fb2a8139322e204a92dd04bd31b107629ef5"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T20:19:10-03:00",
+        "tempo_execucao": 1.7616808414459229,
+        "id": "452c06758161270a6b18d2b412955eaff7e455de"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T20:22:24-03:00",
+        "tempo_execucao": 1.768923044204712,
+        "id": "707f713184547a43731d7288c53e581fcbdddd1f"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T20:22:27-03:00",
+        "tempo_execucao": 1.9584598541259766,
+        "id": "a381ab76eafd28e59eab2ca0707e45af21371455"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T20:23:28-03:00",
+        "tempo_execucao": 1.2234671115875244,
+        "id": "a0ba4a4b40743b0d7b4a7311a79e442aec23fa3d"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T20:23:30-03:00",
+        "tempo_execucao": 1.6919238567352295,
+        "id": "7f30d5ce6323040422e74dbadea9b3f77747390e"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T20:26:59-03:00",
+        "tempo_execucao": 3.4371681213378906,
+        "id": "b618968ff407146eccab8e27135894435b85cdc8"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T20:27:03-03:00",
+        "tempo_execucao": 2.9279839992523193,
+        "id": "2706e3e55f909f57295be9fa84958af3cf930bc2"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T20:28:47-03:00",
+        "tempo_execucao": 1.5299549102783203,
+        "id": "82b8ecf6880b93f59b9d90579ea6149e62541f9a"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T20:29:18-03:00",
+        "tempo_execucao": 1.8682971000671387,
+        "id": "cfdb5f54e35372b3b3fe8a7d2f9e6c303e99fe47"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T20:29:21-03:00",
+        "tempo_execucao": 2.6426329612731934,
+        "id": "c00a606b53931420b204944b45a5a7bf42b065c7"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T20:30:26-03:00",
+        "tempo_execucao": 3.1257548332214355,
+        "id": "a5b4aee72d1a00b9d1f846132ee8b500133cca69"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T20:30:29-03:00",
+        "tempo_execucao": 2.6495890617370605,
+        "id": "ba8878b1ef1ddbc82acef00c325f662d04c61cfa"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T20:33:00-03:00",
+        "tempo_execucao": 2.234673023223877,
+        "id": "5ca20e161f0f7ea5cf080d3f8a589736c1eda5e8"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T20:33:03-03:00",
+        "tempo_execucao": 2.947751998901367,
+        "id": "91b84a9bdef576d85cb230a43ce5ef3ffb1d5724"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T20:34:41-03:00",
+        "tempo_execucao": 1.7790961265563965,
+        "id": "534d290fd035a2483e7077d75fce920bbd8435dc"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T20:34:43-03:00",
+        "tempo_execucao": 1.7327501773834229,
+        "id": "b6e8d44e41f9668cdf7cd0e3a3d0ed19708c66f4"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T20:35:11-03:00",
+        "tempo_execucao": 1.6062390804290771,
+        "id": "9e7a689d7bb1f8e8c24c5571bfd89709e1128777"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T20:35:13-03:00",
+        "tempo_execucao": 2.243488073348999,
+        "id": "f2598708f3fccd67e9f53093bb2b90eb8f3c5e62"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T20:38:14-03:00",
+        "tempo_execucao": 1.4363129138946533,
+        "id": "b8907c170ed0780ca117bc6417580b744a85728f"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T20:38:16-03:00",
+        "tempo_execucao": 1.4702188968658447,
+        "id": "443829aa92325a6078f0be5779156319953087bb"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T20:40:03-03:00",
+        "tempo_execucao": 1.3070590496063232,
+        "id": "7f7120ef090b0a7288ef091fdc280fe2ea069375"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T20:40:05-03:00",
+        "tempo_execucao": 1.3176860809326172,
+        "id": "0d8cf823309ca1f1e747436e6fc84ba26cb7a5ae"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T20:40:34-03:00",
+        "tempo_execucao": 2.0882949829101562,
+        "id": "083e5321833241cfbacf77f8190be38b69f7ebc0"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T20:40:36-03:00",
+        "tempo_execucao": 2.0846269130706787,
+        "id": "236480d65061b7fafe72e7e6a65e4479e4eba435"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T20:41:46-03:00",
+        "tempo_execucao": 1.8251879215240479,
+        "id": "b8eb5e54eacf31f2d93430341c1837c0ab91c0fa"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T20:41:49-03:00",
+        "tempo_execucao": 2.0217318534851074,
+        "id": "0b8ab905b3857f898483fc187d5d399ffa1a2e77"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T20:43:34-03:00",
+        "tempo_execucao": 2.056725025177002,
+        "id": "45506ab187a265dcff11ab5ebfcda264ac11b540"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T20:43:36-03:00",
+        "tempo_execucao": 1.5514531135559082,
+        "id": "bc753b018bec70067bdbb81ca5f40e457328f306"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T20:44:26-03:00",
+        "tempo_execucao": 2.294545888900757,
+        "id": "b243787d6c1d6d5534143b6e2858c0428b1dffa8"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T20:44:28-03:00",
+        "tempo_execucao": 2.3550660610198975,
+        "id": "3b7d73d1c4f74d4d24f82dd9fc8a09ab81e7b62e"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T20:45:27-03:00",
+        "tempo_execucao": 2.6562180519104004,
+        "id": "a3c19e2ea1b4200e409d25376311b291a0f8a98e"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T20:45:29-03:00",
+        "tempo_execucao": 2.063359022140503,
+        "id": "0b05eb6271b1c6636c73629d6f7eb56aee71ab9a"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T20:54:18-03:00",
+        "tempo_execucao": 4.754560947418213,
+        "id": "e68cbfd2380c9394dae30cb337b6f8cc3e464634"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T20:54:22-03:00",
+        "tempo_execucao": 3.0041470527648926,
+        "id": "24f63b839c12429b14cfe79d23874202f8c24a1e"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T20:59:34-03:00",
+        "tempo_execucao": 12.783432006835938,
+        "id": "53bcf1efd4267cabf61741281a567369ee80c8c6"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T21:01:10-03:00",
+        "tempo_execucao": 8.808925151824951,
+        "id": "a6d2a48cdaa832936056ddf2e0723e681ec710c9"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T21:01:18-03:00",
+        "tempo_execucao": 6.692487955093384,
+        "id": "b4d0f4fb7f1cbc89ab6245d6c29d0653ccac0172"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T21:02:24-03:00",
+        "tempo_execucao": 3.367478847503662,
+        "id": "a87f47713a570a8e07ca2c1279649542f7062b3b"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T21:02:30-03:00",
+        "tempo_execucao": 5.414270877838135,
+        "id": "1a8fa1fbd847c2ec2501f3abf736e0c43af30668"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T21:03:48-03:00",
+        "tempo_execucao": 8.368967056274414,
+        "id": "fd55663e5a02959d2050e1712ba12f80906722d2"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T21:03:52-03:00",
+        "tempo_execucao": 3.680659055709839,
+        "id": "c05ceb9d99dead28bbfbe488653d290e7b6aa8b0"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T21:13:55-03:00",
+        "tempo_execucao": 4.778585910797119,
+        "id": "81c624c1cba1eea0eb2dcc73a4b03c0e24767a5e"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T21:14:01-03:00",
+        "tempo_execucao": 4.96799898147583,
+        "id": "b66766dff4eee9e33052bfcfeee8e2132e8e4767"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T21:14:59-03:00",
+        "tempo_execucao": 4.606421232223511,
+        "id": "3de589a4ac5e96acab33b64af1a1fa660f46435e"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T21:15:03-03:00",
+        "tempo_execucao": 3.216358184814453,
+        "id": "e32e5146808f2955ec84b70647234aaecd7e94b5"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T21:19:38-03:00",
+        "tempo_execucao": 8.49778699874878,
+        "id": "c71c9d3f1daabd87e6ec72d98abb02d512b1a387"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T21:19:43-03:00",
+        "tempo_execucao": 4.176703214645386,
+        "id": "00e927b28d234aafb435aa8cf1a36f2fdd22e038"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T21:22:41-03:00",
+        "tempo_execucao": 4.194473028182983,
+        "id": "99321a92622f90cbacf465437fcefe05fa2afc2c"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T21:22:43-03:00",
+        "tempo_execucao": 1.7759029865264893,
+        "id": "dfe566d5e607222a8564e1e2afe432cc2550df6d"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T21:22:53-03:00",
+        "tempo_execucao": 2.3777389526367188,
+        "id": "a69f0000e98843cb1d5f779fff4043470455e021"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T21:22:57-03:00",
+        "tempo_execucao": 4.065479040145874,
+        "id": "3ac15d083663f61895f7c3e9d58f7c553d80f267"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T21:25:06-03:00",
+        "tempo_execucao": 4.971030950546265,
+        "id": "efc94c6d69e8320d73e7244534f228768f8d589c"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T21:25:10-03:00",
+        "tempo_execucao": 3.8545889854431152,
+        "id": "63e89fa8380481cf54a8ae72f33df32c3cc9a3be"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T21:26:57-03:00",
+        "tempo_execucao": 2.2522571086883545,
+        "id": "cbf9d479068922506cbce5dafe96a50f80102e03"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T21:26:59-03:00",
+        "tempo_execucao": 2.1936099529266357,
+        "id": "a283a90646446bff231b7c3c6300fb4d5d6b56e1"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T21:27:14-03:00",
+        "tempo_execucao": 3.827444076538086,
+        "id": "d2ffe8ae827a9d53a1318feab1aa6f30a3b3a5b7"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T21:27:17-03:00",
+        "tempo_execucao": 2.72933292388916,
+        "id": "428bc7699711fe6ee5cd6773b215e73a631e7a0e"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T21:59:14-03:00",
+        "tempo_execucao": 3.495500087738037,
+        "id": "19acb0efc748c5875c1e52820243e4bd4ddbbdd8"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T21:59:18-03:00",
+        "tempo_execucao": 3.167797088623047,
+        "id": "e748c9ebaa76a29bc5cffb5c15a77738870fa391"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T22:00:44-03:00",
+        "tempo_execucao": 4.551180124282837,
+        "id": "e89c1d48261d657c59c26fed6efa1640efb4f77f"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T22:00:51-03:00",
+        "tempo_execucao": 4.023355960845947,
+        "id": "3ac151f1f49f546642ad9b8fd465ef58fc738d2a"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T23:03:50-03:00",
+        "tempo_execucao": 2.983314037322998,
+        "id": "da00ac69e1407f93dc602ced9b68eabff5bbcdd6"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T23:03:53-03:00",
+        "tempo_execucao": 1.8524858951568604,
+        "id": "c04af93c118a2c376f9a6108096275fec721a88f"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T23:07:06-03:00",
+        "tempo_execucao": 5.418628931045532,
+        "id": "5523d48f6c20f6aded2c2016687ff33d25fb6a93"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T23:07:14-03:00",
+        "tempo_execucao": 5.875211954116821,
+        "id": "243cda9f3bd925113b6a1a219f7c23c33fba421d"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T23:11:15-03:00",
+        "tempo_execucao": 2.821146011352539,
+        "id": "9cce3fc1d5af705b0cdf5d400dddc81f0cce2988"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T23:11:19-03:00",
+        "tempo_execucao": 3.3458690643310547,
+        "id": "8e0f5052daecec1cdb3da864d61c507169100482"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T23:17:02-03:00",
+        "tempo_execucao": 3.5515549182891846,
+        "id": "9434859c781d4640dd75ea00e9809220973b1357"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T23:17:09-03:00",
+        "tempo_execucao": 5.361751079559326,
+        "id": "ae2e4366db18e47e2d0d73745c8294dc03da7c13"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T23:19:06-03:00",
+        "tempo_execucao": 1.920443058013916,
+        "id": "5be753b415993e7d78f1bf189a1a6d284ac4a344"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T23:19:08-03:00",
+        "tempo_execucao": 2.4107649326324463,
+        "id": "9ab3afcac61196faf79907b4df712872531d341b"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T23:19:32-03:00",
+        "tempo_execucao": 1.9750409126281738,
+        "id": "069073220947a83e40baa34b465048d92ccc95dc"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T23:19:50-03:00",
+        "tempo_execucao": 2.30598783493042,
+        "id": "9266915f2bc5ecf6a3b452da350d1d5e3d78b1c5"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "MenuDao",
+        "mensagem": "Buscando menus ATIVOS...",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-23T23:21:10-03:00",
+        "tempo_execucao": 3.4020907878875732,
+        "id": "cc26119b8702b128f61bc81a59a7170504ad8574"
+    }
+]

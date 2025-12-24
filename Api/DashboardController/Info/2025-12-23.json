@@ -1,0 +1,22 @@
+[
+    {
+        "tipo": "Info",
+        "modulo": "DashboardController",
+        "mensagem": "Produto: iniciando cria\u00e7\u00e3o",
+        "arquivo": "DashboardController.php",
+        "linha": 129,
+        "data": "2025-12-23T23:15:00-03:00",
+        "tempo_execucao": 2.1282551288604736,
+        "id": "d9efc510fac9476c9640728e769b4c7a8a7d6c9e"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "DashboardController",
+        "mensagem": "Produto: imagem salva upload\/produtos\/img_694b4ca5c88942.89763679.png",
+        "arquivo": "DashboardController.php",
+        "linha": 129,
+        "data": "2025-12-23T23:15:01-03:00",
+        "tempo_execucao": 3.881131172180176,
+        "id": "e14574b5ade1ec0bfd165a0fd91ea4793e82f08f"
+    }
+]

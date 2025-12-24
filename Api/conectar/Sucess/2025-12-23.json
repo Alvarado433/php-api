@@ -1,0 +1,3952 @@
+[
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:07:01-03:00",
+        "tempo_execucao": 0.22806000709533691,
+        "id": "6f34c83255bcd6b6b1ec81759ad8174706e6458a"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:07:01-03:00",
+        "tempo_execucao": 0.36340808868408203,
+        "id": "8de6745fce41233f3c3bc2ef140e43704b34544e"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:07:08-03:00",
+        "tempo_execucao": 1.1657960414886475,
+        "id": "29f88ddecc534e76a2f1a9da3e2057b62a319601"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:07:09-03:00",
+        "tempo_execucao": 0.44861698150634766,
+        "id": "9371e68484a4310cf50fd8bf912adffaab7f7654"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:07:11-03:00",
+        "tempo_execucao": 2.883044958114624,
+        "id": "62b680ee41c95a7b3c2914baec6d84485923f79e"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:07:13-03:00",
+        "tempo_execucao": 0.04313993453979492,
+        "id": "ed729f9c779d4c2de5bc2b7dae3baf941ba07015"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:07:13-03:00",
+        "tempo_execucao": 0.13277387619018555,
+        "id": "818c5d7996bbf28af8d830956e2c21b7f2ebaac1"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:07:15-03:00",
+        "tempo_execucao": 0.02236795425415039,
+        "id": "9ce1240503cfa1aab81d19788eb23fdbb9648d4d"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:07:16-03:00",
+        "tempo_execucao": 0.04215097427368164,
+        "id": "c0221db4eeae278beae157a78f756acc05d59231"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:07:17-03:00",
+        "tempo_execucao": 0.020908832550048828,
+        "id": "16c5948b653051e04c45effa9047818e079e7230"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:07:17-03:00",
+        "tempo_execucao": 0.14042115211486816,
+        "id": "cc9a429fb14935b92f6da232654df322dc5c866b"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:07:17-03:00",
+        "tempo_execucao": 0.13129496574401855,
+        "id": "836cfb98240ee8ac3a12b871690eadbde4036da8"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:07:18-03:00",
+        "tempo_execucao": 0.0222930908203125,
+        "id": "ce0dd9018e0144b3a696c920156706f12dedc296"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:08:01-03:00",
+        "tempo_execucao": 0.024795055389404297,
+        "id": "51e7d322983496e1d3ca895ea673998dd03fc846"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:08:01-03:00",
+        "tempo_execucao": 0.09836387634277344,
+        "id": "83900a1129b180ebb25ea597fd3f9b3e11e21604"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:08:03-03:00",
+        "tempo_execucao": 0.021881103515625,
+        "id": "3954b93637ef3cecebfe7f2cc5a5f67b0be0180f"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:08:03-03:00",
+        "tempo_execucao": 0.08385014533996582,
+        "id": "dd1fe7da3e866308a93cf3c414ffedff28a60fc2"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:09:46-03:00",
+        "tempo_execucao": 0.10227513313293457,
+        "id": "c692f98f182fe789291b36ca7a076d3e3fa76af4"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:09:46-03:00",
+        "tempo_execucao": 0.10196495056152344,
+        "id": "bf639eb542155285e8cc44f4285bad5fa03a3179"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:09:59-03:00",
+        "tempo_execucao": 0.13310599327087402,
+        "id": "f9af8cd3c02f321685d85801d8adad62e53fca7b"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:09:59-03:00",
+        "tempo_execucao": 0.2636117935180664,
+        "id": "be88a5a8ae4b5fcc482c7f8e0a7aa10628bd9de5"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:10:18-03:00",
+        "tempo_execucao": 0.02585005760192871,
+        "id": "12affb36a8b049608e23f08d2113b61b2a31d601"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:10:18-03:00",
+        "tempo_execucao": 0.03774094581604004,
+        "id": "416dcf57da6e3cdc7807bc804952fcd602149867"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:11:07-03:00",
+        "tempo_execucao": 0.027395009994506836,
+        "id": "3a3d7e4530430f0ac068706d256ca794cc677371"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:11:07-03:00",
+        "tempo_execucao": 0.11976885795593262,
+        "id": "f5727b5f9bba800d3ee52cd9c8bf498f9503b325"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:11:10-03:00",
+        "tempo_execucao": 0.026534080505371094,
+        "id": "e97a16bf46fa886fc8525d96dd166ea98d4370db"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:11:12-03:00",
+        "tempo_execucao": 0.04330706596374512,
+        "id": "84006de2fa50da999da2f041a242a29cbd34ee67"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:11:12-03:00",
+        "tempo_execucao": 0.025928020477294922,
+        "id": "23b47e535f5113948246675168cebfa23ed70817"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:11:12-03:00",
+        "tempo_execucao": 0.04992818832397461,
+        "id": "aa1585924c55d646161e604278c9b1217da7f432"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:11:12-03:00",
+        "tempo_execucao": 0.10215115547180176,
+        "id": "ca1ab7c025b9a97e47d4394f2fa5a5c2d808a96f"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:11:12-03:00",
+        "tempo_execucao": 0.041561126708984375,
+        "id": "f4fecd83e4f80081c5f0a9a9f63253d8c65b2f4c"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:11:15-03:00",
+        "tempo_execucao": 0.021492958068847656,
+        "id": "4cf580f1daefde59eb12c828f1e3214b2ee97646"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:11:15-03:00",
+        "tempo_execucao": 0.02504706382751465,
+        "id": "c2bfa019415f7b22923f69fc538c8d71063f2017"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:11:15-03:00",
+        "tempo_execucao": 0.04411196708679199,
+        "id": "ed24662a7a31e54a57a01121580d9d7144372339"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:11:16-03:00",
+        "tempo_execucao": 0.02219390869140625,
+        "id": "9cb280e8df6716f1932923d2086f0f2d201c1b49"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:11:16-03:00",
+        "tempo_execucao": 0.02798008918762207,
+        "id": "538bfc20627194b4f239837a04215c863360c4e7"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:11:16-03:00",
+        "tempo_execucao": 0.07211017608642578,
+        "id": "96401c36bb539ca2a7131be7a22d1792df7a4eac"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:11:19-03:00",
+        "tempo_execucao": 0.06031394004821777,
+        "id": "7ef854cfbcc0d7dd5c916194d9f4323e670f9667"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:11:19-03:00",
+        "tempo_execucao": 0.023998022079467773,
+        "id": "dcfd81bb92b275f0d47ef0a24ce1e8d46c371160"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:11:21-03:00",
+        "tempo_execucao": 0.022451162338256836,
+        "id": "6c15926564667e43a8e87d4d759d361cc1cb9cbc"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:11:21-03:00",
+        "tempo_execucao": 0.021430015563964844,
+        "id": "5dd8fe9554432af6a077cf2a9dd7b9425154210b"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:11:21-03:00",
+        "tempo_execucao": 0.028816938400268555,
+        "id": "13d0d34dcf3f560019ef151171ff6d00584f7b5a"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:11:23-03:00",
+        "tempo_execucao": 0.03676795959472656,
+        "id": "bad20e2a5fd801e480ff59bda8d85a8bf8cc53d9"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:11:31-03:00",
+        "tempo_execucao": 0.026741981506347656,
+        "id": "fc3c2f904ff644ae62fd1bfc4681db370798afad"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:11:37-03:00",
+        "tempo_execucao": 0.02436995506286621,
+        "id": "ffd7ae793771dbbb1a2d7b41be85b7535f66bf3c"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:11:39-03:00",
+        "tempo_execucao": 0.18712592124938965,
+        "id": "54d0c073214110705af84d02e7139548138c37aa"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:11:40-03:00",
+        "tempo_execucao": 0.1219019889831543,
+        "id": "96572ca0eb84a301bb52a6e4df30717ca5e80205"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:11:44-03:00",
+        "tempo_execucao": 0.15006208419799805,
+        "id": "f7df32b4e0472595e56dbc159aef08a709b7e4b9"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:11:45-03:00",
+        "tempo_execucao": 0.02608799934387207,
+        "id": "4a5dac93206556de8a8eafd9c4ac2af821bd4f9f"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:11:50-03:00",
+        "tempo_execucao": 0.20785903930664062,
+        "id": "219fca192957109853f055b63f6d6c72f284f612"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:11:53-03:00",
+        "tempo_execucao": 0.1461038589477539,
+        "id": "3d9a2f970eaf43b4e8013d126141912db31cf58a"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:11:56-03:00",
+        "tempo_execucao": 0.022274017333984375,
+        "id": "0cacf15db2c38dfc913c867a21b2ef4787b41906"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:12:00-03:00",
+        "tempo_execucao": 2.354423999786377,
+        "id": "60cce1b6b384583907b235f0dd62998095e9c0e2"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:12:00-03:00",
+        "tempo_execucao": 2.3374710083007812,
+        "id": "854fa8e3f55d69b8a01f3b662a8792dfa9067be9"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:12:01-03:00",
+        "tempo_execucao": 0.21817779541015625,
+        "id": "e71423f60e72873bf9e7299814090ab40b11abd3"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:12:03-03:00",
+        "tempo_execucao": 0.0232391357421875,
+        "id": "7b08de67f39359a243439e2e699b3e4ae02e6ae4"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:12:04-03:00",
+        "tempo_execucao": 0.06246519088745117,
+        "id": "217e008169075cc89d3a67ef01d002e60a897865"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:12:04-03:00",
+        "tempo_execucao": 0.025110960006713867,
+        "id": "9a9930eb0af071e62f3b281742f08fd289951806"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:12:05-03:00",
+        "tempo_execucao": 0.02326798439025879,
+        "id": "f89a7d3962c2e049d12f4b5ed8df767c296f9a50"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:12:07-03:00",
+        "tempo_execucao": 0.02371501922607422,
+        "id": "d934bb4ff1d3056e5dfd3d4c411ac6e0b6a6d19b"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:12:10-03:00",
+        "tempo_execucao": 0.024371862411499023,
+        "id": "31d206f074c79b043240b2bec1ebb3d24af24970"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:12:11-03:00",
+        "tempo_execucao": 0.022976160049438477,
+        "id": "79e94b78286c00752ef3777a5607c59762776324"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:12:14-03:00",
+        "tempo_execucao": 0.023012876510620117,
+        "id": "374fbe05ba56eac3f0b3f2356774baca215bbf3e"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:12:17-03:00",
+        "tempo_execucao": 0.1281120777130127,
+        "id": "40b9d711a428eef27d2dd5d5061a4c2ae980b4f9"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:12:17-03:00",
+        "tempo_execucao": 0.07652401924133301,
+        "id": "3afbf1b125543c102934a869f4162bcc9ba75477"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:12:20-03:00",
+        "tempo_execucao": 0.06769394874572754,
+        "id": "13538f0b578e039bd6fb002dee7251c3a56392f2"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:12:20-03:00",
+        "tempo_execucao": 0.09286880493164062,
+        "id": "b4da83e3b35ac02fe6c9b6c7d5f7b9e0223ee7f5"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:12:22-03:00",
+        "tempo_execucao": 0.02303004264831543,
+        "id": "fce720cbafd15175ce13554361ee4b41feb1d589"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:12:23-03:00",
+        "tempo_execucao": 0.06873583793640137,
+        "id": "580cce2b664fdf01fce8d243812eaf144a20d05f"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:12:24-03:00",
+        "tempo_execucao": 0.022001981735229492,
+        "id": "c1efd3dbafc0c505c1c5b54022ad4726182ea18b"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:12:27-03:00",
+        "tempo_execucao": 0.029826879501342773,
+        "id": "0d304f879b7018fe80922f7b0e8fa0619fa59e08"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:12:29-03:00",
+        "tempo_execucao": 0.02155303955078125,
+        "id": "0d021be51e871c2aa9f99d6371d51012ed00e80b"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:12:31-03:00",
+        "tempo_execucao": 0.026707887649536133,
+        "id": "4110c9770d924c06a2fbd7d4efbc611354ec69cd"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:12:33-03:00",
+        "tempo_execucao": 0.022658109664916992,
+        "id": "5ef3be8b10fa21d8bc46833e7dac7144ddb158b2"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:12:35-03:00",
+        "tempo_execucao": 0.037957191467285156,
+        "id": "2d5ee5d66bd449e2f436a037d1641d49c8a5fc18"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:12:37-03:00",
+        "tempo_execucao": 0.022269010543823242,
+        "id": "6514c7dd0952601a0d7977aa0014a67a4a7d0ab8"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:12:39-03:00",
+        "tempo_execucao": 0.02171492576599121,
+        "id": "a5b6bc56081927c3078b340505a51b438f022486"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:12:41-03:00",
+        "tempo_execucao": 0.02814197540283203,
+        "id": "18ebab69f75c1b62a2796196b3618cbd06908da1"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:12:43-03:00",
+        "tempo_execucao": 0.025133848190307617,
+        "id": "c4fe09b42e1d7cc8e05bddad1232d871b9726413"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:12:45-03:00",
+        "tempo_execucao": 0.07049393653869629,
+        "id": "b725bb01b9303d64c4e9a38862c52643d3d9b336"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:12:48-03:00",
+        "tempo_execucao": 0.1327509880065918,
+        "id": "6d8066edfd8878c149741157081c3d2bde55c755"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:12:51-03:00",
+        "tempo_execucao": 0.02408885955810547,
+        "id": "e7f55b8eb7850a01a9546fc40359645f64fb4cfb"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:12:54-03:00",
+        "tempo_execucao": 0.03107309341430664,
+        "id": "e75bb048b643b316db4252b47959390d828c0b45"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:12:56-03:00",
+        "tempo_execucao": 0.023634910583496094,
+        "id": "84f35e136e55f3ac2ec1aa70756fd52e5d565e12"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:12:59-03:00",
+        "tempo_execucao": 0.024489164352416992,
+        "id": "d2b3ea36ad9bf65efc1eb5e11aebe417af45c99d"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:13:03-03:00",
+        "tempo_execucao": 0.02351999282836914,
+        "id": "639e514ae88c3abbc79cd7e87c2f6891497a9679"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:13:06-03:00",
+        "tempo_execucao": 0.034707069396972656,
+        "id": "f8e40e89c096fe41842676512cfd42805c5b33b4"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:13:09-03:00",
+        "tempo_execucao": 0.025681018829345703,
+        "id": "4438c422b587d02a1b0c921df81e0562f64e7f1f"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:13:11-03:00",
+        "tempo_execucao": 0.028657913208007812,
+        "id": "a84c6ba687132a8ce6f5397c70a1d247fae59829"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:13:14-03:00",
+        "tempo_execucao": 0.03809499740600586,
+        "id": "2c64d980215b6c34d8960e939fc3596b9b32a075"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:13:17-03:00",
+        "tempo_execucao": 0.02483510971069336,
+        "id": "dd6ff985e3cf1dfac0c7314e8254754ba2f0a944"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:13:20-03:00",
+        "tempo_execucao": 0.02396392822265625,
+        "id": "d2aa2dfb8e9da19674ba4f718b38278b5242e3bd"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:13:21-03:00",
+        "tempo_execucao": 0.1305539608001709,
+        "id": "92db1fdb7c0ac87a43c38484c5e9f5977a825c34"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:13:22-03:00",
+        "tempo_execucao": 0.025139808654785156,
+        "id": "d0001787290d48cd8de22ffa21d7cd4680bcc709"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:13:24-03:00",
+        "tempo_execucao": 0.027682065963745117,
+        "id": "7502f1fe85746d00d9b59a0cae7aff309345b2af"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:13:26-03:00",
+        "tempo_execucao": 0.0628821849822998,
+        "id": "a6eea0aa86be6073ac5008d3501ae23d69817d61"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:13:26-03:00",
+        "tempo_execucao": 0.025165796279907227,
+        "id": "e2cf1401f7b224b873b1530a4641ad0e3834d78e"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:13:28-03:00",
+        "tempo_execucao": 0.05165386199951172,
+        "id": "d59cf61a81a507a6e98f0312d9228a19853fe0c8"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:13:28-03:00",
+        "tempo_execucao": 0.02383708953857422,
+        "id": "be963cbf89728b63f9405d151344c83c5dd93f25"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:13:29-03:00",
+        "tempo_execucao": 0.02357792854309082,
+        "id": "12450610cc8f41a6554c3b759651433c5fe4ff6c"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:13:31-03:00",
+        "tempo_execucao": 0.08862185478210449,
+        "id": "593787dd7461ea38424d888e7130b3f9f889f276"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:13:31-03:00",
+        "tempo_execucao": 0.04419207572937012,
+        "id": "4490908ee5600028dc7aa359fd302466efd255b9"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:13:32-03:00",
+        "tempo_execucao": 0.05216407775878906,
+        "id": "dc737982ae124f0654cfec09d4a17201541efdca"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:13:32-03:00",
+        "tempo_execucao": 0.03691887855529785,
+        "id": "820cd196cabd1812cad7411fda29885d37a176a4"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:13:33-03:00",
+        "tempo_execucao": 0.02401900291442871,
+        "id": "831b037a54dc30570720a25a57e481b6a8ce3a25"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:13:35-03:00",
+        "tempo_execucao": 0.028573036193847656,
+        "id": "ffbf1797c80d5a3e70be26987dc61509a2d2e99b"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:13:37-03:00",
+        "tempo_execucao": 0.0632479190826416,
+        "id": "5224b1482a2c48d392ce02ff76f8a20923ad914d"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:13:38-03:00",
+        "tempo_execucao": 0.025564193725585938,
+        "id": "630a41f16fe0280de2ecd5b560bb2adf563735b7"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:13:40-03:00",
+        "tempo_execucao": 0.025007963180541992,
+        "id": "d39db91ac3f994421b8fd22fe9072398541e54bf"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:13:42-03:00",
+        "tempo_execucao": 0.023281097412109375,
+        "id": "9bc9a05129d0689f4703f9db041941579bc76161"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:13:44-03:00",
+        "tempo_execucao": 0.027019977569580078,
+        "id": "2c93c340aca86f8ad25efe1440ead1df37007551"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:13:46-03:00",
+        "tempo_execucao": 0.025994062423706055,
+        "id": "659d86ec0b567475e072893ef9de7ff1842a8b78"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:13:49-03:00",
+        "tempo_execucao": 0.03688502311706543,
+        "id": "c054d522454a35a0e9a840e28764185ec25f8229"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:13:51-03:00",
+        "tempo_execucao": 0.14865803718566895,
+        "id": "6924082032e6977b119081cf79d82ec326d7a883"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:13:51-03:00",
+        "tempo_execucao": 0.03185105323791504,
+        "id": "9ba99ca3dc1ec4cfe9f545134404f77db62b0faa"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:13:53-03:00",
+        "tempo_execucao": 0.5528969764709473,
+        "id": "4d6e634fe41f7f093c6e574ea5a2fdb72112be60"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:13:56-03:00",
+        "tempo_execucao": 0.413330078125,
+        "id": "6f2d70bf62694af812bddc31ff8c4f3f42dbe798"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:13:58-03:00",
+        "tempo_execucao": 0.03952598571777344,
+        "id": "e2bb0067d3ad54669b734fdfd334652a9a86efca"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:14:00-03:00",
+        "tempo_execucao": 0.02632904052734375,
+        "id": "12f59e66e677eaf9e386bab1335080baee2a2299"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:14:04-03:00",
+        "tempo_execucao": 0.28107190132141113,
+        "id": "b15f2ff66756da53e010b6ce0f66961ac7af092e"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:14:04-03:00",
+        "tempo_execucao": 0.32289791107177734,
+        "id": "5332b40106cb2ea100825c4ab8e14a68763d4dcf"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:14:06-03:00",
+        "tempo_execucao": 0.05840706825256348,
+        "id": "eb9c6c47bdb16e696c971c9d8465155789a22f8c"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:14:06-03:00",
+        "tempo_execucao": 0.38438892364501953,
+        "id": "9e833dd2b54eaafbf39cf2ddc429dd82bb7d58c4"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:14:10-03:00",
+        "tempo_execucao": 0.2378699779510498,
+        "id": "959f868990e858a537b660f4fa761022d74c7b69"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:14:14-03:00",
+        "tempo_execucao": 0.09609198570251465,
+        "id": "3abd736ffe6abcba602e6ed661128b5f91494384"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:14:14-03:00",
+        "tempo_execucao": 0.024020910263061523,
+        "id": "b57db57c0a0e5c0d58580dd96a252d6c1d4890e2"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:14:16-03:00",
+        "tempo_execucao": 0.0230560302734375,
+        "id": "f756632522f21b4a5707a6157bc01e1fbee467fc"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:14:17-03:00",
+        "tempo_execucao": 0.026517152786254883,
+        "id": "f6cff5289ff74edb5fb1e42cdccf7739aaa18a41"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:14:20-03:00",
+        "tempo_execucao": 0.021887779235839844,
+        "id": "8e75dee4253bd15976ad97bb2d910d987d2569be"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:14:24-03:00",
+        "tempo_execucao": 0.021548986434936523,
+        "id": "ff8b6c93193c71f745be6eeafd60cc7723f8e477"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:14:25-03:00",
+        "tempo_execucao": 0.05073213577270508,
+        "id": "3a586257100011f6f8a296f26b84691c1fd57931"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:14:27-03:00",
+        "tempo_execucao": 0.022439956665039062,
+        "id": "30614286a7d06d5cc540000b973b0a9d06b13879"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:14:30-03:00",
+        "tempo_execucao": 0.05551791191101074,
+        "id": "047f49f49f4b864f3a767f811a4435e9651608e1"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:14:31-03:00",
+        "tempo_execucao": 0.02163100242614746,
+        "id": "871f33b7519ebb93b3ce5f924751d38913866a31"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:14:33-03:00",
+        "tempo_execucao": 0.023009061813354492,
+        "id": "7eb4ecfae07353005976e7e12474138d14c493f6"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:14:35-03:00",
+        "tempo_execucao": 0.022463083267211914,
+        "id": "00d6a5bfe32c19676db64c022beeb07742e36248"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:14:38-03:00",
+        "tempo_execucao": 0.025251150131225586,
+        "id": "5bd8d19b72e78a0928e6a1b7afb641498b342ba8"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:14:40-03:00",
+        "tempo_execucao": 0.022088050842285156,
+        "id": "4efac5572ed59f3f3c74f4fa01610bb9fd9216b0"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:14:42-03:00",
+        "tempo_execucao": 0.023971080780029297,
+        "id": "ae7c9b2a893c93b43a05870d8dad6eca6a286d6d"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:14:45-03:00",
+        "tempo_execucao": 0.023329973220825195,
+        "id": "ea343a6b3413fef3bfa5643a884c50b3dabf1392"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:14:47-03:00",
+        "tempo_execucao": 0.022344112396240234,
+        "id": "592c7a9e6f2d26857f01c7330d9aa37fa357886c"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:14:50-03:00",
+        "tempo_execucao": 0.04317593574523926,
+        "id": "3437baa91a7a30dd8b3ab2df7fbaf7adbd609bac"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:14:52-03:00",
+        "tempo_execucao": 0.05209994316101074,
+        "id": "f455f75520fb1ed1315c4471fa35f869463b8577"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:14:54-03:00",
+        "tempo_execucao": 0.02165699005126953,
+        "id": "9e8095d8ab33a83884cf762c5d2687deae8c5fc6"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:14:57-03:00",
+        "tempo_execucao": 0.027516841888427734,
+        "id": "3f083394e177968b2e24254482ad6a52655a2812"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:14:58-03:00",
+        "tempo_execucao": 0.16092610359191895,
+        "id": "c21949c0113a9b20bd7a504296cbe72162e84d7d"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:14:59-03:00",
+        "tempo_execucao": 0.1297140121459961,
+        "id": "ed35b880d6935bbea9a1cb76f6e9dd6f7973d913"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:15:00-03:00",
+        "tempo_execucao": 0.09876704216003418,
+        "id": "ce437e52d73e0d78cb15aafcb3acddf18dd3a7f6"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:15:02-03:00",
+        "tempo_execucao": 0.022156953811645508,
+        "id": "fe8dde37c5dc31123d47c024c9048e2ac8faf196"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:15:04-03:00",
+        "tempo_execucao": 0.024291038513183594,
+        "id": "766bac008841a75beb1cf7ff6752c376c5f21c76"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:15:06-03:00",
+        "tempo_execucao": 0.026944875717163086,
+        "id": "1e41d85c04c55211eec113c21eaf056facd2dbb4"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:15:08-03:00",
+        "tempo_execucao": 0.024771928787231445,
+        "id": "5cd342b76c676ba31fe3f230eedb3b1047146b26"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:15:23-03:00",
+        "tempo_execucao": 2.4780309200286865,
+        "id": "527545449f8d67436991cad6a6dc3f96afc4a9ee"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:15:39-03:00",
+        "tempo_execucao": 0.1587212085723877,
+        "id": "378b99530fb3299b69aea70ec18694cd5f3a35a2"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:16:09-03:00",
+        "tempo_execucao": 0.4718971252441406,
+        "id": "1a4117b15ac8bcd989f88aafadeeff7b601c0e20"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:16:13-03:00",
+        "tempo_execucao": 0.028625965118408203,
+        "id": "199472590397fbbda8e374a5acbae420933f2c20"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:16:13-03:00",
+        "tempo_execucao": 0.0935521125793457,
+        "id": "90bf2ed901f6b0e4fc2199a9e49e274683e73c41"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:16:16-03:00",
+        "tempo_execucao": 0.08573603630065918,
+        "id": "06a4863b54550cf952706b13eb60ea200f2e0757"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:16:17-03:00",
+        "tempo_execucao": 0.02890300750732422,
+        "id": "db3fded5960aa8833a25c841860a9a540240aa2a"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:16:20-03:00",
+        "tempo_execucao": 0.027420997619628906,
+        "id": "a357d85d866f9360fd27c36c964d00d1fb663831"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:16:21-03:00",
+        "tempo_execucao": 0.14876604080200195,
+        "id": "8096e20385bf2848899bfef1e41a1733a188570b"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:16:21-03:00",
+        "tempo_execucao": 0.029881954193115234,
+        "id": "9c0420c7ec09acee3206ff35b32136502d56aa34"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:16:23-03:00",
+        "tempo_execucao": 0.04006814956665039,
+        "id": "9ad5edb8973fed1735ce1b41b46da9bf7cf63f39"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:16:24-03:00",
+        "tempo_execucao": 0.024670124053955078,
+        "id": "d00e9ba8bd7786fea27755d6f1e721dc0fa04c40"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:16:24-03:00",
+        "tempo_execucao": 0.05898404121398926,
+        "id": "64358183d28b25aa9de27527600c487c2d1b2c0f"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:16:24-03:00",
+        "tempo_execucao": 0.04685187339782715,
+        "id": "8aa3e3f5701ff9fa9ce230f05e34b28fcc93c4fd"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:16:26-03:00",
+        "tempo_execucao": 0.025964021682739258,
+        "id": "b4136f183093e004f4fc6f866df3f88916b9417d"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:16:28-03:00",
+        "tempo_execucao": 0.026038169860839844,
+        "id": "4caae8fe214a5681d20ab8bea24cb1f7349fa207"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:16:30-03:00",
+        "tempo_execucao": 0.03359198570251465,
+        "id": "4631a9004b97610f139e0a25cb96a8cdbc99905f"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:16:32-03:00",
+        "tempo_execucao": 0.04176902770996094,
+        "id": "f58896dc4666da3f238c1435b1aadf0b800ed8d9"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:16:34-03:00",
+        "tempo_execucao": 0.026113033294677734,
+        "id": "de2313ac6831132eee6fb891c06a029272b81f8a"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:16:36-03:00",
+        "tempo_execucao": 0.04057812690734863,
+        "id": "ffef2cbc7af90c9335bcb9bdeb7488255d2db929"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:16:38-03:00",
+        "tempo_execucao": 0.013507843017578125,
+        "id": "5b15c01da5ec6931ffa31dd76132fe9a9b22c742"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:16:38-03:00",
+        "tempo_execucao": 0.0358738899230957,
+        "id": "c43bb0680ae1bb1c2b56ad0f021b9cccce1c9759"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:16:38-03:00",
+        "tempo_execucao": 0.0479130744934082,
+        "id": "859ad15fdd24940a764be47965be9d3c794e7d49"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:16:40-03:00",
+        "tempo_execucao": 0.024464130401611328,
+        "id": "618d816d3b673e218ae9aaefc25b7edee9c7eeb0"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:16:42-03:00",
+        "tempo_execucao": 0.025091171264648438,
+        "id": "2240536274eed712268e5c6b996fb111b85ba7e8"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:16:44-03:00",
+        "tempo_execucao": 0.02361607551574707,
+        "id": "5e453a3d8eb92234f7640bcf38eef84dc2cafeba"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:16:46-03:00",
+        "tempo_execucao": 0.026823997497558594,
+        "id": "fa5d7b176e4f103f462ade59f98ab3b6d7437910"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:16:48-03:00",
+        "tempo_execucao": 0.02393484115600586,
+        "id": "6dfcde1a11ecf5d23fa78a51d1b3888e9ad7c934"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:16:50-03:00",
+        "tempo_execucao": 0.028464078903198242,
+        "id": "b567e12d7d79de78e2202499f8ee7f942ef26ed8"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:16:52-03:00",
+        "tempo_execucao": 0.024873018264770508,
+        "id": "06da6751c84c27cd3a8c635177bf60900fbbe15f"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:16:54-03:00",
+        "tempo_execucao": 0.032842159271240234,
+        "id": "187b25597a0e78bf4942c8f4b503aaa974c4f8bc"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:16:57-03:00",
+        "tempo_execucao": 0.07885599136352539,
+        "id": "d0aa6090d3eba732b0ca294ab034a19cbc199fb8"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:16:59-03:00",
+        "tempo_execucao": 0.02562403678894043,
+        "id": "4ada11372035c1a04fb4ff4419e36ad64049ee26"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:16:59-03:00",
+        "tempo_execucao": 0.03947806358337402,
+        "id": "c1fe2306972dbb80f1afb6811a583e037b828a61"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:16:59-03:00",
+        "tempo_execucao": 0.038082122802734375,
+        "id": "275ff84c57af2c1b0f24cc6b2f525ace83523676"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:16:59-03:00",
+        "tempo_execucao": 0.04212594032287598,
+        "id": "dc035b331d2bfbdaff1a4a26164bd72d3291c95b"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:17:02-03:00",
+        "tempo_execucao": 0.046653032302856445,
+        "id": "471f32eec8036fc75dcae267eeac336abaa971ba"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:17:03-03:00",
+        "tempo_execucao": 0.02388906478881836,
+        "id": "5c69745d89bb846db735ca3922ab0bed1134621a"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:17:03-03:00",
+        "tempo_execucao": 0.020960092544555664,
+        "id": "d4b4e38685bf07dacde507558cb6bd8e3a29d9e5"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:17:03-03:00",
+        "tempo_execucao": 0.021368026733398438,
+        "id": "3bdd7acc4af2fbf391bcff7e256022c6f60418eb"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:17:03-03:00",
+        "tempo_execucao": 0.024658918380737305,
+        "id": "ca5a4c800b9e96b22a77aa1978a7db293e63a09f"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:17:03-03:00",
+        "tempo_execucao": 0.02524113655090332,
+        "id": "0487cde005699cf4a3893152936764972ec50564"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:17:06-03:00",
+        "tempo_execucao": 0.031372785568237305,
+        "id": "e436646a55d2008cc0db40de532ea23394211799"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:17:07-03:00",
+        "tempo_execucao": 0.06669402122497559,
+        "id": "d5ba829c86974227bf99404ce9d34f5279ffa5e1"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:17:09-03:00",
+        "tempo_execucao": 0.02244710922241211,
+        "id": "3f81eba5192fe0cb549cafc7973eb0f26779549c"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:17:10-03:00",
+        "tempo_execucao": 0.02343297004699707,
+        "id": "a954758a4dc1d1120347e246086b7e7883a2a93a"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:17:11-03:00",
+        "tempo_execucao": 0.02297210693359375,
+        "id": "cb88472e39bb6b969841a18d7bbfae42a1c2bed1"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:17:11-03:00",
+        "tempo_execucao": 0.02188420295715332,
+        "id": "f2e76aa1f2c77b98121a5bc9829a937c1b79420c"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:17:12-03:00",
+        "tempo_execucao": 0.02171802520751953,
+        "id": "174396cb1aa3fbd34955b576c2cf3c531d3f5695"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:17:13-03:00",
+        "tempo_execucao": 0.022589921951293945,
+        "id": "a8cf6944e626b0fb7a473ca0b354d59a93181555"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:17:14-03:00",
+        "tempo_execucao": 0.022929906845092773,
+        "id": "289a0c67683592f55fdc6b4c1eff33bdae9a22cd"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:19:04-03:00",
+        "tempo_execucao": 0.09953594207763672,
+        "id": "282db8c2867da6b29f65f44596139c183d1d30da"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:19:04-03:00",
+        "tempo_execucao": 0.13919401168823242,
+        "id": "9306c694cc496a2704990585c666f132a7405fc1"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:19:04-03:00",
+        "tempo_execucao": 0.2045738697052002,
+        "id": "af672cac234c4c65b8546675e8bc6c6fde326f53"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:19:06-03:00",
+        "tempo_execucao": 0.05426597595214844,
+        "id": "d99eba8cb9b92a3c164719de0e7add20a62b8974"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:19:06-03:00",
+        "tempo_execucao": 0.05666995048522949,
+        "id": "63195dd589fdfdc2908bfb0bcdbd6394b29ce43b"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:19:06-03:00",
+        "tempo_execucao": 0.03400707244873047,
+        "id": "4239005f481703c520eecc3ab0656450df842568"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:19:06-03:00",
+        "tempo_execucao": 0.027119874954223633,
+        "id": "a5d3ccd7fdb083045580b2e010e31d8b814bda8f"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:19:06-03:00",
+        "tempo_execucao": 0.02704000473022461,
+        "id": "472f3db6670adfb0ff3c42bdc687a007f50a6293"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:19:08-03:00",
+        "tempo_execucao": 0.023273944854736328,
+        "id": "a2c08ff2688bc27d8fe827f1ab88f4c74172e343"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:19:08-03:00",
+        "tempo_execucao": 0.037960052490234375,
+        "id": "9e3f900717dda010933f3d6716b4c18439b7aba0"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:19:10-03:00",
+        "tempo_execucao": 0.02614593505859375,
+        "id": "58c2c4b256c37859ed9b4a8ea1605bbed598c959"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:19:11-03:00",
+        "tempo_execucao": 0.023646116256713867,
+        "id": "17ce87a7d06ca7a5bee400ddb0b581b4ada4a77d"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:19:11-03:00",
+        "tempo_execucao": 0.0315699577331543,
+        "id": "5955cc1f2f1a6de55ff6b3e50adcfba8563f25db"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:19:13-03:00",
+        "tempo_execucao": 0.024235010147094727,
+        "id": "8aaa918334d558bcbdbb120839914508af20b5b7"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:19:30-03:00",
+        "tempo_execucao": 0.031768083572387695,
+        "id": "5320e13b2aaebf7d0a40713d3608fe3b0ed6de93"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:19:30-03:00",
+        "tempo_execucao": 0.06843996047973633,
+        "id": "0b455c0e56b742c8ee437d2193b28ba884461831"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:19:30-03:00",
+        "tempo_execucao": 0.03836703300476074,
+        "id": "21f1945e7104d3e777453908cfad333d084802e8"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:19:30-03:00",
+        "tempo_execucao": 0.07930803298950195,
+        "id": "96b38e4a764c7bb1eef63d1fc24242c442d46726"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:19:32-03:00",
+        "tempo_execucao": 0.029626846313476562,
+        "id": "a9c10c44a30f80ce7af83f1d3d38bbd459d5d20b"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:19:32-03:00",
+        "tempo_execucao": 0.054411888122558594,
+        "id": "1aac96378c49ea0dd5dae1625b54349e71d7695e"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:19:34-03:00",
+        "tempo_execucao": 0.025265932083129883,
+        "id": "b1d1bd67eddcd7e06d706fbd26cf12a1fd41cb27"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:19:34-03:00",
+        "tempo_execucao": 0.024693012237548828,
+        "id": "e88c4390b0fc01efb148fda08c016f10c076b5ea"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:19:36-03:00",
+        "tempo_execucao": 0.06524014472961426,
+        "id": "965be4fe5541a8dd6744f944bf356823cb42c6a8"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:19:36-03:00",
+        "tempo_execucao": 0.0730581283569336,
+        "id": "b8326c89cce6ea0648cbb91fc6bc17b418e9d3c5"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:19:37-03:00",
+        "tempo_execucao": 0.02648186683654785,
+        "id": "58039997f15acedc5af817ee79639c003da09082"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:19:47-03:00",
+        "tempo_execucao": 0.027261972427368164,
+        "id": "2b94cb34a5dde64b20c60354b672b6e65fdff316"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:19:47-03:00",
+        "tempo_execucao": 0.047354936599731445,
+        "id": "55a5efd97f728617313bea260a538cea889557fa"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:19:47-03:00",
+        "tempo_execucao": 0.06672096252441406,
+        "id": "02b2c44e3164905548645a109f9385d00486da14"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:19:48-03:00",
+        "tempo_execucao": 0.1667931079864502,
+        "id": "e4dfb59cf719a6a85248ac03df85faf34081afb1"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:20:01-03:00",
+        "tempo_execucao": 4.084152936935425,
+        "id": "8b465022bfdc950ff9167e3acccf226728d0f167"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:20:03-03:00",
+        "tempo_execucao": 5.6616291999816895,
+        "id": "2f1c5583ca77abf9f08916225f2e9293e61e4ad0"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:20:11-03:00",
+        "tempo_execucao": 0.029791831970214844,
+        "id": "55f49b418b009c406b5ecb0b8b7a071c99663c7f"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:20:11-03:00",
+        "tempo_execucao": 0.04185891151428223,
+        "id": "06c7a3b913e43c18ca7e6b164629181abca85452"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:20:14-03:00",
+        "tempo_execucao": 0.02334880828857422,
+        "id": "9f6e8fd0d0a05b9acf6a4c21b6f61616329375f5"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:20:15-03:00",
+        "tempo_execucao": 0.02368307113647461,
+        "id": "291f8332d984d0f3a40377b9d99f4c2bea3b72f2"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:20:16-03:00",
+        "tempo_execucao": 0.1195061206817627,
+        "id": "3958dd2270c775e4bc7d8af474eafe577b27f0d2"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:21:07-03:00",
+        "tempo_execucao": 0.030540943145751953,
+        "id": "b74a60d2536dfadf38d6e5e8bec726508a1e4a35"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:21:07-03:00",
+        "tempo_execucao": 0.05066800117492676,
+        "id": "229a4823d873e54939467cf10c03eca43a444a69"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:21:07-03:00",
+        "tempo_execucao": 0.08353996276855469,
+        "id": "5453bcb11dc694cf374cb064a6640e24216f0219"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:21:11-03:00",
+        "tempo_execucao": 0.03221487998962402,
+        "id": "cb4a6f2d96710e2739cd8847a6640dbe1f7004ff"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:21:14-03:00",
+        "tempo_execucao": 0.014066934585571289,
+        "id": "e0af9f032fe770fda9f888f5affa4fedebab59f2"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:21:14-03:00",
+        "tempo_execucao": 0.02638101577758789,
+        "id": "ca3851d15ec547a6a18fcb17b2a5ad8e7b0d2390"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:21:18-03:00",
+        "tempo_execucao": 0.030380964279174805,
+        "id": "dac1471925cd8b1100f05f505dc6277eec1d310e"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:21:18-03:00",
+        "tempo_execucao": 0.37019801139831543,
+        "id": "0e6c5636801ccf672551fbaa13e34c92247b7c82"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:21:21-03:00",
+        "tempo_execucao": 0.047749996185302734,
+        "id": "69915f5525a436a2db4f173a9a026d3a9e2ef95e"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:21:28-03:00",
+        "tempo_execucao": 2.5948538780212402,
+        "id": "eb84b23ec43b8fe9ae19584b8cda14877e92947a"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:21:32-03:00",
+        "tempo_execucao": 0.047044992446899414,
+        "id": "c8e0cd6a9b60f8b1e8907835faef7980f2d8de6f"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:21:32-03:00",
+        "tempo_execucao": 0.30985593795776367,
+        "id": "6a45f96297f894bacf33233fd779deda70fbc360"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:21:35-03:00",
+        "tempo_execucao": 0.060228824615478516,
+        "id": "bf1a579c6843004519bff549c60c1803f9c4ffc6"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:21:36-03:00",
+        "tempo_execucao": 0.25969719886779785,
+        "id": "ae3a9102d389d03f6e22141c922ee72278c9a419"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:21:39-03:00",
+        "tempo_execucao": 0.0241239070892334,
+        "id": "8d4f900f0480a21d0c70b83ecf75ec52d7072536"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:21:44-03:00",
+        "tempo_execucao": 0.02376389503479004,
+        "id": "f5c4043eb86023ff2c7a25a0ea11c0ed58e1e70a"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:21:47-03:00",
+        "tempo_execucao": 0.024662017822265625,
+        "id": "6fe6fecb2c2eb797e630eafa1e58feab9ff159be"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:21:50-03:00",
+        "tempo_execucao": 0.022871017456054688,
+        "id": "4b6853a1716108fed163c0d9185e5aa9c32e016a"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:21:52-03:00",
+        "tempo_execucao": 0.024464130401611328,
+        "id": "ef3a9d1036c2f293826b630f339ac888f90394d9"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:21:55-03:00",
+        "tempo_execucao": 0.04543304443359375,
+        "id": "0b5189cb0ff536900bc0bbabc62094ffcfe5dcf4"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:21:57-03:00",
+        "tempo_execucao": 0.022933006286621094,
+        "id": "1b646105fbb1c2d32ba7fc6e581a1f4ca70b3466"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:22:01-03:00",
+        "tempo_execucao": 0.02548503875732422,
+        "id": "6499d4da3d9207904ea8a32640e17855076329ee"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:22:03-03:00",
+        "tempo_execucao": 0.06262493133544922,
+        "id": "a9f2cdf58a447627d1191ee5b1d9b11d052e1942"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:22:07-03:00",
+        "tempo_execucao": 0.08634281158447266,
+        "id": "bc6d6cfd16cc07e8b0f766e138872be3b9056e44"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:22:12-03:00",
+        "tempo_execucao": 0.23652982711791992,
+        "id": "4d793658e41acdd0f5dff4e9302fc0364ef4a780"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:22:15-03:00",
+        "tempo_execucao": 0.029874086380004883,
+        "id": "f2722c245000640555a0a67948bb5acde9213880"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:22:18-03:00",
+        "tempo_execucao": 0.13310909271240234,
+        "id": "72cfccfce7068a00088773408ad2d41514acf75b"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:22:21-03:00",
+        "tempo_execucao": 0.023411035537719727,
+        "id": "f754797ba7eb04ece4ff1bc9ad934554fdd76202"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:22:23-03:00",
+        "tempo_execucao": 0.023894071578979492,
+        "id": "c1b003dd3caa30d6d5b30b3e0ed2cf760e676d62"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:22:26-03:00",
+        "tempo_execucao": 0.09726214408874512,
+        "id": "3042296e9c29d2c3430ee7c3f0031c5339938ff8"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:22:29-03:00",
+        "tempo_execucao": 0.023489952087402344,
+        "id": "5bac6f812e627451200c150e7c0dc82f8e2f6c6b"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:22:32-03:00",
+        "tempo_execucao": 0.02647113800048828,
+        "id": "fd38e5f22c604bb3a7099b78aac41b2f0e49ce72"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:22:35-03:00",
+        "tempo_execucao": 0.1585681438446045,
+        "id": "f40a8e6f124bc14b9df0f8276ed499ad85349906"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:22:38-03:00",
+        "tempo_execucao": 0.027452945709228516,
+        "id": "a4a20ed5f37467db3ea59799f3e7ef99307584c9"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:22:42-03:00",
+        "tempo_execucao": 0.02642202377319336,
+        "id": "297f62d32d8de6769205dcf2effe30dee74ad5c5"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:22:45-03:00",
+        "tempo_execucao": 0.05626511573791504,
+        "id": "417a52c5218c7cc5ee0cc0c02987d636b23343e9"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:22:49-03:00",
+        "tempo_execucao": 0.10942697525024414,
+        "id": "a8d559a29dd76dfad1bc4a4e2afa064ff4e7e5b0"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:22:53-03:00",
+        "tempo_execucao": 0.028383970260620117,
+        "id": "e9a4322c299011c94efb1f4ec150b8cbfdc409f5"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:22:58-03:00",
+        "tempo_execucao": 0.02572798728942871,
+        "id": "189034da49f395dc4e502f92412ec14ff53bc0af"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:23:04-03:00",
+        "tempo_execucao": 0.20440387725830078,
+        "id": "a4486d8692b37a136a16cc341a090e3730c4db3e"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:23:11-03:00",
+        "tempo_execucao": 0.0418701171875,
+        "id": "7bc37232eb527143a53b6e44ebed0da6543cbd10"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:23:15-03:00",
+        "tempo_execucao": 0.03137683868408203,
+        "id": "383f90b16b380bb95793e2d684353ed13dbf794e"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:23:23-03:00",
+        "tempo_execucao": 0.1274118423461914,
+        "id": "5c2960c4a1ebaa8bf83044dd7a9e55cccbc671cd"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:23:28-03:00",
+        "tempo_execucao": 0.029758214950561523,
+        "id": "f30af2db3a7f2a6be8fc0b8ce1729155c163ad9c"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:23:34-03:00",
+        "tempo_execucao": 0.030470848083496094,
+        "id": "64382ff313c62aeafe226eb47c90252f0497f90f"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:23:41-03:00",
+        "tempo_execucao": 0.7236430644989014,
+        "id": "8325e1281ba2b3503b7e3e7501c4cd05c6c814e3"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:23:47-03:00",
+        "tempo_execucao": 0.06351089477539062,
+        "id": "06e10b5701dd0a40372ba716dcafd7c47daef444"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:23:53-03:00",
+        "tempo_execucao": 0.026535987854003906,
+        "id": "41f78e0cb1b5b6814d3660f6b86038010633d8cf"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:23:58-03:00",
+        "tempo_execucao": 0.027914047241210938,
+        "id": "c7e30f1dd6668a94f50ee43cfb6bfaee9183027c"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:24:04-03:00",
+        "tempo_execucao": 0.03086400032043457,
+        "id": "0c3b85c90daad1863f768580c3f74cc36cb02685"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:24:11-03:00",
+        "tempo_execucao": 0.11638903617858887,
+        "id": "291ded825553ca06bcd21c6da9a5873e6a579cd4"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:24:15-03:00",
+        "tempo_execucao": 0.026530027389526367,
+        "id": "336c115bb25d705996b5d0cbce2beb66af0397c7"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:24:21-03:00",
+        "tempo_execucao": 0.0637810230255127,
+        "id": "2773b5d9b4c3a04d09da2104f9974f71f5a311fb"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:24:26-03:00",
+        "tempo_execucao": 0.08852887153625488,
+        "id": "6f9c9a3968379630449112d0d3d3c5291768f864"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:24:31-03:00",
+        "tempo_execucao": 0.02594590187072754,
+        "id": "e9877bcee6a4ea7ccc44f0f5e7e688531072534d"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:24:36-03:00",
+        "tempo_execucao": 0.02690601348876953,
+        "id": "b3474f8a8ad8ea641d602b0109f107949b88603f"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:24:43-03:00",
+        "tempo_execucao": 0.07116913795471191,
+        "id": "4399c15c2d906701ff806966551b916feca34b2a"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:24:52-03:00",
+        "tempo_execucao": 0.15928101539611816,
+        "id": "f83673832b99609d07895a881c4cc57ac0753538"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:25:03-03:00",
+        "tempo_execucao": 0.0306088924407959,
+        "id": "6ba4ff1d8a485732d39c7b5fd4082de9fb697bba"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:25:08-03:00",
+        "tempo_execucao": 0.10590481758117676,
+        "id": "be1746b42cadb4bd41e54381b535a577dec346a6"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:25:15-03:00",
+        "tempo_execucao": 0.0334470272064209,
+        "id": "91bfc82b0d5f12670b1eb1f84a56385b76aa167c"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:25:21-03:00",
+        "tempo_execucao": 0.4465479850769043,
+        "id": "8fe835b915183d74d47aeb0ba7e4ea15877d1812"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:25:28-03:00",
+        "tempo_execucao": 0.02727508544921875,
+        "id": "1b7e6f71b32e83782e06453000397496b518fbce"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:25:32-03:00",
+        "tempo_execucao": 0.028310060501098633,
+        "id": "eb336230517edb4dc487864801d95d18ee41a10c"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:25:37-03:00",
+        "tempo_execucao": 0.027972936630249023,
+        "id": "3523cc5880c429162b2921a3aa89bcb5e97d6652"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:25:44-03:00",
+        "tempo_execucao": 0.02574610710144043,
+        "id": "d564a1c05510f216de6003f89b55647b4540c577"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:25:49-03:00",
+        "tempo_execucao": 0.0256500244140625,
+        "id": "826ec8be7c67d385bf958e977fee510b51d61ab0"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:25:54-03:00",
+        "tempo_execucao": 0.1542189121246338,
+        "id": "2fa4eb9ea9d1292a94c35c09078882d171233a82"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:26:00-03:00",
+        "tempo_execucao": 0.07231998443603516,
+        "id": "7958dd05b6f60f0ebe118f815b8ba9f2a31bd2f4"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:26:05-03:00",
+        "tempo_execucao": 0.03148484230041504,
+        "id": "ebda01422692921c30cc87873f77d2df4768ea3a"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:26:12-03:00",
+        "tempo_execucao": 0.39238905906677246,
+        "id": "feefd9cab85940717660cb7b0d7930d88a718475"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:26:18-03:00",
+        "tempo_execucao": 0.05381608009338379,
+        "id": "ac878721ae195c4cae470f38b29cb139cc4c4f8d"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:26:26-03:00",
+        "tempo_execucao": 0.06753396987915039,
+        "id": "f9f55583394c95e384e8274823ac85643c5c78cd"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:26:32-03:00",
+        "tempo_execucao": 0.027508974075317383,
+        "id": "2061f5c5bd457aedfdd141345537349ef48c38eb"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:26:39-03:00",
+        "tempo_execucao": 0.025625944137573242,
+        "id": "510e33f32c1dec157fb2313ac16aab1383223b21"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:26:47-03:00",
+        "tempo_execucao": 0.02776503562927246,
+        "id": "2f5a86b3a18d2bfbcfac3cbbcd5e1ff655e9d23d"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:26:53-03:00",
+        "tempo_execucao": 0.029492855072021484,
+        "id": "e97e7bc3ae1df551b95d75921172c2a51e354e85"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:26:59-03:00",
+        "tempo_execucao": 0.02674412727355957,
+        "id": "41c5116debac74b38006db0f396ef8c9ae3bd1a5"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:27:05-03:00",
+        "tempo_execucao": 0.026072978973388672,
+        "id": "2713b675b851b42aba7a7a3a352c515d247ad535"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:27:10-03:00",
+        "tempo_execucao": 0.02727818489074707,
+        "id": "bfdc684506f6b70830567babed45cc2186e5d9a4"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:27:19-03:00",
+        "tempo_execucao": 0.030065059661865234,
+        "id": "fe1c189ed00a78a4bbe0899115c53905690d00dc"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:27:27-03:00",
+        "tempo_execucao": 0.11179208755493164,
+        "id": "c8c3984c2066f512cfe4d51c47c283644a1c4906"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:27:35-03:00",
+        "tempo_execucao": 0.10639691352844238,
+        "id": "6212a0647f509ac30bfe8e07bd693dc8910a9433"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:27:43-03:00",
+        "tempo_execucao": 0.11523699760437012,
+        "id": "7232979727111d69128331d117e52e3ead4cf71c"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:27:49-03:00",
+        "tempo_execucao": 0.02622699737548828,
+        "id": "aee3405dc4caa0745ce36d1443406be395170a7f"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:27:55-03:00",
+        "tempo_execucao": 0.032124996185302734,
+        "id": "9335e3aedde821993c400cb71a0e9a15401abaa9"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:28:02-03:00",
+        "tempo_execucao": 0.4359920024871826,
+        "id": "44cf0e9df5701dc97b055483f837047d97138907"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:28:10-03:00",
+        "tempo_execucao": 0.0291900634765625,
+        "id": "82c7a2e2ec026d78dd676a20b6863d3b64ff880d"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:28:18-03:00",
+        "tempo_execucao": 0.03465104103088379,
+        "id": "c4259257fd33dd92b7278a4169066ffdf7d922e9"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:28:25-03:00",
+        "tempo_execucao": 0.044088125228881836,
+        "id": "1a330e0e0a7019b00fea63e1e4854a5297b31322"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:28:32-03:00",
+        "tempo_execucao": 0.15553998947143555,
+        "id": "3bef98d65562b62148e80c73dc6581fd350943fd"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:28:39-03:00",
+        "tempo_execucao": 0.02735304832458496,
+        "id": "4a0ed1fac094c3e48fc93ef18513f296a901747c"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:28:46-03:00",
+        "tempo_execucao": 0.028408050537109375,
+        "id": "b0a377de729cffc4b506496c08c29514957f4894"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:28:53-03:00",
+        "tempo_execucao": 0.02690291404724121,
+        "id": "1ed7ec7add6e0ed3ee68cb7de4900e0b1c72a090"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:29:00-03:00",
+        "tempo_execucao": 0.027452945709228516,
+        "id": "31995c2dee8384d5a17de825d5cdc9208b0b49a8"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:29:08-03:00",
+        "tempo_execucao": 0.03214406967163086,
+        "id": "9726b9628f81f73ea01aca840ed99b0f22c6f8f9"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:29:15-03:00",
+        "tempo_execucao": 0.028998136520385742,
+        "id": "c2ae6b2abefbb6dd9e772b5a17751044b6be01a2"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:29:22-03:00",
+        "tempo_execucao": 0.027981042861938477,
+        "id": "554ef0e297617f2ed38f0076383346c4ab1681a4"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:29:31-03:00",
+        "tempo_execucao": 0.21896696090698242,
+        "id": "05db782d52d7023ba945150b38535526ae77d47c"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:29:38-03:00",
+        "tempo_execucao": 0.030099153518676758,
+        "id": "8524bef67e1845abde89e962c5c5a309c0c2413b"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:29:46-03:00",
+        "tempo_execucao": 0.031347036361694336,
+        "id": "4805090781cf82f3a21cbd5e4eb043a6d673d624"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:29:53-03:00",
+        "tempo_execucao": 0.029521942138671875,
+        "id": "76255d7983a4e835d788bef035d17ddeb082d6ed"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:30:00-03:00",
+        "tempo_execucao": 0.02937483787536621,
+        "id": "01938f339a22b4ef300e775880b7a5d289f85c8e"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:30:07-03:00",
+        "tempo_execucao": 0.029788970947265625,
+        "id": "a3fd32de0208be21a9fa64de53c7baa2d207d184"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:30:14-03:00",
+        "tempo_execucao": 0.028432846069335938,
+        "id": "82870bcdd2e7582ba47b24bbc62627936aeab76f"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:30:26-03:00",
+        "tempo_execucao": 0.1175689697265625,
+        "id": "4c06ef3d0cdeecc8a5a419e594b994aa59efa03e"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:30:34-03:00",
+        "tempo_execucao": 0.02708292007446289,
+        "id": "3a8a83739cdab3189645070b40b9ca632269935f"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:30:41-03:00",
+        "tempo_execucao": 0.03809094429016113,
+        "id": "9763e22b8772ed569649b21980b05ea7414cb8bb"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:30:48-03:00",
+        "tempo_execucao": 0.029224872589111328,
+        "id": "bdf18ad17d1461c15ecef5de1040f323dc61be11"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:30:55-03:00",
+        "tempo_execucao": 0.027053117752075195,
+        "id": "d1e1ea524062f15d87ffa178da7408b69d9f8c66"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:31:02-03:00",
+        "tempo_execucao": 0.027846813201904297,
+        "id": "013b4eed28231833f477c947218aef2af4ef1835"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:31:09-03:00",
+        "tempo_execucao": 0.02880406379699707,
+        "id": "bad79d45fad4b4b04d7881962406c1add9f35521"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:31:17-03:00",
+        "tempo_execucao": 0.08832597732543945,
+        "id": "688b03e0aeb1b913a1d60ef994915b0b7b8d312b"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:31:24-03:00",
+        "tempo_execucao": 0.029098987579345703,
+        "id": "7f9aa42501242c2117da49b7082a073176986f71"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:31:31-03:00",
+        "tempo_execucao": 0.027686119079589844,
+        "id": "a6b4aaa573ac9320e7d1623a632be67261d4e3ac"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:31:39-03:00",
+        "tempo_execucao": 0.14683914184570312,
+        "id": "d4f15416e46ecf2e9c0d6c1499b8e9e8ab6ff7dd"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:31:47-03:00",
+        "tempo_execucao": 0.03054499626159668,
+        "id": "04f86a926f2aace7b0eaeda21083d15e4065b877"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:31:54-03:00",
+        "tempo_execucao": 0.031057119369506836,
+        "id": "494ea8676075d6f3cb51c49751a1753865da7375"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:32:02-03:00",
+        "tempo_execucao": 0.03278493881225586,
+        "id": "89d266f7c65dd2fc079ccedc21e582c68dce16d3"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:32:10-03:00",
+        "tempo_execucao": 0.03020191192626953,
+        "id": "dfdf9178a6e8cf669f075d925889ffacb76b831b"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:32:17-03:00",
+        "tempo_execucao": 0.03051590919494629,
+        "id": "ada889bbdec423f0dce2dc2509b7e92df4ad856e"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:32:25-03:00",
+        "tempo_execucao": 0.029585838317871094,
+        "id": "c5c292e5cd531efe2b5b4757afa452b9709877fb"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:32:33-03:00",
+        "tempo_execucao": 0.03122878074645996,
+        "id": "a193324b7d02b4bc4babbd6d8961b4e34bbf17e3"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:32:42-03:00",
+        "tempo_execucao": 0.03832411766052246,
+        "id": "3fd27fbb87ffb22e68e2f06fac1c45810ee29935"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:32:50-03:00",
+        "tempo_execucao": 0.030768871307373047,
+        "id": "896392ac9ed8ca386ffa5918cc21a3c9624217a3"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:32:59-03:00",
+        "tempo_execucao": 0.0349271297454834,
+        "id": "2156e979ad2bf1dab06e8ccb69480dcb732006a6"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:33:07-03:00",
+        "tempo_execucao": 0.027738094329833984,
+        "id": "c03142c22eb260839c543ccaa07aba499bdc2f0e"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:33:14-03:00",
+        "tempo_execucao": 0.041964054107666016,
+        "id": "a8571eef94ecccbe54be03aa0e40d4913dd214c2"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:33:23-03:00",
+        "tempo_execucao": 0.031016826629638672,
+        "id": "1f9f9da064bdc229c53c9e464df4945a225f879e"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:33:31-03:00",
+        "tempo_execucao": 0.029929161071777344,
+        "id": "95fcd66353be727973e8ccdbbc320fade0c364fb"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:33:40-03:00",
+        "tempo_execucao": 0.16863203048706055,
+        "id": "3e42bd690d6f14d7793b707c36e00d505154c0d3"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:33:48-03:00",
+        "tempo_execucao": 0.03859901428222656,
+        "id": "5080134c347441b689348dbbbf52e1882458aaf7"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:33:57-03:00",
+        "tempo_execucao": 0.029645919799804688,
+        "id": "74f305efe5c4572c9bdc56b8a12fcbf211874fc4"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:34:06-03:00",
+        "tempo_execucao": 0.02850794792175293,
+        "id": "d5519f404346e23b568b12595f380d8f906f20e4"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:34:15-03:00",
+        "tempo_execucao": 0.035462141036987305,
+        "id": "61565a1170a5c0e58086f328761fadd3b3cbfd95"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:34:23-03:00",
+        "tempo_execucao": 0.031245946884155273,
+        "id": "27a8936eb9032de152a300889ee1782877b56235"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:34:33-03:00",
+        "tempo_execucao": 0.0305020809173584,
+        "id": "6b5b89c97aabe07b1880cece9a302afcce3ad852"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:34:42-03:00",
+        "tempo_execucao": 0.04361605644226074,
+        "id": "1cb4d72b3d89922241f5e1bc6ca3d72a6ac11d2a"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:34:54-03:00",
+        "tempo_execucao": 0.22697997093200684,
+        "id": "416d380d27b3d9345ab389c639d602fd716524bc"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:35:04-03:00",
+        "tempo_execucao": 0.029551982879638672,
+        "id": "de661e546662a065d54e55dba4a982b8d21101be"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:35:13-03:00",
+        "tempo_execucao": 0.03655886650085449,
+        "id": "c15866289592336b920e05a0c94a3d04cd41b19c"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:35:23-03:00",
+        "tempo_execucao": 0.03941822052001953,
+        "id": "4306c96bf7478dc6693f349d64d402d7ff0fbbcd"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:35:33-03:00",
+        "tempo_execucao": 0.03214001655578613,
+        "id": "482cfab92b08b2d4475e5278b5a11ecf0f840201"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:35:42-03:00",
+        "tempo_execucao": 0.030479907989501953,
+        "id": "4e75391889a8cab2c03aa5ec36ac2d1f3e1bea1a"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:35:54-03:00",
+        "tempo_execucao": 0.12106013298034668,
+        "id": "dc1e1ccbd3549ac413f2357fe204f4071985cf8a"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:36:06-03:00",
+        "tempo_execucao": 0.13588500022888184,
+        "id": "ffc6567b852cc6c1de44c69170d59a1bb8c91de8"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:36:18-03:00",
+        "tempo_execucao": 0.6045069694519043,
+        "id": "66272a970b4fd377e2da4026fea432b8dded2c1f"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:36:29-03:00",
+        "tempo_execucao": 0.03269004821777344,
+        "id": "ab3a755d3f2233538d76ad86ba1771d41a9d5189"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:36:38-03:00",
+        "tempo_execucao": 0.03356504440307617,
+        "id": "8ac281177c5f32219bfa05bcb73949cc428347db"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:36:50-03:00",
+        "tempo_execucao": 0.3559880256652832,
+        "id": "81a56275126c5492d9f37d1412e57ac586b0d645"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:37:01-03:00",
+        "tempo_execucao": 0.03189492225646973,
+        "id": "19c1d8ba6fca3a51a6f31e629cbb3c4f295c7882"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:37:12-03:00",
+        "tempo_execucao": 0.03165602684020996,
+        "id": "18e9f9ffa6874a53c1e2c6150040fbad428d0796"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:37:23-03:00",
+        "tempo_execucao": 0.2811310291290283,
+        "id": "d1dfe1485f87276c6a790a3d0a61b9d6422eef3a"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:37:34-03:00",
+        "tempo_execucao": 0.1391751766204834,
+        "id": "32e47088a448cbebc159c3d43108f4aaf626fea1"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:37:45-03:00",
+        "tempo_execucao": 0.11368203163146973,
+        "id": "cfc85c0e457dba7b45dbbd21d3887ca8c00b6a53"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "conectar",
+        "mensagem": "Conex\u00e3o MySQL realizada com sucesso!",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-23T23:37:53-03:00",
+        "tempo_execucao": 0.6550970077514648,
+        "id": "04783e61aa411bf2371fc1b5ff34a1bd302c27a8"
+    }
+]

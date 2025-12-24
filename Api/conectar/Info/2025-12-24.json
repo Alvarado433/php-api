@@ -1,0 +1,112 @@
+[
+    {
+        "tipo": "Info",
+        "modulo": "conectar",
+        "mensagem": "Conectando ao banco de dados MySQL...",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-24T00:28:41-03:00",
+        "tempo_execucao": 0.6586899757385254,
+        "id": "893c43e115f09c2491b05b8bbb7f65579ff5b0e8"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "conectar",
+        "mensagem": "Conectando ao banco de dados MySQL...",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-24T00:28:45-03:00",
+        "tempo_execucao": 0.45049500465393066,
+        "id": "7cee33a17eaeaa376337e8782c9e812c88a97d00"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "conectar",
+        "mensagem": "Conectando ao banco de dados MySQL...",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-24T00:28:49-03:00",
+        "tempo_execucao": 0.03360795974731445,
+        "id": "846662b52d84e20e73d2d12f44aacef26eb86b29"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "conectar",
+        "mensagem": "Conectando ao banco de dados MySQL...",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-24T00:36:20-03:00",
+        "tempo_execucao": 0.24399995803833008,
+        "id": "e576c3654f6e438563f1da7139eac794b04896cd"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "conectar",
+        "mensagem": "Conectando ao banco de dados MySQL...",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-24T00:36:24-03:00",
+        "tempo_execucao": 0.08796191215515137,
+        "id": "4713476e859a13f4bcf047a43cbc0ead888c9f6e"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "conectar",
+        "mensagem": "Conectando ao banco de dados MySQL...",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-24T00:39:38-03:00",
+        "tempo_execucao": 0.06517601013183594,
+        "id": "e65e2e03bb24cfc3e52627ef5576ec45f0eef00b"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "conectar",
+        "mensagem": "Conectando ao banco de dados MySQL...",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-24T00:39:40-03:00",
+        "tempo_execucao": 0.026292085647583008,
+        "id": "4d22be98ae8e9c5f3349d8a72db1c8f660be6f08"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "conectar",
+        "mensagem": "Conectando ao banco de dados MySQL...",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-24T00:39:44-03:00",
+        "tempo_execucao": 0.08459997177124023,
+        "id": "8002e6a002210014b0cd855938fafffe4689df09"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "conectar",
+        "mensagem": "Conectando ao banco de dados MySQL...",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-24T00:39:48-03:00",
+        "tempo_execucao": 0.018751144409179688,
+        "id": "862c40833f3a25c2da3e5aef3318138c4689e55d"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "conectar",
+        "mensagem": "Conectando ao banco de dados MySQL...",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-24T01:39:37-03:00",
+        "tempo_execucao": 0.773400068283081,
+        "id": "b353586c61b7165fc0de00f9270400103501d4fa"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "conectar",
+        "mensagem": "Conectando ao banco de dados MySQL...",
+        "arquivo": "index.php",
+        "linha": 18,
+        "data": "2025-12-24T01:39:46-03:00",
+        "tempo_execucao": 0.03609895706176758,
+        "id": "02032b44b8bd209ae277f65a7f4f7f6dd33554ee"
+    }
+]

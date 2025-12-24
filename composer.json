@@ -1,0 +1,21 @@
+{
+    "name": "rhaianalvarado/imperio",
+    "version": "1.0.1",
+    "autoload": {
+        "psr-4": {
+            "Imperio\\": "src/",
+            "Core\\": "core/",
+            "App\\": "app/",
+            "Config\\": "config/",
+            "Database\\": "database/",
+            "Routers\\": "routers/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rhaian Alvarado",
+            "email": "alvaradorhaian766@gmail.com"
+        }
+    ],
+    "require": {}
+}

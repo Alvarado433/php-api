@@ -1,0 +1,42 @@
+[
+    {
+        "tipo": "Error",
+        "modulo": "roteamento",
+        "mensagem": "Erro no roteador: Rota n\u00e3o encontrada: get \/favicon.ico",
+        "arquivo": "index.php",
+        "linha": 24,
+        "data": "2025-12-24T00:28:50-03:00",
+        "tempo_execucao": 1.5868918895721436,
+        "id": "b5dde538848b62fc939347ae02851f8364e8d3c2"
+    },
+    {
+        "tipo": "Error",
+        "modulo": "roteamento",
+        "mensagem": "Erro no roteador: Rota n\u00e3o encontrada: get \/favicon.ico",
+        "arquivo": "index.php",
+        "linha": 24,
+        "data": "2025-12-24T00:36:26-03:00",
+        "tempo_execucao": 2.2415499687194824,
+        "id": "33c3e7c816c0e64405e7195cdef8c6088e3e82de"
+    },
+    {
+        "tipo": "Error",
+        "modulo": "roteamento",
+        "mensagem": "Erro no roteador: Rota n\u00e3o encontrada: get \/favicon.ico",
+        "arquivo": "index.php",
+        "linha": 24,
+        "data": "2025-12-24T00:39:50-03:00",
+        "tempo_execucao": 2.101633071899414,
+        "id": "e854c94ade48cbbef548b37a414ff3034624cd24"
+    },
+    {
+        "tipo": "Error",
+        "modulo": "roteamento",
+        "mensagem": "Erro no roteador: Rota n\u00e3o encontrada: get \/favicon.ico",
+        "arquivo": "index.php",
+        "linha": 24,
+        "data": "2025-12-24T01:39:48-03:00",
+        "tempo_execucao": 2.37992000579834,
+        "id": "edb1e90016c335033ad67ea7c6f93b698d2614bd"
+    }
+]

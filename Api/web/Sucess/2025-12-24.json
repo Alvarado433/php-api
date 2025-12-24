@@ -1,0 +1,182 @@
+[
+    {
+        "tipo": "Success",
+        "modulo": "web",
+        "mensagem": "rota da web capturada com sucesso: \/v1\/menu\/ativos",
+        "arquivo": "BaseRoteamento.php",
+        "linha": 122,
+        "data": "2025-12-24T00:28:44-03:00",
+        "tempo_execucao": 2.7773399353027344,
+        "id": "f57005966ca946015a277ac42f6cff52002e3d9e"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "web",
+        "mensagem": "M\u00e9todo HTTP capturado: GET",
+        "arquivo": "BaseRoteamento.php",
+        "linha": 127,
+        "data": "2025-12-24T00:28:44-03:00",
+        "tempo_execucao": 2.778153896331787,
+        "id": "04e6f6aa63017ecf35bcf483fd0506255ac64eef"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "web",
+        "mensagem": "rota da web capturada com sucesso: \/v1\/menu\/ativos",
+        "arquivo": "BaseRoteamento.php",
+        "linha": 122,
+        "data": "2025-12-24T00:28:46-03:00",
+        "tempo_execucao": 2.272250175476074,
+        "id": "1888163914e5dd8394ccf6a04bcfe2600e9641b6"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "web",
+        "mensagem": "M\u00e9todo HTTP capturado: GET",
+        "arquivo": "BaseRoteamento.php",
+        "linha": 127,
+        "data": "2025-12-24T00:28:46-03:00",
+        "tempo_execucao": 2.2731051445007324,
+        "id": "4b715a1bf840639d315fa289b5529841e6b3c0ce"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "web",
+        "mensagem": "rota da web capturada com sucesso: \/favicon.ico",
+        "arquivo": "BaseRoteamento.php",
+        "linha": 122,
+        "data": "2025-12-24T00:28:50-03:00",
+        "tempo_execucao": 1.4290359020233154,
+        "id": "91e3e5c7e6122899c25d32a8d9748ae84324ebcd"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "web",
+        "mensagem": "M\u00e9todo HTTP capturado: GET",
+        "arquivo": "BaseRoteamento.php",
+        "linha": 127,
+        "data": "2025-12-24T00:28:50-03:00",
+        "tempo_execucao": 1.4301159381866455,
+        "id": "352dad272c3fe35d58139e9c109029914ffb0b5f"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "web",
+        "mensagem": "rota da web capturada com sucesso: \/v1\/menu\/ativos",
+        "arquivo": "BaseRoteamento.php",
+        "linha": 122,
+        "data": "2025-12-24T00:36:22-03:00",
+        "tempo_execucao": 2.044826030731201,
+        "id": "4b1e25e8d9140135059f09441cb2cc65ccbcdb60"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "web",
+        "mensagem": "M\u00e9todo HTTP capturado: GET",
+        "arquivo": "BaseRoteamento.php",
+        "linha": 127,
+        "data": "2025-12-24T00:36:22-03:00",
+        "tempo_execucao": 2.0455548763275146,
+        "id": "a759b216b00ead3250b191e66dbfc2b35b862fa0"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "web",
+        "mensagem": "rota da web capturada com sucesso: \/favicon.ico",
+        "arquivo": "BaseRoteamento.php",
+        "linha": 122,
+        "data": "2025-12-24T00:36:26-03:00",
+        "tempo_execucao": 2.0411579608917236,
+        "id": "6c5a76ff0591ed51dc4efdec4215476c6e214d7d"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "web",
+        "mensagem": "M\u00e9todo HTTP capturado: GET",
+        "arquivo": "BaseRoteamento.php",
+        "linha": 127,
+        "data": "2025-12-24T00:36:26-03:00",
+        "tempo_execucao": 2.0417540073394775,
+        "id": "b22ad19e0780cba4c9a586552612db4ae5d54d7c"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "web",
+        "mensagem": "rota da web capturada com sucesso: \/v1\/menu\/ativos",
+        "arquivo": "BaseRoteamento.php",
+        "linha": 122,
+        "data": "2025-12-24T00:39:47-03:00",
+        "tempo_execucao": 2.3127410411834717,
+        "id": "c14516097492416f14d3bfd347056840eef30c58"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "web",
+        "mensagem": "M\u00e9todo HTTP capturado: GET",
+        "arquivo": "BaseRoteamento.php",
+        "linha": 127,
+        "data": "2025-12-24T00:39:47-03:00",
+        "tempo_execucao": 2.3134779930114746,
+        "id": "f17eddfa719f61cf72b8ed33b48a2b0924c2c92b"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "web",
+        "mensagem": "rota da web capturada com sucesso: \/favicon.ico",
+        "arquivo": "BaseRoteamento.php",
+        "linha": 122,
+        "data": "2025-12-24T00:39:50-03:00",
+        "tempo_execucao": 1.8725850582122803,
+        "id": "2fcd4f349107ebbb7762f1b15bef0784d54427d2"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "web",
+        "mensagem": "M\u00e9todo HTTP capturado: GET",
+        "arquivo": "BaseRoteamento.php",
+        "linha": 127,
+        "data": "2025-12-24T00:39:50-03:00",
+        "tempo_execucao": 1.8732330799102783,
+        "id": "5c46a6f6a1aa7830dc2b79526fef0fc0c168ea4c"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "web",
+        "mensagem": "rota da web capturada com sucesso: \/v1\/api",
+        "arquivo": "BaseRoteamento.php",
+        "linha": 122,
+        "data": "2025-12-24T01:39:40-03:00",
+        "tempo_execucao": 4.655670881271362,
+        "id": "a8437fbd1a8c8652c54b8b75f1fb92b8adf92274"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "web",
+        "mensagem": "M\u00e9todo HTTP capturado: GET",
+        "arquivo": "BaseRoteamento.php",
+        "linha": 127,
+        "data": "2025-12-24T01:39:40-03:00",
+        "tempo_execucao": 4.65843391418457,
+        "id": "80648108233df0b6b975f5950671ccc5e8e0b560"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "web",
+        "mensagem": "rota da web capturada com sucesso: \/favicon.ico",
+        "arquivo": "BaseRoteamento.php",
+        "linha": 122,
+        "data": "2025-12-24T01:39:48-03:00",
+        "tempo_execucao": 2.0317349433898926,
+        "id": "654bef640b0e7321d7b7df32f1cfca4efc41d632"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "web",
+        "mensagem": "M\u00e9todo HTTP capturado: GET",
+        "arquivo": "BaseRoteamento.php",
+        "linha": 127,
+        "data": "2025-12-24T01:39:48-03:00",
+        "tempo_execucao": 2.0323288440704346,
+        "id": "7f186966f7675bb32594596ede2de339fbd6e4f8"
+    }
+]

@@ -1,0 +1,175 @@
+ // Página inicial do admin
+
+            // 🔹 PRODUTOS
+            Groups::get("/produtos", "DashboardController@listarProdutos");
+            Groups::get("/produtos/{id}", "DashboardController@buscarProduto");
+            Groups::post("/produtos", "DashboardController@criarProduto");
+            Groups::put("/produtos/{id}", "DashboardController@atualizarProduto");
+            Groups::delete("/produtos/{id}", "DashboardController@deletarProduto");
+
+            // 🔹 PRODUTOS EM DESTAQUE
+            Groups::get("/produtos/destaques", "DashboardController@listarProdutosDestaque");
+            Groups::get("/produtos/destaques/ativos", "DashboardController@listarProdutosDestaqueAtivos");
+            Groups::get("/produtos/destaques/{id}", "DashboardController@buscarProdutoDestaque");
+            Groups::post("/produtos/destaques", "DashboardController@criarProdutoDestaque");
+            Groups::put("/produtos/destaques/{id}", "DashboardController@atualizarProdutoDestaque");
+            Groups::delete("/produtos/destaques/{id}", "DashboardController@deletarProdutoDestaque");
+
+            // 🔹 PRODUTO PELO SLUG
+            Groups::get("/produto/{slug}", "DashboardController@produtoPorSlug");
+            // Buscar produto pelo slug
+
+            // 🟣 CATEGORIAS
+            Groups::post("/categorias", "DashboardController@criarCategoria");
+            Groups::put("/categorias/{id}", "DashboardController@atualizarCategoria");
+            Groups::delete("/categorias/{id}", "DashboardController@deletarCategoria");
+            Groups::post("/categorias/ordem", "DashboardController@salvarOrdemCategorias");
+            Groups::delete("/categorias/ordem/{categoriaId}", "DashboardController@deletarOrdemCategoria");
+
+            // 🎯 BANNERS
+            Groups::post("/banners", "DashboardController@criarBanner");
+            Groups::put("/banners/{id}", "DashboardController@atualizarBanner");
+            Groups::delete("/banners/{id}", "DashboardController@deletarBanner");
+
+            // 🔵 FOOTER
+            Groups::post("/footer", "DashboardController@criarFooter");
+            Groups::put("/footer/{id}", "DashboardController@atualizarFooter");
+            Groups::delete("/footer/{id}", "DashboardController@deletarFooter");
+
+            Groups::post("/footer/links", "DashboardController@criarFooterLink");
+            Groups::put("/footer/links/{id}", "DashboardController@atualizarFooterLink");
+            Groups::delete("/footer/links/{id}", "DashboardController@deletarFooterLink");
+
+            // 🔐 CONFIGURAÇÃO DE LOGIN
+            Groups::post("/config/login", "DashboardController@salvarLogin");
+            Groups::put("/config/login/{id}", "DashboardController@atualizarLogin");
+
+            Groups::post("/config/login/tipos", "DashboardController@criarTipoLogin");
+            Groups::put("/config/login/tipos/{id}", "DashboardController@atualizarTipoLogin");
+            Groups::delete("/config/login/tipos/{id}", "DashboardController@deletarTipoLogin");
+
+            // 📂 MENU
+            Groups::post("/menu", "DashboardController@criarMenu");
+            Groups::put("/menu/{id}", "DashboardController@atualizarMenu");
+            Groups::delete("/menu/{id}", "DashboardController@deletarMenu");
+
+            Groups::post("/menu/{id}/itens", "DashboardController@criarMenuItem");
+            Groups::put("/menu/item/{itemId}", "DashboardController@atualizarMenuItem");
+            Groups::delete("/menu/item/{itemId}", "DashboardController@deletarMenuItem");
+
+            // 🟢 STATUS
+            Groups::get("/status", "DashboardController@listarStatus");
+
+
+             /**
+     * Listar cards do dashboard
+     */
+    public function listar()
+    {
+        $cards = [
+            [
+                "titulo"     => "Produtos",
+                "quantidade" => count(ProdutoDao::listarAtivos())
+            ],
+            [
+                "titulo"     => "Categorias",
+                "quantidade" => count(\App\Dao\Categoria\CategoriaDao::listarAtivas())
+            ],
+            [
+                "titulo"     => "Produtos em Destaque",
+                "quantidade" => count(ProdutoDestaqueDao::listarParaPainel())
+            ],
+        ];
+
+        self::Mensagemjson(
+            "Dashboard carregado com sucesso",
+            200,
+            $cards
+        );
+    }
+
+    /**
+     * Buscar produto pelo slug
+     */
+    public function produtoPorSlug(string $slug)
+    {
+        $produto = ProdutoDao::buscarPorSlug($slug);
+
+        if (!$produto) {
+            return self::Mensagemjson(
+                "Produto não encontrado",
+                404
+            );
+        }
+
+        return self::Mensagemjson(
+            "Produto encontrado",
+            200,
+            $produto
+        );
+    }
+
+    /**
+     * Listar todos os status do sistema
+     */
+    public function listarStatus()
+    {
+        $status = StatusDao::listar(); // Retorna array de StatusModel
+
+        return self::Mensagemjson(
+            "Status carregados com sucesso",
+            200,
+            $status
+        );
+    }
+
+    /**
+     * Listar todos os produtos
+     */
+    public function listarProdutos()
+    {
+        $produtos = ProdutoDao::listar();
+        return self::Mensagemjson(
+            "Produtos carregados com sucesso",
+            200,
+            $produtos
+        );
+    }
+
+    /**
+     * Listar produtos ativos
+     */
+    public function listarProdutosAtivos()
+    {
+        $produtos = ProdutoDao::listarAtivos();
+        return self::Mensagemjson(
+            "Produtos ativos carregados com sucesso",
+            200,
+            $produtos
+        );
+    }
+
+    /**
+     * Listar produtos em destaque (statusid = 7)
+     */
+    public function listarProdutosDestaque()
+    {
+        $destaques = ProdutoDestaqueDao::listarParaPainel();
+        return self::Mensagemjson(
+            "Produtos em destaque carregados com sucesso",
+            200,
+            $destaques
+        );
+    }
+
+    public function buscarProduto()
+    {
+        $destaques = ProdutoDestaqueDao::listarParaPainel();
+        // <-- vai imprimir no log do servidor
+        self::Mensagemjson("Produtos em destaque carregados", 200, $destaques);
+    }
+
+    public function listartudo()
+    {
+        echo "DashboardController::listartudo executado (gerado automaticamente)!";
+    }

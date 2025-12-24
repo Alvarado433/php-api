@@ -1,0 +1,42 @@
+[
+    {
+        "tipo": "Info",
+        "modulo": "Menu",
+        "mensagem": "Iniciando listagem de menus ativos...",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-24T00:28:44-03:00",
+        "tempo_execucao": 3.261667013168335,
+        "id": "bd93241ebb2a9d4078e1c38a77eb5e808b476a8d"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "Menu",
+        "mensagem": "Iniciando listagem de menus ativos...",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-24T00:28:46-03:00",
+        "tempo_execucao": 2.3363211154937744,
+        "id": "3d28343109233731e5a990a50ec536b306823ab4"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "Menu",
+        "mensagem": "Iniciando listagem de menus ativos...",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-24T00:36:22-03:00",
+        "tempo_execucao": 2.1378090381622314,
+        "id": "e4bde70146126817b18932e35a146f236ea8b603"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "Menu",
+        "mensagem": "Iniciando listagem de menus ativos...",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-24T00:39:47-03:00",
+        "tempo_execucao": 2.5669658184051514,
+        "id": "e8da7c3805bb8be2e7b78446df32effe4a96c3ed"
+    }
+]

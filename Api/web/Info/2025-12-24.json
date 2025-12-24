@@ -1,0 +1,92 @@
+[
+    {
+        "tipo": "Info",
+        "modulo": "web",
+        "mensagem": "capturando rota da web",
+        "arquivo": "BaseRoteamento.php",
+        "linha": 122,
+        "data": "2025-12-24T00:28:44-03:00",
+        "tempo_execucao": 2.765779972076416,
+        "id": "68d4c68cd8c6453e7310b195f9959dab81174024"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "web",
+        "mensagem": "capturando rota da web",
+        "arquivo": "BaseRoteamento.php",
+        "linha": 122,
+        "data": "2025-12-24T00:28:46-03:00",
+        "tempo_execucao": 2.264431953430176,
+        "id": "119a6a4a7e427c0c568a2b6e2d52f32773a07644"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "web",
+        "mensagem": "capturando rota da web",
+        "arquivo": "BaseRoteamento.php",
+        "linha": 122,
+        "data": "2025-12-24T00:28:50-03:00",
+        "tempo_execucao": 1.4282689094543457,
+        "id": "5be042c31428a6466f80a10af6448181a1d38c88"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "web",
+        "mensagem": "capturando rota da web",
+        "arquivo": "BaseRoteamento.php",
+        "linha": 122,
+        "data": "2025-12-24T00:36:22-03:00",
+        "tempo_execucao": 2.04349684715271,
+        "id": "1517c0133cac34ffd01877e7bf17181936b812e5"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "web",
+        "mensagem": "capturando rota da web",
+        "arquivo": "BaseRoteamento.php",
+        "linha": 122,
+        "data": "2025-12-24T00:36:26-03:00",
+        "tempo_execucao": 2.0404980182647705,
+        "id": "27c58ec3279e0ba025909ac87af1b25063823a0e"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "web",
+        "mensagem": "capturando rota da web",
+        "arquivo": "BaseRoteamento.php",
+        "linha": 122,
+        "data": "2025-12-24T00:39:47-03:00",
+        "tempo_execucao": 2.311875820159912,
+        "id": "c5b21d126d23f1540039ac7497d869536889bdfd"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "web",
+        "mensagem": "capturando rota da web",
+        "arquivo": "BaseRoteamento.php",
+        "linha": 122,
+        "data": "2025-12-24T00:39:50-03:00",
+        "tempo_execucao": 1.871772050857544,
+        "id": "e0d2de1bc0307b5bd6c8b679d543aab060c24079"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "web",
+        "mensagem": "capturando rota da web",
+        "arquivo": "BaseRoteamento.php",
+        "linha": 122,
+        "data": "2025-12-24T01:39:40-03:00",
+        "tempo_execucao": 4.631414890289307,
+        "id": "bce7f6c94c3e8c287e50b4b9d11a78f66cd04e21"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "web",
+        "mensagem": "capturando rota da web",
+        "arquivo": "BaseRoteamento.php",
+        "linha": 122,
+        "data": "2025-12-24T01:39:48-03:00",
+        "tempo_execucao": 2.0310888290405273,
+        "id": "27a2b4f1b03c27790508584bc5739c8e1d1e1e88"
+    }
+]

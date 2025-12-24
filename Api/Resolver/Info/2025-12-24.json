@@ -1,0 +1,52 @@
+[
+    {
+        "tipo": "Info",
+        "modulo": "Resolver",
+        "mensagem": "Namespace carregado: Imperio\\Controllers\\",
+        "arquivo": "Resolver.php",
+        "linha": 37,
+        "data": "2025-12-24T00:28:44-03:00",
+        "tempo_execucao": 3.0961809158325195,
+        "id": "e633512c7af006cb4e220f84d05b9e88faae3076"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "Resolver",
+        "mensagem": "Namespace carregado: Imperio\\Controllers\\",
+        "arquivo": "Resolver.php",
+        "linha": 37,
+        "data": "2025-12-24T00:28:46-03:00",
+        "tempo_execucao": 2.3193299770355225,
+        "id": "88371f00b0ecf1cb4dc99a69a3726ec279180907"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "Resolver",
+        "mensagem": "Namespace carregado: Imperio\\Controllers\\",
+        "arquivo": "Resolver.php",
+        "linha": 37,
+        "data": "2025-12-24T00:36:22-03:00",
+        "tempo_execucao": 2.0799808502197266,
+        "id": "eede7f577b11884465b70d0f0b37727932c7ea54"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "Resolver",
+        "mensagem": "Namespace carregado: Imperio\\Controllers\\",
+        "arquivo": "Resolver.php",
+        "linha": 37,
+        "data": "2025-12-24T00:39:47-03:00",
+        "tempo_execucao": 2.343284845352173,
+        "id": "c235d0ae59b3e270c646c28432b35147993a12e1"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "Resolver",
+        "mensagem": "Namespace carregado: Imperio\\Controllers\\",
+        "arquivo": "Resolver.php",
+        "linha": 37,
+        "data": "2025-12-24T01:39:41-03:00",
+        "tempo_execucao": 4.740791082382202,
+        "id": "a98c0614df92417f777f2b4adce93e70ca07bb02"
+    }
+]

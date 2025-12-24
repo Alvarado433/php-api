@@ -1,0 +1,42 @@
+[
+    {
+        "tipo": "Success",
+        "modulo": "BaseDao",
+        "mensagem": "findAll retornou 4 registros",
+        "arquivo": "MenuDao.php",
+        "linha": 144,
+        "data": "2025-12-24T00:28:45-03:00",
+        "tempo_execucao": 4.076676845550537,
+        "id": "dc405f82989e8505700bdec5a56237029cd75a05"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "BaseDao",
+        "mensagem": "findAll retornou 4 registros",
+        "arquivo": "MenuDao.php",
+        "linha": 144,
+        "data": "2025-12-24T00:28:47-03:00",
+        "tempo_execucao": 2.429007053375244,
+        "id": "92f679ff593a14f217ff2331048ce16b446cd93c"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "BaseDao",
+        "mensagem": "findAll retornou 4 registros",
+        "arquivo": "MenuDao.php",
+        "linha": 144,
+        "data": "2025-12-24T00:36:23-03:00",
+        "tempo_execucao": 2.6083998680114746,
+        "id": "e78f6daec900ca4d1e2586ac32a4ab073cec58ae"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "BaseDao",
+        "mensagem": "findAll retornou 4 registros",
+        "arquivo": "MenuDao.php",
+        "linha": 144,
+        "data": "2025-12-24T00:39:47-03:00",
+        "tempo_execucao": 2.973464012145996,
+        "id": "a3da468c982feb403d8de19900508080a7a5b577"
+    }
+]

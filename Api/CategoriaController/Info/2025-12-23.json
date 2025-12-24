@@ -1,0 +1,1772 @@
+[
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T19:02:55-03:00",
+        "tempo_execucao": 3.216521978378296,
+        "id": "bcaf1054fd83396a8391eb655b933215979980c4"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T19:02:58-03:00",
+        "tempo_execucao": 2.6710920333862305,
+        "id": "9ad6f46f9f3d56c50b9422c2025ce9d94de611ae"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T19:03:00-03:00",
+        "tempo_execucao": 2.1527938842773438,
+        "id": "fc5bd645cdf51c89c3a4052a622db7fda5502a9e"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T19:03:02-03:00",
+        "tempo_execucao": 1.3518900871276855,
+        "id": "2732b9205a2336465f7d5805711d2003390e6548"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T19:05:35-03:00",
+        "tempo_execucao": 2.1519548892974854,
+        "id": "b9bf4cd70ed7b9eddf765803fa1c8ac460db3065"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T19:05:38-03:00",
+        "tempo_execucao": 2.938462018966675,
+        "id": "49e729861a236b2c61bbdf73e208f0d0793497cc"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T19:05:40-03:00",
+        "tempo_execucao": 2.3295998573303223,
+        "id": "b6f126dee1e78a295b965e4d4129e355fa899792"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T19:07:00-03:00",
+        "tempo_execucao": 2.2309350967407227,
+        "id": "04373c08a655f74ad0eac847440e478549b35a14"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T19:07:02-03:00",
+        "tempo_execucao": 1.703566074371338,
+        "id": "506a468ea7ca25b33c3db4e0a77c7a62d4f59a8b"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T19:07:03-03:00",
+        "tempo_execucao": 1.6966359615325928,
+        "id": "6fd9cdc4c36e35fd8328a508e564d85170785d8e"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T19:07:07-03:00",
+        "tempo_execucao": 3.314889907836914,
+        "id": "76c36908115b269175a588012f4450c73d0ddbaf"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T19:14:29-03:00",
+        "tempo_execucao": 4.683025121688843,
+        "id": "a5775be478a386980741ab7cafb31d94e3cbc0c0"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T19:14:31-03:00",
+        "tempo_execucao": 2.0230538845062256,
+        "id": "5b38807ae8914b3a68f21827344c991c8d731e92"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T19:14:33-03:00",
+        "tempo_execucao": 1.5227890014648438,
+        "id": "f85ce812ea090b216adc721dd6bd465670d7d247"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T19:27:14-03:00",
+        "tempo_execucao": 3.2796859741210938,
+        "id": "c1cb9c6f1c7117b2affad76f64dddb4fe5b10632"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T19:28:52-03:00",
+        "tempo_execucao": 1.9192650318145752,
+        "id": "5f52987ce3804e1211da9d5c825cea95683bb3f3"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T19:28:55-03:00",
+        "tempo_execucao": 2.21268892288208,
+        "id": "db28d7bdc6fda05503abf52614e0cd6a3f195644"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T19:28:56-03:00",
+        "tempo_execucao": 1.7784409523010254,
+        "id": "b8f01e273439434209af7d4403064e7f992becfc"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T19:29:27-03:00",
+        "tempo_execucao": 2.703530788421631,
+        "id": "7fdcf6471d15891a06f4f30e68a5978d08e45117"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T19:29:28-03:00",
+        "tempo_execucao": 1.7078821659088135,
+        "id": "0e2f9d8772e6ac579f965d5d266ea6d6131cb095"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T19:29:30-03:00",
+        "tempo_execucao": 1.5994019508361816,
+        "id": "22e0d1a3fbc9d332cf9a6d7239864225acd48e82"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T19:31:20-03:00",
+        "tempo_execucao": 4.230508804321289,
+        "id": "7a5f1ea8c9f2afdce47717ef04fa6ea628ef56db"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T19:31:22-03:00",
+        "tempo_execucao": 1.4413299560546875,
+        "id": "ac91e2b781d61ecbd26b676c7f2553bb045dff3c"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T19:31:24-03:00",
+        "tempo_execucao": 2.5986521244049072,
+        "id": "8a5fe86db5314e03ae1e19afd3a6e6f018577f0b"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:15:15-03:00",
+        "tempo_execucao": 1.9416029453277588,
+        "id": "0805f13e292a6ea9f621297e169f761b19a290b6"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:15:17-03:00",
+        "tempo_execucao": 1.5204310417175293,
+        "id": "14427caadec908435f9a148b58a5c6760d228a5d"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:15:19-03:00",
+        "tempo_execucao": 1.7658429145812988,
+        "id": "07ba66c01db5ed89c55ca0c7e399e6d7cbf9c95a"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:15:21-03:00",
+        "tempo_execucao": 1.9170889854431152,
+        "id": "e619dd697cefd7506be9db6847950b8fda596294"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:19:08-03:00",
+        "tempo_execucao": 1.795154094696045,
+        "id": "4879efa13bad8486ba57f57c1a7d6fda4062277b"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:19:10-03:00",
+        "tempo_execucao": 1.536708116531372,
+        "id": "75bc703fdc85be4bbf242d8ea41d405c54cdf623"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:19:12-03:00",
+        "tempo_execucao": 1.6610438823699951,
+        "id": "c7d499c7aa7ccabc6246130ef66ac1078a5a17cc"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:19:13-03:00",
+        "tempo_execucao": 1.5069050788879395,
+        "id": "07336854fdc6c2a9002a504318d3b7d79dbd1bb1"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:22:25-03:00",
+        "tempo_execucao": 2.128293991088867,
+        "id": "600ef12469377cf21dda29d0af082e0d6e5c3346"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:22:27-03:00",
+        "tempo_execucao": 2.0287349224090576,
+        "id": "b36d4b0ec6f51194dd81313512a79dbd6936f4ad"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:22:29-03:00",
+        "tempo_execucao": 1.8539071083068848,
+        "id": "b5fd841f8aa53db5c6b236df63d32c9a9b4dcf1f"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:22:30-03:00",
+        "tempo_execucao": 1.6158440113067627,
+        "id": "b6234efab1564f49bdb711350fe38f7e359dc833"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:23:28-03:00",
+        "tempo_execucao": 1.4133820533752441,
+        "id": "600fbbba03dd5f8a007f9e80af597adbdeb187d3"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:23:30-03:00",
+        "tempo_execucao": 1.7483010292053223,
+        "id": "4e5019f0ef3806dd8086576dd7b6fbc232d50990"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:23:32-03:00",
+        "tempo_execucao": 1.635580062866211,
+        "id": "518e95b7ec24cd8f4988299df17eedd9579323a7"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:23:34-03:00",
+        "tempo_execucao": 1.92832612991333,
+        "id": "5711f7337d9c12ae603df5f3619d61db1995987a"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:27:01-03:00",
+        "tempo_execucao": 5.273542881011963,
+        "id": "597347d2f7d2082bcdfae9ca4dda05bf9e844524"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:27:04-03:00",
+        "tempo_execucao": 2.3415098190307617,
+        "id": "675de136216d593928060a2dea076b934bc0df6e"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:27:05-03:00",
+        "tempo_execucao": 1.8575160503387451,
+        "id": "1416b19750fc90c72f4d676eb97f76a93cefaeca"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:27:07-03:00",
+        "tempo_execucao": 1.64798903465271,
+        "id": "fd38018ec98c064d3823de38d772f525f6b019f8"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:28:48-03:00",
+        "tempo_execucao": 1.7165820598602295,
+        "id": "74fb50534233d0a3a7314f8f25cfb52e045cb1a8"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:28:49-03:00",
+        "tempo_execucao": 1.5224111080169678,
+        "id": "5560280d437066ab5a60e0383694ec4d2b4a9b73"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:28:51-03:00",
+        "tempo_execucao": 1.8663368225097656,
+        "id": "7ec643770122d0fc478f9e6d52902aebf3d1e2a2"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:29:18-03:00",
+        "tempo_execucao": 1.8594989776611328,
+        "id": "1de04e2454b30ccc82205b2634bbd5c1ee337412"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:29:21-03:00",
+        "tempo_execucao": 2.6391849517822266,
+        "id": "95120f1318ba93928728201d946032b881a3df6f"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:29:22-03:00",
+        "tempo_execucao": 1.2504220008850098,
+        "id": "326cba6eb5532607876a8e6426205f883cb8d9d4"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:29:24-03:00",
+        "tempo_execucao": 1.7133910655975342,
+        "id": "b8c614668c97a3038e0862a44166b1add9cea174"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:30:26-03:00",
+        "tempo_execucao": 3.0500969886779785,
+        "id": "0c3ab54e84e98e5aa02fdc9c9889e934a112ee73"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:30:29-03:00",
+        "tempo_execucao": 2.547318935394287,
+        "id": "cb6c0018c1a4530d29b87bbe2ecc5754acf818c1"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:30:33-03:00",
+        "tempo_execucao": 3.7926971912384033,
+        "id": "6342a7848f456f5b32c97e78c2cfa2677976137a"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:30:35-03:00",
+        "tempo_execucao": 2.240616798400879,
+        "id": "0847531e278beaa5fe4692ca138194454e85c395"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:33:00-03:00",
+        "tempo_execucao": 2.315528154373169,
+        "id": "13fb11e2b03ccfeb1e7db2c550d60fcbf1f763be"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:33:03-03:00",
+        "tempo_execucao": 3.1719088554382324,
+        "id": "bd3eb6ebbf3ecb82bc363c060334835df4db8e43"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:33:06-03:00",
+        "tempo_execucao": 3.0247318744659424,
+        "id": "2eb0b51e15e37f196d5db0b5d860f50a373920dd"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:33:10-03:00",
+        "tempo_execucao": 3.581191062927246,
+        "id": "1726cab9e1919d0a7e8afbc548449fb0c5477979"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:34:41-03:00",
+        "tempo_execucao": 1.76267409324646,
+        "id": "18876079e61b506e19927d2659c4c82f5eca4519"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:34:43-03:00",
+        "tempo_execucao": 1.9025850296020508,
+        "id": "27c58577752ddbfe38f307a4c78ab8110d6016df"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:34:44-03:00",
+        "tempo_execucao": 1.7570509910583496,
+        "id": "40d1666104d59f86b334ea2ec7124e30513d7e56"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:34:46-03:00",
+        "tempo_execucao": 1.9467689990997314,
+        "id": "4e4331938e1eae210403f5cd217c6035a2d98f1b"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:35:11-03:00",
+        "tempo_execucao": 1.5666470527648926,
+        "id": "c6330a28abc1bce687315430b1ba5cf5cfc054f5"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:35:13-03:00",
+        "tempo_execucao": 2.0354480743408203,
+        "id": "75e58d6148deffcf1249d4cb46c4b6c8cf4e9528"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:35:15-03:00",
+        "tempo_execucao": 1.758922815322876,
+        "id": "4c5db994822c81b7afd4548b757f1f69b8d58c2e"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:35:17-03:00",
+        "tempo_execucao": 1.7293779850006104,
+        "id": "97e674f6df2657825813dd49738957eed9a8add4"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:38:14-03:00",
+        "tempo_execucao": 1.4007141590118408,
+        "id": "ff09819524ef84e14f624872d9e04130386133d1"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:38:16-03:00",
+        "tempo_execucao": 1.439985990524292,
+        "id": "8f4ddb96b0cc3b17fcfc10f96dc1554906cd6854"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:38:17-03:00",
+        "tempo_execucao": 1.3655121326446533,
+        "id": "8a507dd034ae9fcddc3f79586f497892294cea3f"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:38:19-03:00",
+        "tempo_execucao": 1.4909698963165283,
+        "id": "5bdf35e1b77bf736ca11c8820b4e3c9266a4ed82"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:40:03-03:00",
+        "tempo_execucao": 1.427264928817749,
+        "id": "b8bc7b3386c5e5ee328b1f99d883086e5eb42250"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:40:05-03:00",
+        "tempo_execucao": 1.5144429206848145,
+        "id": "d83c1f6c08fe43d37155bed01ff2756ff2c4a7c1"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:40:07-03:00",
+        "tempo_execucao": 1.893341064453125,
+        "id": "a7fc58c4e25fc7d1c9d1ffe7a9c1d8e802a5b2f5"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:40:08-03:00",
+        "tempo_execucao": 1.432258129119873,
+        "id": "91a983f9d2e84cce6c6256999b095285fbbd149e"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:40:35-03:00",
+        "tempo_execucao": 2.6546809673309326,
+        "id": "62d1e678844464e8b5f671767bc930bc201b22c9"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:40:37-03:00",
+        "tempo_execucao": 1.8220009803771973,
+        "id": "15f73895873f581789f19b5e4e163e3e56713a51"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:40:39-03:00",
+        "tempo_execucao": 1.959298849105835,
+        "id": "99c4a9d135aa4bf95b81b4e738b42b08d8fe0818"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:40:40-03:00",
+        "tempo_execucao": 1.9119899272918701,
+        "id": "868681f30407074c18eed96be4ab9c6b8f6bf92b"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:41:46-03:00",
+        "tempo_execucao": 1.877852201461792,
+        "id": "47e5d8ded68d8f918f0d9caa8261d6fdfc42ea44"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:41:49-03:00",
+        "tempo_execucao": 2.139496088027954,
+        "id": "54b53ab6dcfda50f69c2179abbca2a959305c747"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:41:50-03:00",
+        "tempo_execucao": 1.4697117805480957,
+        "id": "9df170dd88ab42baf58108422a029017ad028bcd"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:41:53-03:00",
+        "tempo_execucao": 2.8922200202941895,
+        "id": "06d90c4441208286293fcc437526fa2afb389e4f"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:43:34-03:00",
+        "tempo_execucao": 2.1568000316619873,
+        "id": "fbbdeb1c7b6729837f37f126e8a002e1588c4ba1"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:43:36-03:00",
+        "tempo_execucao": 1.641495943069458,
+        "id": "8f324f25c53eb0ed09f3f2692b2b2897fd53d3a3"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:43:38-03:00",
+        "tempo_execucao": 1.4887020587921143,
+        "id": "e417065eeeec40e32e4af4ff8da3d627101a473c"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:43:39-03:00",
+        "tempo_execucao": 1.7496509552001953,
+        "id": "24d6b07318e0b1e2dd3ab16fd942130b31ac7c6c"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:44:26-03:00",
+        "tempo_execucao": 2.0954599380493164,
+        "id": "6e30eb3f4eaef4b9bc22830d941ce8114bcf504e"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:44:28-03:00",
+        "tempo_execucao": 2.4541828632354736,
+        "id": "ca1b9809573c5f4f8f659e553bcbd32867a0c85d"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:44:30-03:00",
+        "tempo_execucao": 1.8969030380249023,
+        "id": "3617de8d47352f89fe007b968da1514d633c123c"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:44:33-03:00",
+        "tempo_execucao": 3.1092851161956787,
+        "id": "c65d40609d0ca977b0354c91f97e92ec25462f20"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:45:27-03:00",
+        "tempo_execucao": 2.6367411613464355,
+        "id": "aa5056f5f8d2ee1db078ddd283af998b2d9d3a9f"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:45:29-03:00",
+        "tempo_execucao": 2.381514072418213,
+        "id": "9958cdadbd10571fd6d779b336fb44765690afc4"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:45:31-03:00",
+        "tempo_execucao": 1.7831671237945557,
+        "id": "99ea1668c4af61f21e5534b7fc862f09d3a6adae"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:45:33-03:00",
+        "tempo_execucao": 1.6448919773101807,
+        "id": "d213e94d439c0cd009fbb3f1caf85e107ea6222a"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:54:18-03:00",
+        "tempo_execucao": 4.625939846038818,
+        "id": "2330db7bc8a84625ca0c69d19836e6bf0c772edd"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:54:22-03:00",
+        "tempo_execucao": 3.4763739109039307,
+        "id": "bbf3b80bc7fc8b2115f2641cfe81f6c7c47da2b3"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:54:25-03:00",
+        "tempo_execucao": 3.13919997215271,
+        "id": "fec4c6f2c3cf52f15b018e88daefc4db175b2803"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:54:28-03:00",
+        "tempo_execucao": 2.6286680698394775,
+        "id": "228b08cb48628176bb3fbe2e0e02c7ad6a80d675"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:59:41-03:00",
+        "tempo_execucao": 19.82041907310486,
+        "id": "c3511f2c1041fcc6fa1059c0a326867a941a8bd2"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T21:00:43-03:00",
+        "tempo_execucao": 29.48298192024231,
+        "id": "4eb2eb8996b8a7f8b45c00781f17927c764eccf8"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T21:00:46-03:00",
+        "tempo_execucao": 7.443982124328613,
+        "id": "53c2e3ed1ddea98e59a91b0f087044b0a4b0e16c"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T21:01:11-03:00",
+        "tempo_execucao": 9.765276193618774,
+        "id": "38ee334c6fd9eb1898eeeccf15203d719f69ff10"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T21:01:18-03:00",
+        "tempo_execucao": 6.431991100311279,
+        "id": "5d928556781a5d5dff714f3ae23d6776cc08acfc"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T21:01:20-03:00",
+        "tempo_execucao": 2.241050958633423,
+        "id": "a02b65d5aed8323407c48d26b5cf80867d0ebc17"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T21:01:24-03:00",
+        "tempo_execucao": 3.690258026123047,
+        "id": "e9cf196e9eb0747bddd4c0ebc9a6615b47bd9de4"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T21:02:24-03:00",
+        "tempo_execucao": 3.650089979171753,
+        "id": "bd79fc46025d2bc8e7b6dc56092914b0c1eb973e"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T21:02:30-03:00",
+        "tempo_execucao": 5.704571962356567,
+        "id": "c288503ebc60b6e2b411f6284bf760b7d8d4e535"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T21:02:34-03:00",
+        "tempo_execucao": 3.2026450634002686,
+        "id": "6daa2d48d3d8b6f1b269bbdca78827ef98df8c58"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T21:02:39-03:00",
+        "tempo_execucao": 5.846181869506836,
+        "id": "93d55fd58c48e8957e63aef4f28217a122160078"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T21:03:48-03:00",
+        "tempo_execucao": 8.755192041397095,
+        "id": "12bf77fd73d6fdfb6e0beb62eafdc75ccf5ce06f"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T21:03:52-03:00",
+        "tempo_execucao": 3.848140001296997,
+        "id": "f0db021e339cbeb1e81fedbd947d3dd3fa81d972"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T21:03:54-03:00",
+        "tempo_execucao": 2.046544075012207,
+        "id": "26f685d124de4e9b80d5da90e3b2f79c02571d7c"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T21:03:56-03:00",
+        "tempo_execucao": 2.0878801345825195,
+        "id": "4f5468cbf71dd7e1ce22e65a2489328cf7b2ed31"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T21:13:55-03:00",
+        "tempo_execucao": 4.953930854797363,
+        "id": "56395780d480745dc300e5cc2353af95de56655d"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T21:13:59-03:00",
+        "tempo_execucao": 3.2829198837280273,
+        "id": "d999a6a217601d1feadf792a5f9c9d423c1f4083"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T21:14:02-03:00",
+        "tempo_execucao": 3.562358856201172,
+        "id": "d3e625cde87d3dc6e1736b5b7f5bf4ca36536cbb"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T21:14:05-03:00",
+        "tempo_execucao": 2.108454942703247,
+        "id": "3b16ccdc7b0f6a04a7d289e1173a30db6a74b2e1"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T21:15:00-03:00",
+        "tempo_execucao": 4.9556989669799805,
+        "id": "854246c8c0c3f867c82ff6a7ca6794193fca6251"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T21:15:03-03:00",
+        "tempo_execucao": 3.6816091537475586,
+        "id": "7f75eec4211da756cbdf01388284b6ac8a74aafc"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T21:15:05-03:00",
+        "tempo_execucao": 1.7567319869995117,
+        "id": "2f2504987b92d7fa516366f640fbe1dfe725e8dc"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T21:15:08-03:00",
+        "tempo_execucao": 2.982819080352783,
+        "id": "2759912384cb8b8619253baffa0f969d7f5c1e94"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T21:19:38-03:00",
+        "tempo_execucao": 8.509098052978516,
+        "id": "99fd430f3c6576b344cfc1d70231a0eb424ff3dc"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T21:19:43-03:00",
+        "tempo_execucao": 4.531238079071045,
+        "id": "01b1469fcf37e96c40a0571df280efe26cb99e71"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T21:19:46-03:00",
+        "tempo_execucao": 2.9158661365509033,
+        "id": "2a97afd2172fe3a5a13e6ab3c19dcd399d67b598"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T21:19:49-03:00",
+        "tempo_execucao": 3.0607750415802,
+        "id": "9ba956ae8364df974788664f8289863cae06c86c"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T21:22:41-03:00",
+        "tempo_execucao": 4.262020111083984,
+        "id": "bfe3a425b8ceeef71995e1eeb180316d8e8345fd"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T21:22:43-03:00",
+        "tempo_execucao": 2.3021950721740723,
+        "id": "56e06a6cb73bd354faea5b2558ac1cb753dcae44"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T21:22:53-03:00",
+        "tempo_execucao": 2.5731730461120605,
+        "id": "c28d5c5b1b86dab49e473c0230541861a213438b"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T21:22:58-03:00",
+        "tempo_execucao": 4.393496036529541,
+        "id": "b64db288c2a321035d6feccefdbc1e2388803282"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T21:22:59-03:00",
+        "tempo_execucao": 1.7640509605407715,
+        "id": "be4ac280bc92de02a5a1dae6e43b73c42f3e481f"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T21:23:01-03:00",
+        "tempo_execucao": 1.7740299701690674,
+        "id": "f0a6b44cc151cc933293e8d91fc504a8695b5e92"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T21:25:06-03:00",
+        "tempo_execucao": 5.0705177783966064,
+        "id": "54cc544082eae807547ad72a64a529e34f53bef7"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T21:25:10-03:00",
+        "tempo_execucao": 4.146394968032837,
+        "id": "5e65dec472bec606cb140365b2224de06e668177"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T21:25:13-03:00",
+        "tempo_execucao": 2.4455888271331787,
+        "id": "54ac2c12ed841560c711382424a88f0344b3b9d2"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T21:25:15-03:00",
+        "tempo_execucao": 2.503221035003662,
+        "id": "c9984ac80965d50cb87907eea99ed74e2b106c75"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T21:26:57-03:00",
+        "tempo_execucao": 2.6114258766174316,
+        "id": "cb1c5d84c8dfd489a7b2a4e7a601f2920106bc49"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T21:26:59-03:00",
+        "tempo_execucao": 2.2008399963378906,
+        "id": "e03cd083f41dea31b5df54906e48d8890c3d7cf0"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T21:27:02-03:00",
+        "tempo_execucao": 2.351861000061035,
+        "id": "2ff8d6c58eb84c9addaae3b28034cb960494bb72"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T21:27:04-03:00",
+        "tempo_execucao": 2.202401876449585,
+        "id": "4f642ec681f4de1d57d2edafed5131072495ef2f"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T21:27:15-03:00",
+        "tempo_execucao": 4.892876148223877,
+        "id": "7273f8ad11b9686d3292dd9d604ddda58f08281b"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T21:27:18-03:00",
+        "tempo_execucao": 2.7823290824890137,
+        "id": "ce6177f396d4e572cf181791fb62bea8e5cb19be"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T21:27:21-03:00",
+        "tempo_execucao": 2.9916040897369385,
+        "id": "809ffa3485925f80ae48b5a652a4cc9d294e66f4"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T21:27:23-03:00",
+        "tempo_execucao": 1.9078450202941895,
+        "id": "48d5f2953cdaae5c886b7e5aea72e0b741daf750"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T21:59:20-03:00",
+        "tempo_execucao": 10.066319942474365,
+        "id": "23633ea624b5353969aacdfc247b4819da299639"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T21:59:23-03:00",
+        "tempo_execucao": 2.3024139404296875,
+        "id": "a66a42365f684a02971d6b6618413be9742039a8"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T22:00:51-03:00",
+        "tempo_execucao": 10.607320070266724,
+        "id": "c3a11959da81d1d8b5ab956620fa085b25207dbc"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T22:00:54-03:00",
+        "tempo_execucao": 2.9374239444732666,
+        "id": "4ab6647f994b882a0e582d322e815cac06bf8f12"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T23:03:56-03:00",
+        "tempo_execucao": 8.297847032546997,
+        "id": "3193dc7f3459376b8da9f555e1b7e4f3e00fdb86"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T23:03:59-03:00",
+        "tempo_execucao": 3.573385000228882,
+        "id": "7bc5f39c7f088adfb3b84c2af4421d721b556352"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T23:07:06-03:00",
+        "tempo_execucao": 5.737170934677124,
+        "id": "ad2ce428b5804ee07b2e8cc5d545db1aeae65b58"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T23:07:13-03:00",
+        "tempo_execucao": 6.4348790645599365,
+        "id": "33e0ddda7014b3dbc6c15e5f321bbaafeef1b5b3"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T23:07:16-03:00",
+        "tempo_execucao": 2.7322897911071777,
+        "id": "deeffdf576b998bb8ef67bf95293ef265984d67f"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T23:07:18-03:00",
+        "tempo_execucao": 2.6327221393585205,
+        "id": "6fb65d503a10403998f5e93eec2a1d3517881957"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T23:11:15-03:00",
+        "tempo_execucao": 2.8177490234375,
+        "id": "8c73c6e6aa5603b474734d9f7109768fd8855857"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T23:11:19-03:00",
+        "tempo_execucao": 3.680781841278076,
+        "id": "6367ca8b7efd2a8a3b60836ebe2e2355caafc6e6"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T23:11:21-03:00",
+        "tempo_execucao": 1.8948640823364258,
+        "id": "b67c809630e3599c96d969ee0600185bd622281d"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T23:11:23-03:00",
+        "tempo_execucao": 1.940230131149292,
+        "id": "a197afaf71af9dccdb7076ec960d25335eed223a"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T23:17:03-03:00",
+        "tempo_execucao": 3.8328051567077637,
+        "id": "f4f9781a4176bec261793db11c9bf5e247110369"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T23:17:07-03:00",
+        "tempo_execucao": 3.98909592628479,
+        "id": "f3828c8dd2d341ceed60b236d6eb5dfd1e88bacf"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T23:17:10-03:00",
+        "tempo_execucao": 3.15385103225708,
+        "id": "29b822b738aac3f569c772dd067feefe3e310636"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T23:17:12-03:00",
+        "tempo_execucao": 1.7487740516662598,
+        "id": "ba4773b55269d70f2d67ebeda5e91e0c913c562d"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T23:17:14-03:00",
+        "tempo_execucao": 1.9608829021453857,
+        "id": "2c3258a2ff5afaecb2376c6ba5b600051a714ec3"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T23:17:15-03:00",
+        "tempo_execucao": 1.6916680335998535,
+        "id": "730176f081da774cff2a0c77640f15c4147748a2"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T23:19:06-03:00",
+        "tempo_execucao": 1.915513038635254,
+        "id": "4d51237dd21c7bdeb8cf95b96ddc4b172fd1cdeb"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T23:19:08-03:00",
+        "tempo_execucao": 2.6940410137176514,
+        "id": "7c0bc21a57368eb7cc8d8ee62a330fc8a26acca2"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T23:19:10-03:00",
+        "tempo_execucao": 1.9182419776916504,
+        "id": "1651ae1e415b33c242ab1aa8dfad580da2ac9dfe"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T23:19:13-03:00",
+        "tempo_execucao": 2.227125883102417,
+        "id": "4d7ad63cdaed2d11bfef28a952aa77b4d6e3dee1"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T23:19:32-03:00",
+        "tempo_execucao": 1.8423678874969482,
+        "id": "23078a385b37fe4e2d85a515ed5c0549cd16447c"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T23:19:34-03:00",
+        "tempo_execucao": 1.820387840270996,
+        "id": "498389d7b07240ee3dd13cf818638b2c68536c67"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T23:19:36-03:00",
+        "tempo_execucao": 1.6953449249267578,
+        "id": "491a9744ad4fc416cb339c0f61c439920da71932"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T23:19:50-03:00",
+        "tempo_execucao": 2.584120035171509,
+        "id": "d43ba579f5337a600b1af445e989b8e57a4f9fc1"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T23:20:11-03:00",
+        "tempo_execucao": 14.261247158050537,
+        "id": "6283f315e367acb8f773c55eec32fedd35bbd095"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T23:20:14-03:00",
+        "tempo_execucao": 2.8600568771362305,
+        "id": "68a48bf8b2b35693119969825c5bcb063edc74b3"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T23:21:11-03:00",
+        "tempo_execucao": 3.6108081340789795,
+        "id": "99ffef663b07201293eaa401e7073056a58324e9"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T23:21:14-03:00",
+        "tempo_execucao": 2.945098876953125,
+        "id": "f0ad6d048f7d4124aa552a57728b1439398522dc"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "CategoriaController",
+        "mensagem": "Categorias ativas listadas com sucesso",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T23:21:17-03:00",
+        "tempo_execucao": 3.853400945663452,
+        "id": "7c286888fa359730732db3eddc736e83d9112cef"
+    }
+]

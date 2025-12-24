@@ -1,0 +1,42 @@
+[
+    {
+        "tipo": "Sql",
+        "modulo": "BaseDao",
+        "mensagem": "SQL findAll: SELECT * FROM menu",
+        "arquivo": "MenuDao.php",
+        "linha": 144,
+        "data": "2025-12-24T00:28:44-03:00",
+        "tempo_execucao": 3.612064838409424,
+        "id": "85d29185cee58c55b8521c21b43d793706578fa8"
+    },
+    {
+        "tipo": "Sql",
+        "modulo": "BaseDao",
+        "mensagem": "SQL findAll: SELECT * FROM menu",
+        "arquivo": "MenuDao.php",
+        "linha": 144,
+        "data": "2025-12-24T00:28:46-03:00",
+        "tempo_execucao": 2.340022087097168,
+        "id": "a0c92e4aa55c0f8be0eae51181b81fc0d5657d29"
+    },
+    {
+        "tipo": "Sql",
+        "modulo": "BaseDao",
+        "mensagem": "SQL findAll: SELECT * FROM menu",
+        "arquivo": "MenuDao.php",
+        "linha": 144,
+        "data": "2025-12-24T00:36:22-03:00",
+        "tempo_execucao": 2.194869041442871,
+        "id": "e4f5527ef5496ba0495e613053e1ce49be540b61"
+    },
+    {
+        "tipo": "Sql",
+        "modulo": "BaseDao",
+        "mensagem": "SQL findAll: SELECT * FROM menu",
+        "arquivo": "MenuDao.php",
+        "linha": 144,
+        "data": "2025-12-24T00:39:47-03:00",
+        "tempo_execucao": 2.6963720321655273,
+        "id": "fbb6b10675296498318d2f285668a24e9dd08b41"
+    }
+]

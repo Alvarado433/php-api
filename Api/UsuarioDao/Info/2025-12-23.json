@@ -1,0 +1,12 @@
+[
+    {
+        "tipo": "Info",
+        "modulo": "UsuarioDao",
+        "mensagem": "Usu\u00e1rio 'sistema@gmail.com' criado com sucesso.",
+        "arquivo": "UsuarioController.php",
+        "linha": 72,
+        "data": "2025-12-23T23:09:50-03:00",
+        "tempo_execucao": 4.145561933517456,
+        "id": "1d55f429fb282681823d40724022cf9e2d0dfefb"
+    }
+]

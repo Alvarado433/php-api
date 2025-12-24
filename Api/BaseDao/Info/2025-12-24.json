@@ -1,0 +1,82 @@
+[
+    {
+        "tipo": "Info",
+        "modulo": "BaseDao",
+        "mensagem": "Par\u00e2metros: []",
+        "arquivo": "MenuDao.php",
+        "linha": 144,
+        "data": "2025-12-24T00:28:44-03:00",
+        "tempo_execucao": 3.6127710342407227,
+        "id": "4b95b5cb859598b29c21c6fd02a632fdb714301d"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "BaseDao",
+        "mensagem": "Preparando SQL com par\u00e2metros...",
+        "arquivo": "BaseDAo.php",
+        "linha": 42,
+        "data": "2025-12-24T00:28:45-03:00",
+        "tempo_execucao": 3.9584200382232666,
+        "id": "c8621e4bbe4c8ec9fe978007ee032d14de266d15"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "BaseDao",
+        "mensagem": "Par\u00e2metros: []",
+        "arquivo": "MenuDao.php",
+        "linha": 144,
+        "data": "2025-12-24T00:28:46-03:00",
+        "tempo_execucao": 2.3407061100006104,
+        "id": "33f87b5978110f1bbf12e9de6ee684c23939db79"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "BaseDao",
+        "mensagem": "Preparando SQL com par\u00e2metros...",
+        "arquivo": "BaseDAo.php",
+        "linha": 42,
+        "data": "2025-12-24T00:28:46-03:00",
+        "tempo_execucao": 2.3980791568756104,
+        "id": "7b55c5fe5afdcbc8e3ea457bafa0ce5e733ef4c1"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "BaseDao",
+        "mensagem": "Par\u00e2metros: []",
+        "arquivo": "MenuDao.php",
+        "linha": 144,
+        "data": "2025-12-24T00:36:22-03:00",
+        "tempo_execucao": 2.1966259479522705,
+        "id": "59173fa71313b14997805d06335b70b2c66b3bbe"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "BaseDao",
+        "mensagem": "Preparando SQL com par\u00e2metros...",
+        "arquivo": "BaseDAo.php",
+        "linha": 42,
+        "data": "2025-12-24T00:36:22-03:00",
+        "tempo_execucao": 2.3240928649902344,
+        "id": "8a6dd52b1a0c0ce65297d157e8c943224a0137df"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "BaseDao",
+        "mensagem": "Par\u00e2metros: []",
+        "arquivo": "MenuDao.php",
+        "linha": 144,
+        "data": "2025-12-24T00:39:47-03:00",
+        "tempo_execucao": 2.7372329235076904,
+        "id": "07deed87ab5d714531d052f7478239df379f1a1e"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "BaseDao",
+        "mensagem": "Preparando SQL com par\u00e2metros...",
+        "arquivo": "BaseDAo.php",
+        "linha": 42,
+        "data": "2025-12-24T00:39:47-03:00",
+        "tempo_execucao": 2.9201760292053223,
+        "id": "8beed6fb3ff5a09fc7b12f020411fa1204f1b848"
+    }
+]

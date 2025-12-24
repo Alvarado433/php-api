@@ -1,0 +1,872 @@
+[
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T19:02:56-03:00",
+        "tempo_execucao": 3.4856269359588623,
+        "id": "a1e454eebd3ce4a0a20a6ed256a8c3f9c1414312"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T19:02:58-03:00",
+        "tempo_execucao": 2.075378179550171,
+        "id": "699709f8b80134e044379939b02c1b4d776872e5"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T19:05:34-03:00",
+        "tempo_execucao": 1.7927520275115967,
+        "id": "51831b519eb69ef3d1644aa44803473603704c53"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T19:07:00-03:00",
+        "tempo_execucao": 2.1130008697509766,
+        "id": "940031c3f5a2b68e6e43f9be043bc3167bc47934"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T19:07:01-03:00",
+        "tempo_execucao": 1.7147350311279297,
+        "id": "5caee2c37819324e3a1fb6a133142abe31f5d389"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T19:14:29-03:00",
+        "tempo_execucao": 4.911360025405884,
+        "id": "d14f141ce801a7fa5b7ba7902d850a47cd690da8"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T19:27:14-03:00",
+        "tempo_execucao": 2.8617401123046875,
+        "id": "3dd97d9e7e135d51dff676e8b640cce3fe3b0901"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T19:28:52-03:00",
+        "tempo_execucao": 2.125429153442383,
+        "id": "86f06fc3d7484a36a8d85625420959cedf3b6f2f"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T19:29:26-03:00",
+        "tempo_execucao": 2.4070332050323486,
+        "id": "55689d7330da4d5a21c5d6d5b32d2a8a9afc7462"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T19:31:20-03:00",
+        "tempo_execucao": 4.270284175872803,
+        "id": "cb9cdeced934c9ba715e9b394158a075a6c37573"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:15:15-03:00",
+        "tempo_execucao": 1.8974599838256836,
+        "id": "f500441e3ef050f338a62841d9d3a2912f659097"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:15:17-03:00",
+        "tempo_execucao": 1.3823459148406982,
+        "id": "643244dd16c849a76fab8cbb40d835f3b508eb3a"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:19:08-03:00",
+        "tempo_execucao": 1.8716368675231934,
+        "id": "e7a9c1162e8426b00ae8c3e824cdcfb056391b03"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:19:10-03:00",
+        "tempo_execucao": 1.8817269802093506,
+        "id": "585fe401c8dabf9592f9e750792a9602158b9d92"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:22:25-03:00",
+        "tempo_execucao": 1.96669602394104,
+        "id": "954ba26fa4630b85cc4e84d624478a4ea7238083"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:22:27-03:00",
+        "tempo_execucao": 1.990102767944336,
+        "id": "146fbb98f3943e81263a772cded2aa66ea26cf15"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:23:28-03:00",
+        "tempo_execucao": 1.2863991260528564,
+        "id": "82a5be05449b34d36504702503213f762971654b"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:23:30-03:00",
+        "tempo_execucao": 1.7125489711761475,
+        "id": "380d3b5ecb59dc166da4aae946b0a9952ab0840d"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:26:59-03:00",
+        "tempo_execucao": 3.711083173751831,
+        "id": "c07bc98bc76cd31870179fd8573fb07cc1e7e6e8"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:27:03-03:00",
+        "tempo_execucao": 2.949146032333374,
+        "id": "3f747b3b78d5db9a4be35ad1fc25c66ba3abc59b"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:28:47-03:00",
+        "tempo_execucao": 1.640765905380249,
+        "id": "80bf72a8cd680bf36f5cb92704333c66895da449"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:29:19-03:00",
+        "tempo_execucao": 1.9150240421295166,
+        "id": "fd1081e57d60c68deb9e0420c8f36934de1efbd7"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:29:21-03:00",
+        "tempo_execucao": 2.7412610054016113,
+        "id": "887ae42ca835930a8790c2785cd7157512fcbdbf"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:30:26-03:00",
+        "tempo_execucao": 3.2071778774261475,
+        "id": "f0c3195f4a36c4e0b8f2c92410a23d785da0ded3"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:30:29-03:00",
+        "tempo_execucao": 2.7466800212860107,
+        "id": "763a92be49e30f9ec7c7fe963305a9092c4c40c3"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:33:00-03:00",
+        "tempo_execucao": 2.43357515335083,
+        "id": "91e2a2648844c1a86ad15185c82d98c3854863ab"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:33:03-03:00",
+        "tempo_execucao": 3.026956081390381,
+        "id": "f68d0a9efdf6cfac537d4a653c7fb20ef1bc0792"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:34:41-03:00",
+        "tempo_execucao": 1.8004980087280273,
+        "id": "3bdaf127b90dec45702e7d6089c3559b30d5c5fc"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:34:43-03:00",
+        "tempo_execucao": 1.7522552013397217,
+        "id": "eacd05f7dc10a3d7d18a9afacf05e070f8e9234e"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:35:11-03:00",
+        "tempo_execucao": 1.663316011428833,
+        "id": "9a650c56761584f5aae048f0e3809cd8171ccbff"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:35:13-03:00",
+        "tempo_execucao": 2.2639381885528564,
+        "id": "9f74e55015cde701869ab24b8f12e2e028b82c54"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:38:14-03:00",
+        "tempo_execucao": 1.4585399627685547,
+        "id": "18a5e00f6a7f52aa4fdeb7c85a0ec75239a76b35"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:38:16-03:00",
+        "tempo_execucao": 1.5025529861450195,
+        "id": "25d40fb94fbb6508ee359fde2d7d171ab6edda91"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:40:03-03:00",
+        "tempo_execucao": 1.3911361694335938,
+        "id": "fcb8e8f58f3b2c120b59df44406625bf42588dca"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:40:05-03:00",
+        "tempo_execucao": 1.3704569339752197,
+        "id": "8204d350715a96b490ec5dca0c12d58a216508f1"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:40:34-03:00",
+        "tempo_execucao": 2.1160669326782227,
+        "id": "c91b066b37806ba91ebaff27f993e6f461f093e6"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:40:36-03:00",
+        "tempo_execucao": 2.1073780059814453,
+        "id": "8d86b390f8be86ed8c6143a1c97803b2eaa2146a"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:41:46-03:00",
+        "tempo_execucao": 1.9660999774932861,
+        "id": "a88a1f533bf63c208d79fa0a1427c82610a01241"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:41:49-03:00",
+        "tempo_execucao": 2.1515769958496094,
+        "id": "e24d930dd403ce46e881fad68579481579a4e5ca"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:43:34-03:00",
+        "tempo_execucao": 2.1470041275024414,
+        "id": "0d2da0acea7a0c10c0078c91c9a07ca2ce8cc2f0"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:43:36-03:00",
+        "tempo_execucao": 1.608147144317627,
+        "id": "43f124c1ff3e3dd36c3c4cd89964ace38d2310c7"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:44:26-03:00",
+        "tempo_execucao": 2.341150999069214,
+        "id": "c747ccf2e2a28a3b355ccf1d2ef97192140a4563"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:44:28-03:00",
+        "tempo_execucao": 2.4421629905700684,
+        "id": "fd0f0e4632aca33598b03079ee414179e6b90367"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:45:27-03:00",
+        "tempo_execucao": 2.7302229404449463,
+        "id": "3c8b06400ba9e28bcb7897cfa68c615fb9ca4432"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:45:29-03:00",
+        "tempo_execucao": 2.149158000946045,
+        "id": "4a907470992ababa68b3b4c532c924989425dc80"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:54:19-03:00",
+        "tempo_execucao": 5.492538928985596,
+        "id": "36c46dc42ae43a197b98e739900c7d24eca45670"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:54:22-03:00",
+        "tempo_execucao": 3.101422071456909,
+        "id": "47c9c71ac03f162c645f979aeba7992caa2cd599"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T20:59:39-03:00",
+        "tempo_execucao": 17.283226013183594,
+        "id": "16dd2e8626016b73e7f2811c979c9f21894dcc18"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T21:01:11-03:00",
+        "tempo_execucao": 9.866696119308472,
+        "id": "ebee315294eb340e8b8cb8d172ad3f019cce44fb"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T21:01:18-03:00",
+        "tempo_execucao": 6.721232891082764,
+        "id": "7e296fb43e315a79c78b061ea628d61df29a87fe"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T21:02:25-03:00",
+        "tempo_execucao": 3.7081139087677,
+        "id": "e8a19eb494d0e29d4694e302a21200f7f4b1c7b6"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T21:02:31-03:00",
+        "tempo_execucao": 5.95607590675354,
+        "id": "fe6dac360e5670c47a867930c247e566ed70f590"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T21:03:48-03:00",
+        "tempo_execucao": 8.909861087799072,
+        "id": "ada39156d697ca2ab070b4bd685416ee00daffaa"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T21:03:52-03:00",
+        "tempo_execucao": 3.725296974182129,
+        "id": "0218ddf44696aa0b8f309e67f3ffa535ad399f6e"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T21:13:56-03:00",
+        "tempo_execucao": 5.173290014266968,
+        "id": "cd28d5138cb554566e588b539388cad6f80d4547"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T21:14:01-03:00",
+        "tempo_execucao": 5.712160110473633,
+        "id": "7938f25cfcfcc6ec1549f22b1e679445d8390437"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T21:15:00-03:00",
+        "tempo_execucao": 5.072341203689575,
+        "id": "e1310fc2483d6e58fc01dbfc85143b1f22a7322c"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T21:15:03-03:00",
+        "tempo_execucao": 3.246026039123535,
+        "id": "cb53eee36b708e9fe1f9073180fd25919a52cedc"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T21:19:38-03:00",
+        "tempo_execucao": 9.067418098449707,
+        "id": "616feb6479276fdab6e7e893a738e9a206c6d873"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T21:19:43-03:00",
+        "tempo_execucao": 4.287841081619263,
+        "id": "f17187966932735596694fdf27d5101156846e54"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T21:22:41-03:00",
+        "tempo_execucao": 4.235357999801636,
+        "id": "bdd19ee79ce4c97db4d3a25dcd44d5165429a6dd"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T21:22:43-03:00",
+        "tempo_execucao": 1.8830528259277344,
+        "id": "d61f162a41eafd766b693d390c2c1281d191f989"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T21:22:53-03:00",
+        "tempo_execucao": 2.496713876724243,
+        "id": "495968962e708d032f3326bc8160066451032c3a"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T21:22:57-03:00",
+        "tempo_execucao": 4.131038188934326,
+        "id": "f3417cbc81418cc1352ae9e2f119720caef60465"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T21:25:06-03:00",
+        "tempo_execucao": 5.311534881591797,
+        "id": "ddb5fe54ca1666e3ee2107e4e05b25672be169e7"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T21:25:10-03:00",
+        "tempo_execucao": 3.9784018993377686,
+        "id": "8ccb890e0439c82b7023b0ba9354a517b7c554fe"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T21:26:57-03:00",
+        "tempo_execucao": 2.3345820903778076,
+        "id": "07a8b9d4df634121e561105b879ea88ca61d03ee"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T21:26:59-03:00",
+        "tempo_execucao": 2.2649638652801514,
+        "id": "586b7fa39b4facd29605c35aabb34874d53fb38b"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T21:27:14-03:00",
+        "tempo_execucao": 3.9078049659729004,
+        "id": "617502b5816d05cca4d2ab926b2a1d8962c97767"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T21:27:17-03:00",
+        "tempo_execucao": 2.7768428325653076,
+        "id": "5b69277faf29cd5134bb59a68804c59ad17c0711"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T21:59:14-03:00",
+        "tempo_execucao": 4.2498459815979,
+        "id": "facbde408a1f09c65a58f5f505f3048c6e1a00f4"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T21:59:18-03:00",
+        "tempo_execucao": 3.223886013031006,
+        "id": "95d795220bee2cd2a51016cb95bc14a65cee7bbe"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T22:00:47-03:00",
+        "tempo_execucao": 7.53909707069397,
+        "id": "2fa270e3ed53ce6cb1eb54418b465494970d6009"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T22:00:52-03:00",
+        "tempo_execucao": 4.748309135437012,
+        "id": "24eb5ab23931f2787d9b2eaf8864b16add82302d"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T23:03:51-03:00",
+        "tempo_execucao": 3.4990949630737305,
+        "id": "b8901940d59161dca68ccaea8a5954ac2e93582a"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T23:03:53-03:00",
+        "tempo_execucao": 2.3201680183410645,
+        "id": "551f22f67de4290badff4f14d312af2570c9c7c9"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T23:07:08-03:00",
+        "tempo_execucao": 7.612918138504028,
+        "id": "3eb800db7e199531f17cfcb90a34ecdce8182593"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T23:07:15-03:00",
+        "tempo_execucao": 6.027129888534546,
+        "id": "166f303d0249ecb847fb6418fdcf29a5743085dd"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T23:11:15-03:00",
+        "tempo_execucao": 2.9919230937957764,
+        "id": "4a95960331e5d24149d331936a2e86d07bea2702"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T23:11:19-03:00",
+        "tempo_execucao": 3.4110240936279297,
+        "id": "4f3f2b2491e075c7416a4ee74a4ba56e9fdaa15a"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T23:17:03-03:00",
+        "tempo_execucao": 4.39253306388855,
+        "id": "bbd5d3ecd790fbcda1940064aeac5f62119ac536"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T23:17:09-03:00",
+        "tempo_execucao": 5.667492151260376,
+        "id": "b74caacf66c3f2e5157750d8ebcda200f17d1e80"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T23:19:06-03:00",
+        "tempo_execucao": 1.9920918941497803,
+        "id": "d7cd82e2bb420e9beb2f7c47bcc10e4116dcd018"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T23:19:08-03:00",
+        "tempo_execucao": 2.4585559368133545,
+        "id": "09fc63e56afbd967e39d4bc8820a7a75df795848"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T23:19:32-03:00",
+        "tempo_execucao": 2.021888017654419,
+        "id": "8471713d9824931a66715a22b963124987d1609c"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T23:19:50-03:00",
+        "tempo_execucao": 2.554839849472046,
+        "id": "caec829109e29563ee73b5a52d854bfae5536020"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-23T23:21:11-03:00",
+        "tempo_execucao": 3.616001844406128,
+        "id": "b72b0e541666fab8c9c84593b8725f46b137643f"
+    }
+]

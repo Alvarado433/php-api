@@ -1,0 +1,182 @@
+[
+    {
+        "tipo": "Error",
+        "modulo": "roteamento",
+        "mensagem": "Erro no roteador: Falha ao gerar controller CarrinhoController, classe n\u00e3o encontrada.",
+        "arquivo": "index.php",
+        "linha": 24,
+        "data": "2025-12-23T19:03:05-03:00",
+        "tempo_execucao": 1.8384060859680176,
+        "id": "cbb65872a312662fa7e5cf6576c5085e1ae7ed6b"
+    },
+    {
+        "tipo": "Error",
+        "modulo": "roteamento",
+        "mensagem": "Erro no roteador: Config\\Base\\Basecontrolador::Mensagemjson(): Argument #3 ($dados) must be of type array, bool given, called in C:\\xampp\\htdocs\\Imperio\\Imperio\\Controllers\\CarrinhoController.php on line 32",
+        "arquivo": "index.php",
+        "linha": 24,
+        "data": "2025-12-23T19:05:45-03:00",
+        "tempo_execucao": 7.647294998168945,
+        "id": "dac399f166440b9f013a216b5981fe86dbde5e5c"
+    },
+    {
+        "tipo": "Error",
+        "modulo": "roteamento",
+        "mensagem": "Erro no roteador: Rota n\u00e3o encontrada: get \/favicon.ico",
+        "arquivo": "index.php",
+        "linha": 24,
+        "data": "2025-12-23T19:08:26-03:00",
+        "tempo_execucao": 1.7275800704956055,
+        "id": "16fd5f14251555b93c648774869eb6fa33e40f13"
+    },
+    {
+        "tipo": "Error",
+        "modulo": "roteamento",
+        "mensagem": "Erro no roteador: Rota n\u00e3o encontrada: get \/favicon.ico",
+        "arquivo": "index.php",
+        "linha": 24,
+        "data": "2025-12-23T19:27:56-03:00",
+        "tempo_execucao": 1.907088041305542,
+        "id": "8b2e657d6869184f58c7fd831e2deb7af5c63ee9"
+    },
+    {
+        "tipo": "Error",
+        "modulo": "roteamento",
+        "mensagem": "Erro no roteador: Rota n\u00e3o encontrada: get \/favicon.ico",
+        "arquivo": "index.php",
+        "linha": 24,
+        "data": "2025-12-23T20:17:41-03:00",
+        "tempo_execucao": 2.6317429542541504,
+        "id": "543418de5f7c9acea982c5a6b099abe2d2d0dfd1"
+    },
+    {
+        "tipo": "Error",
+        "modulo": "roteamento",
+        "mensagem": "Erro no roteador: Rota n\u00e3o encontrada: get \/favicon.ico",
+        "arquivo": "index.php",
+        "linha": 24,
+        "data": "2025-12-23T20:22:53-03:00",
+        "tempo_execucao": 1.724776029586792,
+        "id": "2449eb5d72b4a69e371f2f42190657e8cb66fa56"
+    },
+    {
+        "tipo": "Error",
+        "modulo": "roteamento",
+        "mensagem": "Erro no roteador: Falha ao gerar controller PedidoController, classe n\u00e3o encontrada.",
+        "arquivo": "index.php",
+        "linha": 24,
+        "data": "2025-12-23T20:33:14-03:00",
+        "tempo_execucao": 2.538857936859131,
+        "id": "7b4ec425d452e3ce14d3286512e3a7e91dcf11f7"
+    },
+    {
+        "tipo": "Error",
+        "modulo": "roteamento",
+        "mensagem": "Erro no roteador: Rota n\u00e3o encontrada: get \/favicon.ico",
+        "arquivo": "index.php",
+        "linha": 24,
+        "data": "2025-12-23T20:35:47-03:00",
+        "tempo_execucao": 2.0950429439544678,
+        "id": "a42dffb9ec02a7f4c983d037667fe7cd9edee002"
+    },
+    {
+        "tipo": "Error",
+        "modulo": "roteamento",
+        "mensagem": "Erro no roteador: Rota n\u00e3o encontrada: get \/favicon.ico",
+        "arquivo": "index.php",
+        "linha": 24,
+        "data": "2025-12-23T21:11:06-03:00",
+        "tempo_execucao": 2.1535940170288086,
+        "id": "4dd163c6064c6aa91c54314b017d3fcbc291f39a"
+    },
+    {
+        "tipo": "Error",
+        "modulo": "roteamento",
+        "mensagem": "Erro no roteador: Rota n\u00e3o encontrada: get \/favicon.ico",
+        "arquivo": "index.php",
+        "linha": 24,
+        "data": "2025-12-23T21:20:56-03:00",
+        "tempo_execucao": 2.1380250453948975,
+        "id": "4e7e8113ecb59a74a9b9b8ab882e8291d3f15236"
+    },
+    {
+        "tipo": "Error",
+        "modulo": "roteamento",
+        "mensagem": "Erro no roteador: Rota n\u00e3o encontrada: get \/favicon.ico",
+        "arquivo": "index.php",
+        "linha": 24,
+        "data": "2025-12-23T21:21:20-03:00",
+        "tempo_execucao": 1.9307949542999268,
+        "id": "7f1cae8b298d3b9ad4fb678fc949860e5824cfa4"
+    },
+    {
+        "tipo": "Error",
+        "modulo": "roteamento",
+        "mensagem": "Erro no roteador: Rota n\u00e3o encontrada: get \/favicon.ico",
+        "arquivo": "index.php",
+        "linha": 24,
+        "data": "2025-12-23T21:25:34-03:00",
+        "tempo_execucao": 2.163649082183838,
+        "id": "b028f5619153c033906ffbf4a1b4c1a22d9e7e34"
+    },
+    {
+        "tipo": "Error",
+        "modulo": "roteamento",
+        "mensagem": "Erro no roteador: Rota n\u00e3o encontrada: get \/v1\/config\/login",
+        "arquivo": "index.php",
+        "linha": 24,
+        "data": "2025-12-23T23:08:03-03:00",
+        "tempo_execucao": 1.8313658237457275,
+        "id": "abf1444f39ce32637e95528486bae82a7cd98e7b"
+    },
+    {
+        "tipo": "Error",
+        "modulo": "roteamento",
+        "mensagem": "Erro no roteador: Rota n\u00e3o encontrada: get \/v1\/config\/login",
+        "arquivo": "index.php",
+        "linha": 24,
+        "data": "2025-12-23T23:08:05-03:00",
+        "tempo_execucao": 1.8396620750427246,
+        "id": "a712909bd4994476545ea6636290d388a30dfb0b"
+    },
+    {
+        "tipo": "Error",
+        "modulo": "roteamento",
+        "mensagem": "Erro no roteador: Rota n\u00e3o encontrada: get \/v1\/config\/login",
+        "arquivo": "index.php",
+        "linha": 24,
+        "data": "2025-12-23T23:10:01-03:00",
+        "tempo_execucao": 2.7187509536743164,
+        "id": "96e8355b9824e36f8fca81b2f3ae99a83ce50935"
+    },
+    {
+        "tipo": "Error",
+        "modulo": "roteamento",
+        "mensagem": "Erro no roteador: Rota n\u00e3o encontrada: get \/v1\/catalogo",
+        "arquivo": "index.php",
+        "linha": 24,
+        "data": "2025-12-23T23:19:32-03:00",
+        "tempo_execucao": 1.6341559886932373,
+        "id": "a59cd6f57bbd13c333a8425187bfba01d416961f"
+    },
+    {
+        "tipo": "Error",
+        "modulo": "roteamento",
+        "mensagem": "Erro no roteador: Rota n\u00e3o encontrada: get \/v1\/catalogo",
+        "arquivo": "index.php",
+        "linha": 24,
+        "data": "2025-12-23T23:19:50-03:00",
+        "tempo_execucao": 2.5158610343933105,
+        "id": "83d553e863f9d54d6f4da4be4b895439efd23e01"
+    },
+    {
+        "tipo": "Error",
+        "modulo": "roteamento",
+        "mensagem": "Erro no roteador: Rota n\u00e3o encontrada: get \/v1\/catalogo",
+        "arquivo": "index.php",
+        "linha": 24,
+        "data": "2025-12-23T23:21:10-03:00",
+        "tempo_execucao": 3.192795991897583,
+        "id": "f7d64c4c0fc83844d25b1828e46e4521b958bfbc"
+    }
+]

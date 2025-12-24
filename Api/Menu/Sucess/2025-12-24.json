@@ -1,0 +1,42 @@
+[
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-24T00:28:45-03:00",
+        "tempo_execucao": 4.110774993896484,
+        "id": "97328f3856b00523cb0047e5ff852e1971381102"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-24T00:28:47-03:00",
+        "tempo_execucao": 2.448831081390381,
+        "id": "748c74aa10321beca997613e05e1755134040dad"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-24T00:36:23-03:00",
+        "tempo_execucao": 2.612257957458496,
+        "id": "32541266e9974fe96493382800ffae38b111d882"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-24T00:39:47-03:00",
+        "tempo_execucao": 2.9993019104003906,
+        "id": "f8744afd7bf02b6d85f85ca7d2e59fe5ce4eb3d3"
+    }
+]
