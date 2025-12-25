@@ -54,6 +54,27 @@ class DashboardController extends Basecontrolador
     }
 
     // ======================================================
+    // 🛒 CARRINHOS (ADMIN)
+    // ======================================================
+    // Dentro de DashboardController
+    public function listarCarrinhos(): void
+    {
+        self::info("Carrinho: listando todos os carrinhos");
+        $carrinhos = \App\Dao\Carrinho\CarrinhoDao::listarTodos();
+
+        // Transforma para JSON simples
+        $dados = array_map(fn($c) => [
+            "id_carrinho" => $c['id_carrinho'],
+            "usuario_id" => $c['usuario_id'],
+            "criado" => $c['criado'] ?? null,
+        ], $carrinhos);
+
+        self::success(count($dados) . " carrinhos carregados");
+        self::Mensagemjson("Carrinhos carregados", 200, $dados);
+    }
+
+
+    // ======================================================
     // 📦 PRODUTOS
     // ======================================================
     public function listartudo(): void

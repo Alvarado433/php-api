@@ -165,6 +165,8 @@ roteamento::get("/catalogo", "CatalogoController@listar");
         | 🛒 CARRINHO
         |----------------------------------------------------------------------
         */
+        Groups::get("/carrinhos", "DashboardController@listarCarrinhos");
+
 roteamento::get("/carrinho/{usuarioId}", "CarrinhoController@listar");            // listar itens + endereço
 roteamento::post("/carrinho/adicionar", "CarrinhoController@adicionar");         // adicionar item
 roteamento::put("/carrinho/atualizar/{itemId}", "CarrinhoController@atualizar"); // atualizar quantidade
