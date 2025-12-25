@@ -20,7 +20,7 @@ Cors::aplicar();
 
 
 roteamento::next("/v1", "HomeRouter");
-roteamento::next("/v1/admin", "admin");
+
 roteamento::start();
 
 

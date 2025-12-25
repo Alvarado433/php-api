@@ -1,4 +1,5 @@
 <?php
+
 namespace App\Dao\Carrinho;
 
 use Config\BaseDao\BaseDao;
@@ -7,6 +8,11 @@ use App\Models\Carrinho\Carrinho;
 class CarrinhoDao extends BaseDao
 {
     protected static string $tabela = 'carrinho';
+    public static function listarTodos(): array
+    {
+        $sql = "SELECT * FROM " . self::$tabela;
+        return self::findAll($sql);
+    }
 
     public static function criar(Carrinho $carrinho): bool
     {

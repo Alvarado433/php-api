@@ -3,7 +3,8 @@
 namespace Imperio\Controllers;
 
 use Config\Base\Basecontrolador;
-use App\Dao\categoria\CategoriaDao;
+use App\Dao\Categoria\CategoriaDao;
+
 
 class CategoriaController extends Basecontrolador
 {
@@ -61,7 +62,7 @@ class CategoriaController extends Basecontrolador
     public static function buscar($id)
     {
         try {
-            $categoria = CategoriaDao::buscarPorId((int)$id);
+           $categoria = CategoriaDao::buscar((int)$id);
 
             if (!$categoria) {
                 self::Mensagemjson("Categoria não encontrada", 404);

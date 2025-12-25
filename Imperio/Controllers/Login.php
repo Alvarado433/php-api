@@ -136,9 +136,10 @@ class Login extends Basecontrolador
             'samesite' => $isHttps ? 'None' : 'Lax',
         ];
 
-        // ⚠️ domínio só em HTTPS real
-        if ($isHttps) {
-            $cookieOptions['domain'] = '.imperioloja.com.br';
+        // 🔑 Use o domínio atual automaticamente
+        $host = $_SERVER['HTTP_HOST'] ?? null;
+        if ($isHttps && $host) {
+            $cookieOptions['domain'] = $host;
         }
 
         setcookie('imperio_session', $token, $cookieOptions);

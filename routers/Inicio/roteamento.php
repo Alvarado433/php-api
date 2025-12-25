@@ -8,7 +8,11 @@ use Routers\Namespace\Resolver;
 class roteamento extends BaseRoteamento
 {
     protected static array $routers = ['get', 'post', 'put', 'delete'];
-
+    // ✅ Adicione este método público
+    public static function listarRotas(): array
+    {
+        return static::$rotas;
+    }
     public static function start()
     {
         try {
@@ -21,7 +25,7 @@ class roteamento extends BaseRoteamento
 
             foreach (static::$rotas[$metodo] ?? [] as $rota => $acao) {
                 // Transformar /footer/{footerId}/links em regex
-               $pattern = preg_replace('/\{[a-zA-Z0-9_]+\}/', '(.+)', $rota);
+                $pattern = preg_replace('/\{[a-zA-Z0-9_]+\}/', '(.+)', $rota);
                 $pattern = "#^" . $pattern . "$#";
 
                 if (preg_match($pattern, $url, $matches)) {
@@ -45,7 +49,6 @@ class roteamento extends BaseRoteamento
             if (!$rotaEncontrada) {
                 throw new \Exception("Rota não encontrada: {$metodo} {$url}");
             }
-
         } catch (\Throwable $th) {
             self::error("Erro no roteador: " . $th->getMessage());
             throw $th;

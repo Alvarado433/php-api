@@ -268,5 +268,275 @@
         "data": "2025-12-24T01:39:48-03:00",
         "tempo_execucao": 2.0120038986206055,
         "id": "ec2e3d84c6a86ff9d342d84ee56627b17445a055"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "Groups",
+        "mensagem": "Iniciando grupo de rotas: \/v1\/admin",
+        "arquivo": "HomeRouter.php",
+        "linha": 159,
+        "data": "2025-12-24T17:13:30-03:00",
+        "tempo_execucao": 7.2302281856536865,
+        "id": "5c787b617aab65f1b8ccec8f98c071ea7c3e95fe"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "Groups",
+        "mensagem": "AUTH ativado para o grupo atual.",
+        "arquivo": "HomeRouter.php",
+        "linha": 162,
+        "data": "2025-12-24T17:13:30-03:00",
+        "tempo_execucao": 7.3264100551605225,
+        "id": "3a23252106cfcb92fef59417e93f66e064519acf"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "Groups",
+        "mensagem": "Finalizando grupo de rotas.",
+        "arquivo": "HomeRouter.php",
+        "linha": 159,
+        "data": "2025-12-24T17:13:30-03:00",
+        "tempo_execucao": 7.35491418838501,
+        "id": "77e4fc2b4a5268a4d7211cc56e1bf2b5fa96779c"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "Groups",
+        "mensagem": "Iniciando grupo de rotas: \/v1\/admin",
+        "arquivo": "HomeRouter.php",
+        "linha": 159,
+        "data": "2025-12-24T17:13:37-03:00",
+        "tempo_execucao": 2.9673850536346436,
+        "id": "4c6873a43078778e08ecaf34abc5a84480cfc46f"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "Groups",
+        "mensagem": "AUTH ativado para o grupo atual.",
+        "arquivo": "HomeRouter.php",
+        "linha": 162,
+        "data": "2025-12-24T17:13:37-03:00",
+        "tempo_execucao": 2.96834397315979,
+        "id": "45513e0a828762073a91f2a1d6333e42a81ff668"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "Groups",
+        "mensagem": "Finalizando grupo de rotas.",
+        "arquivo": "HomeRouter.php",
+        "linha": 159,
+        "data": "2025-12-24T17:13:37-03:00",
+        "tempo_execucao": 2.9803121089935303,
+        "id": "78711119afa4278b9acbe646402f03a15bf1c912"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "Groups",
+        "mensagem": "Iniciando grupo de rotas: \/v1\/admin",
+        "arquivo": "HomeRouter.php",
+        "linha": 159,
+        "data": "2025-12-24T17:13:40-03:00",
+        "tempo_execucao": 2.6672279834747314,
+        "id": "6168b11a3f023426d3bbc6529186aff309b6d996"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "Groups",
+        "mensagem": "AUTH ativado para o grupo atual.",
+        "arquivo": "HomeRouter.php",
+        "linha": 162,
+        "data": "2025-12-24T17:13:40-03:00",
+        "tempo_execucao": 2.668148994445801,
+        "id": "29706ee1bd33fea8b157d9f61ba3cade0b1e9ff5"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "Groups",
+        "mensagem": "Finalizando grupo de rotas.",
+        "arquivo": "HomeRouter.php",
+        "linha": 159,
+        "data": "2025-12-24T17:13:40-03:00",
+        "tempo_execucao": 2.679943084716797,
+        "id": "24b5b2467b32aec072d4028fef73da71355b5c49"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "Groups",
+        "mensagem": "Iniciando grupo de rotas: \/v1\/admin",
+        "arquivo": "HomeRouter.php",
+        "linha": 159,
+        "data": "2025-12-24T17:14:09-03:00",
+        "tempo_execucao": 1.7317490577697754,
+        "id": "0afe23cd40fd7db421403b7b34402fb0db0634d2"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "Groups",
+        "mensagem": "AUTH ativado para o grupo atual.",
+        "arquivo": "HomeRouter.php",
+        "linha": 162,
+        "data": "2025-12-24T17:14:09-03:00",
+        "tempo_execucao": 1.7325868606567383,
+        "id": "b2e90fa3b330f2ad5bb90c08946cdd8c562c9e2b"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "Groups",
+        "mensagem": "Finalizando grupo de rotas.",
+        "arquivo": "HomeRouter.php",
+        "linha": 159,
+        "data": "2025-12-24T17:14:09-03:00",
+        "tempo_execucao": 1.7481880187988281,
+        "id": "4b9da30eb5e25b6fee201a4e7f2ade527a6dc1a0"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "Groups",
+        "mensagem": "Iniciando grupo de rotas: \/v1\/admin",
+        "arquivo": "HomeRouter.php",
+        "linha": 159,
+        "data": "2025-12-24T17:14:23-03:00",
+        "tempo_execucao": 1.7580349445343018,
+        "id": "53ce8e4a69de4d33f4ec473a0eb40dd7036d5c45"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "Groups",
+        "mensagem": "AUTH ativado para o grupo atual.",
+        "arquivo": "HomeRouter.php",
+        "linha": 167,
+        "data": "2025-12-24T17:14:23-03:00",
+        "tempo_execucao": 1.7766778469085693,
+        "id": "8abeff1ee6908e351eb52637cea99d6c24ed3987"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "Groups",
+        "mensagem": "Finalizando grupo de rotas.",
+        "arquivo": "HomeRouter.php",
+        "linha": 159,
+        "data": "2025-12-24T17:14:23-03:00",
+        "tempo_execucao": 1.7775659561157227,
+        "id": "cfb513f3fc37340165b6329114d978e21e7cfe4c"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "Groups",
+        "mensagem": "Iniciando grupo de rotas: \/v1\/admin",
+        "arquivo": "HomeRouter.php",
+        "linha": 159,
+        "data": "2025-12-24T18:07:40-03:00",
+        "tempo_execucao": 4.688677072525024,
+        "id": "8208733d00d8d1a048e53cdb49a3c04b12de6244"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "Groups",
+        "mensagem": "AUTH ativado para o grupo atual.",
+        "arquivo": "HomeRouter.php",
+        "linha": 167,
+        "data": "2025-12-24T18:07:40-03:00",
+        "tempo_execucao": 4.7083048820495605,
+        "id": "c69c5f4fe20d3d20074d7595cc5917e277dcb253"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "Groups",
+        "mensagem": "Finalizando grupo de rotas.",
+        "arquivo": "HomeRouter.php",
+        "linha": 159,
+        "data": "2025-12-24T18:07:40-03:00",
+        "tempo_execucao": 4.713326930999756,
+        "id": "56ff58757890e361896ea0f3f59faab421a877cc"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "Groups",
+        "mensagem": "Iniciando grupo de rotas: \/v1\/admin",
+        "arquivo": "HomeRouter.php",
+        "linha": 159,
+        "data": "2025-12-24T18:07:45-03:00",
+        "tempo_execucao": 2.783856153488159,
+        "id": "c68976d6d0d701182abb4332e10c3e8206d13efa"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "Groups",
+        "mensagem": "AUTH ativado para o grupo atual.",
+        "arquivo": "HomeRouter.php",
+        "linha": 167,
+        "data": "2025-12-24T18:07:45-03:00",
+        "tempo_execucao": 2.802523136138916,
+        "id": "01d556c31c24f1ed32973a85458795b36a62a5f9"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "Groups",
+        "mensagem": "Finalizando grupo de rotas.",
+        "arquivo": "HomeRouter.php",
+        "linha": 159,
+        "data": "2025-12-24T18:07:45-03:00",
+        "tempo_execucao": 2.803524971008301,
+        "id": "adc69d76427fa8e44657663c79aeb9750d7fdcf3"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "Groups",
+        "mensagem": "Iniciando grupo de rotas: \/v1\/admin",
+        "arquivo": "HomeRouter.php",
+        "linha": 159,
+        "data": "2025-12-24T18:08:01-03:00",
+        "tempo_execucao": 1.9705629348754883,
+        "id": "efbc8ddb352f119fc7f14e9fbda15e8f476c3fac"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "Groups",
+        "mensagem": "AUTH ativado para o grupo atual.",
+        "arquivo": "HomeRouter.php",
+        "linha": 167,
+        "data": "2025-12-24T18:08:01-03:00",
+        "tempo_execucao": 1.992130994796753,
+        "id": "d39556408219877c66d0bcbd30f9ca66081a11d2"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "Groups",
+        "mensagem": "Finalizando grupo de rotas.",
+        "arquivo": "HomeRouter.php",
+        "linha": 159,
+        "data": "2025-12-24T18:08:01-03:00",
+        "tempo_execucao": 1.993175983428955,
+        "id": "79b5efffadabd376a23afdd4a1c30c5050b4fc54"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "Groups",
+        "mensagem": "Iniciando grupo de rotas: \/v1\/admin",
+        "arquivo": "HomeRouter.php",
+        "linha": 159,
+        "data": "2025-12-24T18:08:06-03:00",
+        "tempo_execucao": 2.002081871032715,
+        "id": "9c779a2c93f347f4d233a4b6582173a09a4bb797"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "Groups",
+        "mensagem": "AUTH ativado para o grupo atual.",
+        "arquivo": "HomeRouter.php",
+        "linha": 167,
+        "data": "2025-12-24T18:08:06-03:00",
+        "tempo_execucao": 2.021890878677368,
+        "id": "b67e8d99f911c53b8970b08476bf550fe6fa8655"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "Groups",
+        "mensagem": "Finalizando grupo de rotas.",
+        "arquivo": "HomeRouter.php",
+        "linha": 159,
+        "data": "2025-12-24T18:08:06-03:00",
+        "tempo_execucao": 2.022937774658203,
+        "id": "75d124d2d912514f7a4e79c9d5e057cf0d955402"
     }
 ]

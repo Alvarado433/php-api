@@ -2,8 +2,9 @@
 
 namespace Imperio\Controllers;
 
+use App\Dao\cupom\CupomDao;
 use Config\Base\Basecontrolador;
-use App\Dao\Cupom\CupomDao;
+
 
 class CupomController extends Basecontrolador
 {

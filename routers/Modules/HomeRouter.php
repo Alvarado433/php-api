@@ -116,7 +116,9 @@ class HomeRouter
         roteamento::put("/produtos/destaques/{id}", "ProdutoDestaqueController@atualizar");
         roteamento::delete("/produtos/destaques/{id}", "ProdutoDestaqueController@deletar");
 
+
         /*
+
         |----------------------------------------------------------------------
         | 🛒 CARRINHO
         |----------------------------------------------------------------------
@@ -157,46 +159,12 @@ class HomeRouter
         Groups::prefix("/admin", function () {
 
             // 📊 DASHBOARD
-            Groups::get("/", "DashboardController@listar");
 
-            // 📦 PRODUTOS
-            Groups::get("/produtos", "DashboardController@listartudo");
-            Groups::post("/produto/criar", "DashboardController@criarProduto");
-            Groups::delete("/produto/{id}/remover", "DashboardController@removerProduto");
 
-            // ⭐ PRODUTOS EM DESTAQUE
-            Groups::get("/produtos/destaques", "ProdutoDestaqueController@listar");
-            Groups::get("/produtos/destaques/ativos", "ProdutoDestaqueController@listarAtivos");
-            Groups::get("/produtos/destaques/{id}", "ProdutoDestaqueController@buscar");
-            Groups::post("/produtos/destaques/criar", "DashboardController@criarProdutoDestaque");
-            Groups::delete("/produtos/destaques/{id}/remover", "DashboardController@removerProdutoDestaque");
+            Groups::get("/dash", "DashboardController@listar");
 
-            // 🗂 CATEGORIAS
-            Groups::get("/categorias", "DashboardController@listarCategorias");
-            Groups::post("/cat", "DashboardController@criarCategoria");
-
-            // 🖼 BANNERS
-            Groups::get("/banner", "DashboardController@listarBanners");
-            Groups::post("/banner/criar", "DashboardController@criarBanner");
-
-            // ⚙️ STATUS
-            Groups::get("/status", "DashboardController@listarStatus");
-
-            // 🎟 CUPONS (ADMIN)
-            Groups::get("/cupons", "DashboardController@listarCupons");
-            Groups::get("/cupons/ativos", "DashboardController@listarCuponsAtivos");
-            Groups::get("/cupons/inativos", "DashboardController@listarCuponsInativos");
-            Groups::post("/cupons/criar", "DashboardController@criarCupom");
-            Groups::get("/cupons/tipos", "DashboardController@listarCupomTipos");
-            Groups::put("/cupons/{id}", "DashboardController@atualizarCupom");
-            Groups::put("/cupons/{id}/status/{statusId}", "DashboardController@alterarStatusCupom");
-            Groups::delete("/cupons/{id}", "DashboardController@deletarCupom");
-
-            Groups::get("/configu/cards", "DashboardController@listarCardsConfiguracao");
-            Groups::get("/configu/login/todas", "DashboardController@listarTodasConfiguracoesLogin");
-
-            // 🔒 AUTENTICAÇÃO OBRIGATÓRIA
-            Groups::auth();
+            // Se houver outras rotas admin, continuam aqui
+            Groups::auth(); // aplica o middleware antes das rotas
         });
     }
 }

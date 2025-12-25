@@ -88,5 +88,95 @@
         "data": "2025-12-24T01:39:48-03:00",
         "tempo_execucao": 2.045024871826172,
         "id": "06d58bdb916e49ba8ad0638410864f51ae94e747"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "roteamento",
+        "mensagem": "Rota capturada: \/v1\/menu\/ativos | M\u00e9todo: get",
+        "arquivo": "index.php",
+        "linha": 24,
+        "data": "2025-12-24T17:13:30-03:00",
+        "tempo_execucao": 7.717904090881348,
+        "id": "c445e368c0790d76b5fc11e1b31e2bec2a90c934"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "roteamento",
+        "mensagem": "Rota capturada: \/favicon.ico | M\u00e9todo: get",
+        "arquivo": "index.php",
+        "linha": 24,
+        "data": "2025-12-24T17:13:38-03:00",
+        "tempo_execucao": 3.0333211421966553,
+        "id": "6def91a8ad3cd7702097cb569b8c9f6173b5a624"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "roteamento",
+        "mensagem": "Rota capturada: \/v1\/admin\/dash | M\u00e9todo: get",
+        "arquivo": "index.php",
+        "linha": 24,
+        "data": "2025-12-24T17:13:40-03:00",
+        "tempo_execucao": 2.74238920211792,
+        "id": "689f27450baadfb6e63463b6ce9137b84d488fc7"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "roteamento",
+        "mensagem": "Rota capturada: \/v1\/admin\/dash | M\u00e9todo: get",
+        "arquivo": "index.php",
+        "linha": 24,
+        "data": "2025-12-24T17:14:09-03:00",
+        "tempo_execucao": 1.7836918830871582,
+        "id": "5e457fbc1eb0d7f14da15b45b44542bcf6ba2b16"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "roteamento",
+        "mensagem": "Rota capturada: \/v1\/admin\/dash | M\u00e9todo: get",
+        "arquivo": "index.php",
+        "linha": 24,
+        "data": "2025-12-24T17:14:23-03:00",
+        "tempo_execucao": 1.8126728534698486,
+        "id": "dd48e6efe81dab8ca1136be995352a501a14bb08"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "roteamento",
+        "mensagem": "Rota capturada: \/v1\/admin\/ | M\u00e9todo: get",
+        "arquivo": "index.php",
+        "linha": 24,
+        "data": "2025-12-24T18:07:40-03:00",
+        "tempo_execucao": 4.837653875350952,
+        "id": "76864c338860a2d7f9fb8e6243b6e4fa47f5737e"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "roteamento",
+        "mensagem": "Rota capturada: \/favicon.ico | M\u00e9todo: get",
+        "arquivo": "index.php",
+        "linha": 24,
+        "data": "2025-12-24T18:07:45-03:00",
+        "tempo_execucao": 2.884140968322754,
+        "id": "3b12cff5fedfce453948967b754d1055205efdfc"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "roteamento",
+        "mensagem": "Rota capturada: \/v1\/admin\/dash | M\u00e9todo: get",
+        "arquivo": "index.php",
+        "linha": 24,
+        "data": "2025-12-24T18:08:01-03:00",
+        "tempo_execucao": 2.1596181392669678,
+        "id": "4177d1ae7dd2c645619e105919598832cda0fe46"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "roteamento",
+        "mensagem": "Rota capturada: \/favicon.ico | M\u00e9todo: get",
+        "arquivo": "index.php",
+        "linha": 24,
+        "data": "2025-12-24T18:08:06-03:00",
+        "tempo_execucao": 2.081854820251465,
+        "id": "ffe97d0928958e45f4bd2cd58a766d240605f9af"
     }
 ]

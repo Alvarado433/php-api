@@ -38,5 +38,15 @@
         "data": "2025-12-24T00:39:47-03:00",
         "tempo_execucao": 2.5669658184051514,
         "id": "e8da7c3805bb8be2e7b78446df32effe4a96c3ed"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "Menu",
+        "mensagem": "Iniciando listagem de menus ativos...",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-24T17:13:31-03:00",
+        "tempo_execucao": 8.68107008934021,
+        "id": "672f614ced967a7562a11f24314c5d85dbd8e37a"
     }
 ]

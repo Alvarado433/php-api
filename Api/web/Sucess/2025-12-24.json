@@ -178,5 +178,185 @@
         "data": "2025-12-24T01:39:48-03:00",
         "tempo_execucao": 2.0323288440704346,
         "id": "7f186966f7675bb32594596ede2de339fbd6e4f8"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "web",
+        "mensagem": "rota da web capturada com sucesso: \/v1\/menu\/ativos",
+        "arquivo": "BaseRoteamento.php",
+        "linha": 122,
+        "data": "2025-12-24T17:13:30-03:00",
+        "tempo_execucao": 7.589940071105957,
+        "id": "3f76fc6fc1944aa00486c1bd740547186655df81"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "web",
+        "mensagem": "M\u00e9todo HTTP capturado: GET",
+        "arquivo": "BaseRoteamento.php",
+        "linha": 127,
+        "data": "2025-12-24T17:13:30-03:00",
+        "tempo_execucao": 7.691426038742065,
+        "id": "7b8efeec811dfdeecaa82480662a734fe5c1accc"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "web",
+        "mensagem": "rota da web capturada com sucesso: \/favicon.ico",
+        "arquivo": "BaseRoteamento.php",
+        "linha": 122,
+        "data": "2025-12-24T17:13:38-03:00",
+        "tempo_execucao": 3.0199341773986816,
+        "id": "d387e64e3f73a591999f973569584c3a0655754a"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "web",
+        "mensagem": "M\u00e9todo HTTP capturado: GET",
+        "arquivo": "BaseRoteamento.php",
+        "linha": 127,
+        "data": "2025-12-24T17:13:38-03:00",
+        "tempo_execucao": 3.0206410884857178,
+        "id": "f1129f9b9767e75de83fb6ece2b2f08d0aaacefe"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "web",
+        "mensagem": "rota da web capturada com sucesso: \/v1\/admin\/dash",
+        "arquivo": "BaseRoteamento.php",
+        "linha": 122,
+        "data": "2025-12-24T17:13:40-03:00",
+        "tempo_execucao": 2.7281479835510254,
+        "id": "b37945d70e50840575a53b4398dcfad30aace7a5"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "web",
+        "mensagem": "M\u00e9todo HTTP capturado: GET",
+        "arquivo": "BaseRoteamento.php",
+        "linha": 127,
+        "data": "2025-12-24T17:13:40-03:00",
+        "tempo_execucao": 2.7289700508117676,
+        "id": "13a40c40a3806b86c6ae7e8974ff5db49d0e4ae4"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "web",
+        "mensagem": "rota da web capturada com sucesso: \/v1\/admin\/dash",
+        "arquivo": "BaseRoteamento.php",
+        "linha": 122,
+        "data": "2025-12-24T17:14:09-03:00",
+        "tempo_execucao": 1.76993989944458,
+        "id": "9cbf57edd4bd92547a7ebb48d3cf01615922a69c"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "web",
+        "mensagem": "M\u00e9todo HTTP capturado: GET",
+        "arquivo": "BaseRoteamento.php",
+        "linha": 127,
+        "data": "2025-12-24T17:14:09-03:00",
+        "tempo_execucao": 1.7706749439239502,
+        "id": "b580997e294f9b216634c0f8604586948f088438"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "web",
+        "mensagem": "rota da web capturada com sucesso: \/v1\/admin\/dash",
+        "arquivo": "BaseRoteamento.php",
+        "linha": 122,
+        "data": "2025-12-24T17:14:23-03:00",
+        "tempo_execucao": 1.7982759475708008,
+        "id": "778ba5cf7ae1216bc6bbe88386c321ed9b356e73"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "web",
+        "mensagem": "M\u00e9todo HTTP capturado: GET",
+        "arquivo": "BaseRoteamento.php",
+        "linha": 127,
+        "data": "2025-12-24T17:14:23-03:00",
+        "tempo_execucao": 1.7989799976348877,
+        "id": "349eca3054e098d7efb4e6d9ef8a7dce5c040768"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "web",
+        "mensagem": "rota da web capturada com sucesso: \/v1\/admin\/",
+        "arquivo": "BaseRoteamento.php",
+        "linha": 122,
+        "data": "2025-12-24T18:07:40-03:00",
+        "tempo_execucao": 4.790050983428955,
+        "id": "15657056941c4bd7436845a6bff97584204ec962"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "web",
+        "mensagem": "M\u00e9todo HTTP capturado: GET",
+        "arquivo": "BaseRoteamento.php",
+        "linha": 127,
+        "data": "2025-12-24T18:07:40-03:00",
+        "tempo_execucao": 4.8239898681640625,
+        "id": "a1097ed45c0322ff663a688532dfc8c1771fd4a1"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "web",
+        "mensagem": "rota da web capturada com sucesso: \/favicon.ico",
+        "arquivo": "BaseRoteamento.php",
+        "linha": 122,
+        "data": "2025-12-24T18:07:45-03:00",
+        "tempo_execucao": 2.867680072784424,
+        "id": "cbbcf7d3a4ef34ae5a6aaf67455b22709248f725"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "web",
+        "mensagem": "M\u00e9todo HTTP capturado: GET",
+        "arquivo": "BaseRoteamento.php",
+        "linha": 127,
+        "data": "2025-12-24T18:07:45-03:00",
+        "tempo_execucao": 2.8688201904296875,
+        "id": "ebc5fb743a01308a397cb8596773f3da509af9ac"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "web",
+        "mensagem": "rota da web capturada com sucesso: \/v1\/admin\/dash",
+        "arquivo": "BaseRoteamento.php",
+        "linha": 122,
+        "data": "2025-12-24T18:08:01-03:00",
+        "tempo_execucao": 2.0064640045166016,
+        "id": "8e64b56bd09537d5c683d7bc2d12c6aa11e56fd3"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "web",
+        "mensagem": "M\u00e9todo HTTP capturado: GET",
+        "arquivo": "BaseRoteamento.php",
+        "linha": 127,
+        "data": "2025-12-24T18:08:01-03:00",
+        "tempo_execucao": 2.007272958755493,
+        "id": "a94d84ee7c4e2603eac33a69aed45bc054ea3eef"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "web",
+        "mensagem": "rota da web capturada com sucesso: \/favicon.ico",
+        "arquivo": "BaseRoteamento.php",
+        "linha": 122,
+        "data": "2025-12-24T18:08:06-03:00",
+        "tempo_execucao": 2.0356149673461914,
+        "id": "db066747059965bf8bb6af64a1561238fe30d7f6"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "web",
+        "mensagem": "M\u00e9todo HTTP capturado: GET",
+        "arquivo": "BaseRoteamento.php",
+        "linha": 127,
+        "data": "2025-12-24T18:08:06-03:00",
+        "tempo_execucao": 2.0363547801971436,
+        "id": "8c32e4836a860ff7569074ddeeb99ab8dab4537f"
     }
 ]

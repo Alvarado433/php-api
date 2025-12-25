@@ -38,5 +38,15 @@
         "data": "2025-12-24T00:39:47-03:00",
         "tempo_execucao": 2.990454912185669,
         "id": "48f89e63bd043e35d99953d1070e4d74fd5509e6"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "MenuDao",
+        "mensagem": "Menus ativos retornados: 4",
+        "arquivo": "Menu.php",
+        "linha": 19,
+        "data": "2025-12-24T17:13:33-03:00",
+        "tempo_execucao": 10.05242109298706,
+        "id": "c42ca2158125185aea2b2ec044984562b3e4a711"
     }
 ]

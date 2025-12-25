@@ -38,5 +38,15 @@
         "data": "2025-12-24T00:39:47-03:00",
         "tempo_execucao": 2.9993019104003906,
         "id": "f8744afd7bf02b6d85f85ca7d2e59fe5ce4eb3d3"
+    },
+    {
+        "tipo": "Success",
+        "modulo": "Menu",
+        "mensagem": "Menus ativos carregados: 4",
+        "arquivo": "desconhecido",
+        "linha": 0,
+        "data": "2025-12-24T17:13:33-03:00",
+        "tempo_execucao": 10.366451025009155,
+        "id": "2e37b2dbc345a13f123917f8bd267fbc818156f6"
     }
 ]

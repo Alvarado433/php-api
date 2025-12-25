@@ -38,5 +38,95 @@
         "data": "2025-12-24T00:39:47-03:00",
         "tempo_execucao": 2.6963720321655273,
         "id": "fbb6b10675296498318d2f285668a24e9dd08b41"
+    },
+    {
+        "tipo": "Sql",
+        "modulo": "BaseDao",
+        "mensagem": "SQL findAll: SELECT * FROM menu",
+        "arquivo": "MenuDao.php",
+        "linha": 144,
+        "data": "2025-12-24T17:13:32-03:00",
+        "tempo_execucao": 9.297024011611938,
+        "id": "4de90e8db329f67e0b110088b1feed4645fc8873"
+    },
+    {
+        "tipo": "Sql",
+        "modulo": "BaseDao",
+        "mensagem": "SQL findAll: SELECT * FROM produto ORDER BY criado DESC",
+        "arquivo": "ProdutoDao.php",
+        "linha": 62,
+        "data": "2025-12-24T17:14:24-03:00",
+        "tempo_execucao": 2.2116987705230713,
+        "id": "58dd2cfef746714f10d1c483f4ee304dc83ed8ad"
+    },
+    {
+        "tipo": "Sql",
+        "modulo": "BaseDao",
+        "mensagem": "SQL findAll: \n            SELECT \n                c.id_categoria,\n                c.nome,\n                c.icone,\n                c.statusid,\n                c.criado,\n                COUNT(p.id_produto) AS total_produtos\n            FROM categoria c\n            LEFT JOIN produto p \n                ON p.categoria_id = c.id_categoria\n                AND p.statusid = ?  -- s\u00f3 produtos ativos\n            WHERE c.statusid = ?    -- s\u00f3 categorias ativas\n            GROUP BY \n                c.id_categoria,\n                c.nome,\n                c.icone,\n                c.statusid,\n                c.criado\n            ORDER BY c.nome ASC\n        ",
+        "arquivo": "CategoriaDao.php",
+        "linha": 73,
+        "data": "2025-12-24T17:14:24-03:00",
+        "tempo_execucao": 2.5759098529815674,
+        "id": "589d1a68bc717d6309b33d2a1540902f77ca5730"
+    },
+    {
+        "tipo": "Sql",
+        "modulo": "BaseDao",
+        "mensagem": "SQL findAll: SELECT * FROM banner ORDER BY criado DESC",
+        "arquivo": "BannerDao.php",
+        "linha": 57,
+        "data": "2025-12-24T17:14:24-03:00",
+        "tempo_execucao": 2.846174955368042,
+        "id": "d0005bea1a4de58249c56b30529e040050fe8ae3"
+    },
+    {
+        "tipo": "Sql",
+        "modulo": "BaseDao",
+        "mensagem": "SQL find: SELECT COUNT(*) as total FROM usuario",
+        "arquivo": "UsuarioDao.php",
+        "linha": 92,
+        "data": "2025-12-24T17:14:25-03:00",
+        "tempo_execucao": 3.1419517993927,
+        "id": "540231ed4fa62d18e3cfbfb541b338d0d309b062"
+    },
+    {
+        "tipo": "Sql",
+        "modulo": "BaseDao",
+        "mensagem": "SQL findAll: SELECT * FROM produto ORDER BY criado DESC",
+        "arquivo": "ProdutoDao.php",
+        "linha": 62,
+        "data": "2025-12-24T18:08:01-03:00",
+        "tempo_execucao": 2.763319969177246,
+        "id": "d297c9e3c8e52149cdc9b124f8c8f09afe3021a1"
+    },
+    {
+        "tipo": "Sql",
+        "modulo": "BaseDao",
+        "mensagem": "SQL findAll: \n            SELECT \n                c.id_categoria,\n                c.nome,\n                c.icone,\n                c.statusid,\n                c.criado,\n                COUNT(p.id_produto) AS total_produtos\n            FROM categoria c\n            LEFT JOIN produto p \n                ON p.categoria_id = c.id_categoria\n                AND p.statusid = ?  -- s\u00f3 produtos ativos\n            WHERE c.statusid = ?    -- s\u00f3 categorias ativas\n            GROUP BY \n                c.id_categoria,\n                c.nome,\n                c.icone,\n                c.statusid,\n                c.criado\n            ORDER BY c.nome ASC\n        ",
+        "arquivo": "CategoriaDao.php",
+        "linha": 73,
+        "data": "2025-12-24T18:08:02-03:00",
+        "tempo_execucao": 3.7705130577087402,
+        "id": "98382d54c1d4b091050ed846629ef0de7fb0e407"
+    },
+    {
+        "tipo": "Sql",
+        "modulo": "BaseDao",
+        "mensagem": "SQL findAll: SELECT * FROM banner ORDER BY criado DESC",
+        "arquivo": "BannerDao.php",
+        "linha": 57,
+        "data": "2025-12-24T18:08:03-03:00",
+        "tempo_execucao": 4.1330931186676025,
+        "id": "4de01d25e82e8ab023a54dfdfcfa325d4d8ef97b"
+    },
+    {
+        "tipo": "Sql",
+        "modulo": "BaseDao",
+        "mensagem": "SQL find: SELECT COUNT(*) as total FROM usuario",
+        "arquivo": "UsuarioDao.php",
+        "linha": 92,
+        "data": "2025-12-24T18:08:03-03:00",
+        "tempo_execucao": 4.654799938201904,
+        "id": "1316264ba53141f3cd5148ec8cdc42ca47e44f83"
     }
 ]

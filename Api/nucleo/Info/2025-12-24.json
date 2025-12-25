@@ -318,5 +318,285 @@
         "data": "2025-12-24T01:39:46-03:00",
         "tempo_execucao": 0.02068781852722168,
         "id": "d6310910d476dce41ac599b0266a01772d016c3c"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "nucleo",
+        "mensagem": ".env carregado com sucesso",
+        "arquivo": "IndexEnv.php",
+        "linha": 25,
+        "data": "2025-12-24T17:13:24-03:00",
+        "tempo_execucao": 1.8075761795043945,
+        "id": "77d0c249fbff527df40150a7f815e8a798b15181"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "nucleo",
+        "mensagem": ".env carregado com sucesso",
+        "arquivo": "IndexEnv.php",
+        "linha": 25,
+        "data": "2025-12-24T17:13:25-03:00",
+        "tempo_execucao": 2.1079699993133545,
+        "id": "fbe36a19826aa8a098321d31eab79f3e823b10fc"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "nucleo",
+        "mensagem": ".env carregado com sucesso",
+        "arquivo": "IndexEnv.php",
+        "linha": 25,
+        "data": "2025-12-24T17:13:31-03:00",
+        "tempo_execucao": 8.287582159042358,
+        "id": "554032e8ef8421769217bad8128a025368e3e606"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "nucleo",
+        "mensagem": ".env carregado com sucesso",
+        "arquivo": "IndexEnv.php",
+        "linha": 25,
+        "data": "2025-12-24T17:13:31-03:00",
+        "tempo_execucao": 8.392750978469849,
+        "id": "ddc9c3cbda7b8d2abdaef38dd2fcee38dd595880"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "nucleo",
+        "mensagem": ".env carregado com sucesso",
+        "arquivo": "IndexEnv.php",
+        "linha": 25,
+        "data": "2025-12-24T17:13:35-03:00",
+        "tempo_execucao": 0.026690006256103516,
+        "id": "e392de20232df1859b19dcfd7301f9c358601dca"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "nucleo",
+        "mensagem": ".env carregado com sucesso",
+        "arquivo": "IndexEnv.php",
+        "linha": 25,
+        "data": "2025-12-24T17:13:35-03:00",
+        "tempo_execucao": 0.028120040893554688,
+        "id": "30985268422b3fc17520a4f9a973de77d9e9ecc6"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "nucleo",
+        "mensagem": ".env carregado com sucesso",
+        "arquivo": "IndexEnv.php",
+        "linha": 25,
+        "data": "2025-12-24T17:13:37-03:00",
+        "tempo_execucao": 0.12857913970947266,
+        "id": "e00e424969313d5dbc5f54af91c49841e1f020f2"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "nucleo",
+        "mensagem": ".env carregado com sucesso",
+        "arquivo": "IndexEnv.php",
+        "linha": 25,
+        "data": "2025-12-24T17:13:37-03:00",
+        "tempo_execucao": 0.1545720100402832,
+        "id": "d68a02e7b7407c7fbb769c39876b9aa0d547964f"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "nucleo",
+        "mensagem": ".env carregado com sucesso",
+        "arquivo": "IndexEnv.php",
+        "linha": 25,
+        "data": "2025-12-24T17:13:40-03:00",
+        "tempo_execucao": 2.7865021228790283,
+        "id": "ad0ddb457e02fe068cb61a030a41c3d35f051724"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "nucleo",
+        "mensagem": ".env carregado com sucesso",
+        "arquivo": "IndexEnv.php",
+        "linha": 25,
+        "data": "2025-12-24T17:13:40-03:00",
+        "tempo_execucao": 2.7895960807800293,
+        "id": "1549c53260b884b93c9b3865d9df63ae276d4d02"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "nucleo",
+        "mensagem": ".env carregado com sucesso",
+        "arquivo": "IndexEnv.php",
+        "linha": 25,
+        "data": "2025-12-24T17:14:07-03:00",
+        "tempo_execucao": 0.004515886306762695,
+        "id": "1fd410072b4fc21badd5f433736301e8015be9ef"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "nucleo",
+        "mensagem": ".env carregado com sucesso",
+        "arquivo": "IndexEnv.php",
+        "linha": 25,
+        "data": "2025-12-24T17:14:07-03:00",
+        "tempo_execucao": 0.006996870040893555,
+        "id": "7bdc5bed0f677e2978b27800ee64160dde571a11"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "nucleo",
+        "mensagem": ".env carregado com sucesso",
+        "arquivo": "IndexEnv.php",
+        "linha": 25,
+        "data": "2025-12-24T17:14:09-03:00",
+        "tempo_execucao": 1.7850079536437988,
+        "id": "b05b03738ff6eedf8bf5ddc4d1bb24019b273c90"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "nucleo",
+        "mensagem": ".env carregado com sucesso",
+        "arquivo": "IndexEnv.php",
+        "linha": 25,
+        "data": "2025-12-24T17:14:09-03:00",
+        "tempo_execucao": 1.7869648933410645,
+        "id": "e44ce23576f1a49977b8bbf4dc1f08a218519ad6"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "nucleo",
+        "mensagem": ".env carregado com sucesso",
+        "arquivo": "IndexEnv.php",
+        "linha": 25,
+        "data": "2025-12-24T17:14:22-03:00",
+        "tempo_execucao": 0.024126768112182617,
+        "id": "59cd7d7f792c5ddffe249e7a79e40def986322d3"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "nucleo",
+        "mensagem": ".env carregado com sucesso",
+        "arquivo": "IndexEnv.php",
+        "linha": 25,
+        "data": "2025-12-24T17:14:22-03:00",
+        "tempo_execucao": 0.025506973266601562,
+        "id": "bd55cdb1dc9245ad03d1c3154208d50a456ce077"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "nucleo",
+        "mensagem": ".env carregado com sucesso",
+        "arquivo": "IndexEnv.php",
+        "linha": 25,
+        "data": "2025-12-24T17:14:23-03:00",
+        "tempo_execucao": 1.8139879703521729,
+        "id": "96547a397712476e64e7cce044e5cd5252ea18bb"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "nucleo",
+        "mensagem": ".env carregado com sucesso",
+        "arquivo": "IndexEnv.php",
+        "linha": 25,
+        "data": "2025-12-24T17:14:23-03:00",
+        "tempo_execucao": 1.816288948059082,
+        "id": "a011896f807b43e3dfdc22b78bc98d059e07291e"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "nucleo",
+        "mensagem": ".env carregado com sucesso",
+        "arquivo": "IndexEnv.php",
+        "linha": 25,
+        "data": "2025-12-24T18:07:36-03:00",
+        "tempo_execucao": 1.186115026473999,
+        "id": "23fbafb32a3d1fb353a0347d5a8e15d6f75ee166"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "nucleo",
+        "mensagem": ".env carregado com sucesso",
+        "arquivo": "IndexEnv.php",
+        "linha": 25,
+        "data": "2025-12-24T18:07:36-03:00",
+        "tempo_execucao": 1.2369539737701416,
+        "id": "0f47deb5ca3f9086ca5aed7cfb26338cf6d7dfeb"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "nucleo",
+        "mensagem": ".env carregado com sucesso",
+        "arquivo": "IndexEnv.php",
+        "linha": 25,
+        "data": "2025-12-24T18:07:42-03:00",
+        "tempo_execucao": 0.16112399101257324,
+        "id": "030d2240d8f7177320fc6fa6702c7049199a190a"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "nucleo",
+        "mensagem": ".env carregado com sucesso",
+        "arquivo": "IndexEnv.php",
+        "linha": 25,
+        "data": "2025-12-24T18:07:42-03:00",
+        "tempo_execucao": 0.16479110717773438,
+        "id": "4c04b9763b302111b13f1a3389c85fb5f724e749"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "nucleo",
+        "mensagem": ".env carregado com sucesso",
+        "arquivo": "IndexEnv.php",
+        "linha": 25,
+        "data": "2025-12-24T18:07:59-03:00",
+        "tempo_execucao": 0.03397703170776367,
+        "id": "8f80c8d3f1b7ab6e5d5e6d2ebc792f9dec5beedb"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "nucleo",
+        "mensagem": ".env carregado com sucesso",
+        "arquivo": "IndexEnv.php",
+        "linha": 25,
+        "data": "2025-12-24T18:07:59-03:00",
+        "tempo_execucao": 0.03540992736816406,
+        "id": "4abf93c717854bf430295482461549e5fea33356"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "nucleo",
+        "mensagem": ".env carregado com sucesso",
+        "arquivo": "IndexEnv.php",
+        "linha": 25,
+        "data": "2025-12-24T18:08:01-03:00",
+        "tempo_execucao": 2.1991679668426514,
+        "id": "a1f360bc165c97e4339d62249f1e4ebf8351ca70"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "nucleo",
+        "mensagem": ".env carregado com sucesso",
+        "arquivo": "IndexEnv.php",
+        "linha": 25,
+        "data": "2025-12-24T18:08:01-03:00",
+        "tempo_execucao": 2.372373104095459,
+        "id": "f2ce5bc545337ad3cac590f6c08fa727d3e605fd"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "nucleo",
+        "mensagem": ".env carregado com sucesso",
+        "arquivo": "IndexEnv.php",
+        "linha": 25,
+        "data": "2025-12-24T18:08:04-03:00",
+        "tempo_execucao": 0.0037839412689208984,
+        "id": "9584fcdeb67b784400494b3290e6e6f818a8e787"
+    },
+    {
+        "tipo": "Info",
+        "modulo": "nucleo",
+        "mensagem": ".env carregado com sucesso",
+        "arquivo": "IndexEnv.php",
+        "linha": 25,
+        "data": "2025-12-24T18:08:04-03:00",
+        "tempo_execucao": 0.0054128170013427734,
+        "id": "64e0785fb16f4f410a739f282d6c6c3133b455d2"
     }
 ]
