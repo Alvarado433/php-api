@@ -2,7 +2,8 @@
 
 namespace Imperio\Controllers;
 
-use App\Dao\cupom\CupomDao;
+
+use App\Dao\Cupom\CupomDao;
 use App\Dao\Banner\BannerDao;
 use App\Dao\Produto\ProdutoDao;
 use Config\Base\Basecontrolador;

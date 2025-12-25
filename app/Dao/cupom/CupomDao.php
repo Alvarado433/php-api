@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Dao\cupom;
+namespace App\Dao\Cupom;
 
 use Config\BaseDao\BaseDao;
 use App\Models\Cupom\CupomModel;
