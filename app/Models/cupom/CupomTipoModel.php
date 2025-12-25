@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Models\Cupom;
+namespace App\Models\cupom;
 
 class CupomTipoModel
 {

@@ -8,21 +8,22 @@
 
 namespace Imperio\Controllers;
 
-use Config\Base\Basecontrolador;
-use Core\Upload\ServidorUpload;
+use App\Dao\Cupom\CupomDao;
+use App\Models\BannerModel;
 
 // MODELS
-use App\Models\BannerModel;
-use App\Models\Cupom\CupomModel;
-
-// DAOs
 use App\Dao\Banner\BannerDao;
 use App\Dao\Status\StatusDao;
+
+// DAOs
 use App\Dao\Produto\ProdutoDao;
-use App\Dao\Categoria\CategoriaDao;
-use App\Dao\Produto\ProdutoDestaqueDao;
+use Core\Upload\ServidorUpload;
+use App\Models\Cupom\CupomModel;
+use Config\Base\Basecontrolador;
 use App\Dao\UsuarioDao\UsuarioDao;
-use App\Dao\Cupom\CupomDao;
+use App\Dao\Categoria\CategoriaDao;
+use App\Models\Cupom\CupomTipoModel;
+use App\Dao\Produto\ProdutoDestaqueDao;
 
 class DashboardController extends Basecontrolador
 {
@@ -60,17 +61,32 @@ class DashboardController extends Basecontrolador
     public function listarCarrinhos(): void
     {
         self::info("Carrinho: listando todos os carrinhos");
+
+        // Pega todos os carrinhos
         $carrinhos = \App\Dao\Carrinho\CarrinhoDao::listarTodos();
 
-        // Transforma para JSON simples
-        $dados = array_map(fn($c) => [
-            "id_carrinho" => $c['id_carrinho'],
-            "usuario_id" => $c['usuario_id'],
-            "criado" => $c['criado'] ?? null,
-        ], $carrinhos);
+        $dados = [];
 
-        self::success(count($dados) . " carrinhos carregados");
-        self::Mensagemjson("Carrinhos carregados", 200, $dados);
+        foreach ($carrinhos as $carrinho) {
+            // Pega os itens do carrinho
+            $itens = \App\Dao\Carrinho\CarrinhoItemDao::listarPorCarrinho($carrinho['id_carrinho']);
+
+            $dados[] = [
+                "id_carrinho" => $carrinho['id_carrinho'],
+                "usuario_id" => $carrinho['usuario_id'],
+                "itens" => array_map(fn($item) => [
+                    "id_item" => $item['id_item'],
+                    "produto_id" => $item['produto_id'],
+                    "nome_produto" => $item['nome_produto'],
+                    "imagem" => $item['imagem'],
+                    "quantidade" => $item['quantidade'],
+                    "preco_unitario" => $item['preco_unitario']
+                ], $itens)
+            ];
+        }
+
+        self::success(count($dados) . " carrinhos carregados com itens");
+        self::Mensagemjson("Carrinhos carregados com sucesso", 200, $dados);
     }
 
 
@@ -455,6 +471,43 @@ class DashboardController extends Basecontrolador
         } catch (\Throwable $th) {
             self::error("CupomTipo: erro ao listar - " . $th->getMessage());
             self::Mensagemjson("Erro ao listar tipos de cupom", 500);
+        }
+    }
+    // ======================================================
+    // 🎟 CUPOM TIPOS
+    // ======================================================
+    public function criarCupomTipo(): void
+    {
+        try {
+            $dados = self::receberJson(); // recebe JSON do React
+            self::info("CupomTipo: criando novo tipo '{$dados['nome']}'");
+
+            if (empty($dados['nome']) || empty($dados['codigo'])) {
+                self::warning("CupomTipo: nome ou código obrigatório não fornecido");
+                self::Mensagemjson("Nome e código são obrigatórios", 422);
+                return;
+            }
+
+            $tipo = new CupomTipoModel(
+                null,                  // id_tipo
+                $dados['nome'],        // nome
+                $dados['codigo'],      // codigo
+                $dados['descricao'] ?? '',  // descricao
+                $dados['statusid'] ?? 1      // statusid
+            );
+
+            $ok = \App\Dao\Cupom\CupomTipoDao::criar($tipo);
+
+            if ($ok) {
+                self::success("Tipo de cupom criado: {$dados['nome']}");
+                self::Mensagemjson("Tipo de cupom criado com sucesso", 201);
+            } else {
+                self::error("Erro ao criar tipo de cupom");
+                self::Mensagemjson("Erro ao criar tipo de cupom", 500);
+            }
+        } catch (\Throwable $th) {
+            self::error("CupomTipo: erro ao criar - " . $th->getMessage());
+            self::Mensagemjson("Erro ao criar tipo de cupom", 500);
         }
     }
 }

@@ -165,7 +165,7 @@ roteamento::get("/catalogo", "CatalogoController@listar");
         | 🛒 CARRINHO
         |----------------------------------------------------------------------
         */
-        Groups::get("/carrinhos", "DashboardController@listarCarrinhos");
+       
 
 roteamento::get("/carrinho/{usuarioId}", "CarrinhoController@listar");            // listar itens + endereço
 roteamento::post("/carrinho/adicionar", "CarrinhoController@adicionar");         // adicionar item
@@ -202,6 +202,7 @@ Groups::prefix("/admin", function () {
         Groups::get("/dash/configuracoes", "CardsController@listarCardsConfiguracao");
         Groups::get("/configuracoes/login", "DashboardController@listarTodasConfiguracoesLogin");
 
+         Groups::get("/carrinho", "DashboardController@listarCarrinhos");
         // Produtos
         Groups::get("/produtos", "DashboardController@listartudo");
         Groups::post("/produto/criar", "DashboardController@criarProduto");
@@ -233,6 +234,7 @@ Groups::prefix("/admin", function () {
 
         // Cupons
         Groups::get("/cupons", "DashboardController@listarCupons");
+        Groups::post("/cupom/tipos/criar", "DashboardController@criarCupomTipo");
         Groups::get("/cupons/ativos", "DashboardController@listarCuponsAtivos");
         Groups::get("/cupons/inativos", "DashboardController@listarCuponsInativos");
         Groups::post("/cupom/criar", "DashboardController@criarCupom");
