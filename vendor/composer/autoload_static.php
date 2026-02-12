@@ -7,51 +7,59 @@ namespace Composer\Autoload;
 class ComposerStaticInit3719ea56f7617188bc1aa23dfac50a42
 {
     public static $prefixLengthsPsr4 = array (
-        'R' =>
+        'R' => 
         array (
             'Routers\\' => 8,
         ),
-        'I' =>
+        'M' => 
+        array (
+            'MercadoPago\\' => 12,
+        ),
+        'I' => 
         array (
             'Imperio\\' => 8,
         ),
-        'D' =>
+        'D' => 
         array (
             'Database\\' => 9,
         ),
-        'C' =>
+        'C' => 
         array (
             'Core\\' => 5,
             'Config\\' => 7,
         ),
-        'A' =>
+        'A' => 
         array (
             'App\\' => 4,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'Routers\\' =>
+        'Routers\\' => 
         array (
             0 => __DIR__ . '/../..' . '/routers',
         ),
-        'Imperio\\' =>
+        'MercadoPago\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/mercadopago/dx-php/src/MercadoPago',
+        ),
+        'Imperio\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
         ),
-        'Database\\' =>
+        'Database\\' => 
         array (
             0 => __DIR__ . '/../..' . '/database',
         ),
-        'Core\\' =>
+        'Core\\' => 
         array (
             0 => __DIR__ . '/../..' . '/core',
         ),
-        'Config\\' =>
+        'Config\\' => 
         array (
             0 => __DIR__ . '/../..' . '/config',
         ),
-        'App\\' =>
+        'App\\' => 
         array (
             0 => __DIR__ . '/../..' . '/app',
         ),

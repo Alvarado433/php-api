@@ -7,6 +7,7 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'Routers\\' => array($baseDir . '/routers'),
+    'MercadoPago\\' => array($vendorDir . '/mercadopago/dx-php/src/MercadoPago'),
     'Imperio\\' => array($baseDir . '/src'),
     'Database\\' => array($baseDir . '/database'),
     'Core\\' => array($baseDir . '/core'),

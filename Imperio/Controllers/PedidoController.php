@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Controllers;
+namespace Imperio\Controllers;
 
 use App\Dao\Pedido\PedidoDao;
 use App\Dao\Pedido\PedidoItemDao;

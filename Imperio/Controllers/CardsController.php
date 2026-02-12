@@ -11,8 +11,7 @@ use App\Dao\Carrinho\CarrinhoDao;
 use App\Dao\UsuarioDao\UsuarioDao;
 use App\Dao\Categoria\CategoriaDao;
 use App\Dao\ConfiguracaoDao\ConfiguracaoLoginDao;
-
-
+use App\Dao\Menu\MenuDao;
 
 class CardsController extends Basecontrolador
 {
@@ -42,6 +41,15 @@ class CardsController extends Basecontrolador
                 "titulo" => "Configuração de Login",
                 "quantidade" => count(\App\Dao\ConfiguracaoDao\ConfiguracaoLoginDao::listar()),
                 "rota" => "/admin/configuracoes/gerenciar/login" // cada card terá uma rota própria
+            ],
+            [
+                "titulo" => "Configuração de Menu",
+                "quantidade" => count(MenuDao::listar()),
+                "rota" => "/admin/configuracoes/gerenciar/menu"
+            ],
+            [
+                "titulo" => "Configuração de forma de pagamento",
+                "rota" => "/admin/configuracoes/gerenciar/forma-pagamento"
             ],
 
             // Adicione outras configurações se necessário

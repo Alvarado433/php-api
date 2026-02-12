@@ -17,5 +17,7 @@
             "email": "alvaradorhaian766@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "mercadopago/dx-php": "^3.8"
+    }
 }

@@ -112,13 +112,14 @@ class ProdutoDao extends BaseDao
     {
         $sql = "
             INSERT INTO " . self::$tabela . "
-            (nome, descricao, preco, slug, imagem, estoque, ilimitado, statusid, catalogo, categoria_id, destaque)
-            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+            (nome, descricao, preco, preco_promocional, slug, imagem, estoque, ilimitado, statusid, catalogo, categoria_id, destaque, sku, modelo, parcelamento)
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
         ";
         return self::execute($sql, [
             $dados['nome'],
             $dados['descricao'] ?? null,
             (float) ($dados['preco'] ?? 0),
+            isset($dados['preco_promocional']) ? (float) $dados['preco_promocional'] : null,
             $dados['slug'] ?? '',
             $dados['imagem'] ?? null,
             (int) ($dados['estoque'] ?? 0),
@@ -126,7 +127,10 @@ class ProdutoDao extends BaseDao
             (int) ($dados['statusid'] ?? self::$status['ativo']),
             (int) ($dados['catalogo'] ?? self::$status['catalogo_nao']),
             $dados['categoria_id'] ?? null,
-            $dados['destaque'] ?? null
+            $dados['destaque'] ?? null,
+            $dados['sku'] ?? null,
+            $dados['modelo'] ?? null,
+            $dados['parcelamento'] ?? null
         ]);
     }
 
@@ -144,6 +148,7 @@ class ProdutoDao extends BaseDao
                 nome = ?,
                 descricao = ?,
                 preco = ?,
+                preco_promocional = ?,
                 slug = ?,
                 imagem = ?,
                 estoque = ?,
@@ -152,6 +157,9 @@ class ProdutoDao extends BaseDao
                 catalogo = ?,
                 categoria_id = ?,
                 destaque = ?,
+                sku = ?,
+                modelo = ?,
+                parcelamento = ?,
                 atualizado = NOW()
             WHERE id_produto = ?
         ";
@@ -160,6 +168,7 @@ class ProdutoDao extends BaseDao
             $dados['nome'] ?? $atual['nome'],
             $dados['descricao'] ?? $atual['descricao'],
             (float) ($dados['preco'] ?? $atual['preco']),
+            isset($dados['preco_promocional']) ? (float) $dados['preco_promocional'] : $atual['preco_promocional'],
             $dados['slug'] ?? $atual['slug'],
             $dados['imagem'] ?? $atual['imagem'],
             (int) ($dados['estoque'] ?? $atual['estoque']),
@@ -168,6 +177,9 @@ class ProdutoDao extends BaseDao
             (int) ($dados['catalogo'] ?? $atual['catalogo']),
             $dados['categoria_id'] ?? $atual['categoria_id'],
             $dados['destaque'] ?? $atual['destaque'],
+            $dados['sku'] ?? $atual['sku'],
+            $dados['modelo'] ?? $atual['modelo'],
+            $dados['parcelamento'] ?? $atual['parcelamento'],
             $id
         ]);
     }

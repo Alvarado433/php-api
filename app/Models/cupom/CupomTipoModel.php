@@ -1,21 +1,41 @@
 <?php
 
-namespace App\Models\cupom;
+namespace App\Models\Cupom;
 
 class CupomTipoModel
 {
-    private ?int $id_tipo = null;
+    private ?int $id_tipo;
     private string $nome;
     private string $codigo;
-    private ?string $descricao = null;
+    private ?string $descricao;
     private int $statusid;
-    private ?string $criado = null;
-    private ?string $atualizado = null;
+    private ?string $criado;
+    private ?string $atualizado;
 
-    /* =========================
-     * GETTERS
-     * ========================= */
+    // =========================
+    // CONSTRUTOR
+    // =========================
+    public function __construct(
+        ?int $id_tipo = null,
+        string $nome = '',
+        string $codigo = '',
+        ?string $descricao = null,
+        int $statusid = 1,
+        ?string $criado = null,
+        ?string $atualizado = null
+    ) {
+        $this->id_tipo    = $id_tipo;
+        $this->nome       = $nome;
+        $this->codigo     = $codigo;
+        $this->descricao  = $descricao;
+        $this->statusid   = $statusid;
+        $this->criado     = $criado;
+        $this->atualizado = $atualizado;
+    }
 
+    // =========================
+    // GETTERS
+    // =========================
     public function getIdTipo(): ?int
     {
         return $this->id_tipo;
@@ -51,10 +71,9 @@ class CupomTipoModel
         return $this->atualizado;
     }
 
-    /* =========================
-     * SETTERS
-     * ========================= */
-
+    // =========================
+    // SETTERS
+    // =========================
     public function setIdTipo(?int $id): void
     {
         $this->id_tipo = $id;

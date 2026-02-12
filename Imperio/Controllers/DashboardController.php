@@ -14,16 +14,20 @@ use App\Models\BannerModel;
 // MODELS
 use App\Dao\Banner\BannerDao;
 use App\Dao\Status\StatusDao;
-
-// DAOs
+use App\Dao\Cupom\CupomTipoDao;
 use App\Dao\Produto\ProdutoDao;
 use Core\Upload\ServidorUpload;
 use App\Models\Cupom\CupomModel;
 use Config\Base\Basecontrolador;
-use App\Dao\UsuarioDao\UsuarioDao;
+use App\Dao\Carrinho\CarrinhoDao;
 use App\Dao\Categoria\CategoriaDao;
 use App\Models\Cupom\CupomTipoModel;
+use App\Dao\Carrinho\CarrinhoItemDao;
 use App\Dao\Produto\ProdutoDestaqueDao;
+use App\Dao\ConfiguracaoDao\ConfiguracaoLoginDao;
+
+// DAOs
+
 
 class DashboardController extends Basecontrolador
 {
@@ -508,6 +512,176 @@ class DashboardController extends Basecontrolador
         } catch (\Throwable $th) {
             self::error("CupomTipo: erro ao criar - " . $th->getMessage());
             self::Mensagemjson("Erro ao criar tipo de cupom", 500);
+        }
+    }
+    // ======================================================
+    // 📂 MENU (ADMIN)
+    // ======================================================
+    public function listarMenus(): void
+    {
+        try {
+            self::info("Menu (Admin): listando menus com itens (JOIN)");
+
+            $rows = \App\Dao\Menu\MenuDao::listarComItens();
+
+            $menus = [];
+
+            foreach ($rows as $row) {
+                $menuId = $row["id_menu"];
+
+                // 🔹 Se menu ainda não existe no array, cria
+                if (!isset($menus[$menuId])) {
+                    $menus[$menuId] = [
+                        "id_menu" => $menuId,
+                        "nome" => $row["menu_nome"],
+                        "icone" => $row["menu_icone"],
+                        "rota" => $row["menu_rota"],
+                        "pesquisa_placeholder" => $row["pesquisa_placeholder"],
+                        "itens" => []
+                    ];
+                }
+
+                // 🔹 Se existir item, adiciona
+                if (!empty($row["item_nome"])) {
+                    $menus[$menuId]["itens"][] = [
+                        "id_item" => $row["id_item"],
+                        "nome" => $row["item_nome"],
+                        "icone" => $row["item_icone"],
+                        "rota" => $row["item_rota"],
+                        "posicao" => $row["posicao"]
+                    ];
+                }
+            }
+
+            // 🔹 Remove índice associativo
+            $dados = array_values($menus);
+
+            self::success(count($dados) . " menus carregados com itens");
+            self::Mensagemjson(
+                "Menus carregados com sucesso",
+                200,
+                $dados
+            );
+        } catch (\Throwable $th) {
+            self::error("Menu (Admin): erro ao listar - " . $th->getMessage());
+
+            self::Mensagemjson(
+                "Erro ao listar menus",
+                500
+            );
+        }
+    }
+    public function buscarCategoria(int $id): void
+    {
+        try {
+            self::info("Categoria (Admin): buscando categoria ID {$id}");
+            $cat = \App\Dao\Categoria\CategoriaDao::buscar($id);
+
+            if (!$cat) {
+                self::warning("Categoria (Admin): não encontrada ID {$id}");
+                self::Mensagemjson("Categoria não encontrada", 404);
+                return;
+            }
+
+            // Se você quiser devolver total_produtos igual no front:
+            // (caso sua query já traga, ignore)
+            if (!isset($cat['total_produtos'])) {
+                // fallback simples: conta no produto
+                $produtos = ProdutoDao::Todos();
+                $total = 0;
+                foreach ($produtos as $p) {
+                    if ((int)($p['categoria_id'] ?? 0) === (int)$id) $total++;
+                }
+                $cat['total_produtos'] = $total;
+            }
+
+            self::success("Categoria (Admin): carregada");
+            self::Mensagemjson("Categoria carregada", 200, $cat);
+        } catch (\Throwable $th) {
+            self::error("Categoria (Admin): erro - " . $th->getMessage());
+            self::Mensagemjson("Erro ao buscar categoria", 500);
+        }
+    }
+
+    public function unificarProdutosEmCategoria(): void
+    {
+        try {
+            self::info("Unificação: recebendo request para unificar produtos em categoria");
+
+            $dados = self::receberJson();
+
+            $categoriaId = (int)($dados['categoria_id'] ?? 0);
+            $produtos = $dados['produtos'] ?? [];
+
+            if ($categoriaId <= 0) {
+                self::warning("Unificação: categoria_id inválido");
+                self::Mensagemjson("categoria_id inválido", 422);
+                return;
+            }
+
+            if (!is_array($produtos) || count($produtos) === 0) {
+                self::warning("Unificação: lista de produtos vazia");
+                self::Mensagemjson("Selecione pelo menos um produto", 422);
+                return;
+            }
+
+            // Sanitiza IDs (garante int e remove lixo/duplicados)
+            $produtos = array_values(array_unique(array_map('intval', $produtos)));
+            $produtos = array_filter($produtos, fn($id) => $id > 0);
+
+            if (count($produtos) === 0) {
+                self::warning("Unificação: lista de produtos inválida após sanitização");
+                self::Mensagemjson("Lista de produtos inválida", 422);
+                return;
+            }
+
+            // (Opcional, mas recomendado) Confere se a categoria existe
+            $cat = \App\Dao\Categoria\CategoriaDao::buscar($categoriaId);
+            if (!$cat) {
+                self::warning("Unificação: categoria não encontrada ID {$categoriaId}");
+                self::Mensagemjson("Categoria não encontrada", 404);
+                return;
+            }
+
+            // Regra do seu front: só deixa selecionar produtos SEM categoria.
+            // Então aqui vamos aplicar a mesma regra no back por segurança:
+            // Filtra apenas os que ainda estão com categoria_id NULL.
+            $todos = ProdutoDao::Todos();
+            $permitidos = [];
+
+            foreach ($todos as $p) {
+                if (
+                    isset($p['id_produto']) &&
+                    in_array((int)$p['id_produto'], $produtos, true) &&
+                    (empty($p['categoria_id']) || $p['categoria_id'] === null)
+                ) {
+                    $permitidos[] = (int)$p['id_produto'];
+                }
+            }
+
+            if (count($permitidos) === 0) {
+                self::warning("Unificação: nenhum produto elegível (talvez já tenham categoria)");
+                self::Mensagemjson("Nenhum produto elegível para unificação", 422);
+                return;
+            }
+
+            $ok = ProdutoDao::unificarEmCategoria($categoriaId, $permitidos);
+
+            if ($ok) {
+                self::success("Unificação: " . count($permitidos) . " produtos unificados na categoria {$categoriaId}");
+                self::Mensagemjson("Produtos unificados com sucesso", 200, [
+                    "categoria_id" => $categoriaId,
+                    "total_unificados" => count($permitidos),
+                    "produtos" => $permitidos
+                ]);
+                return;
+            }
+
+            self::error("Unificação: falha ao atualizar produtos no banco");
+            self::Mensagemjson("Erro ao unificar produtos", 500);
+        } catch (\Throwable $th) {
+            self::error("Unificação: erro - " . $th->getMessage());
+            self::Mensagemjson("Erro ao unificar produtos", 500);
         }
     }
 }

@@ -4,37 +4,45 @@ namespace App\Models\Menu;
 
 class MenuItemModel
 {
+    private ?int $id;
+    private int $menuId;
     private string $nome;
-    private ?string $icone;
     private ?string $rota;
+    private ?string $icone;
     private ?int $posicao;
-    private ?int $menuId; // referência ao menu pai (para dropdown)
 
     public function __construct(
+        ?int $id,
+        int $menuId,
         string $nome,
-        ?string $icone = null,
         ?string $rota = null,
-        ?int $posicao = null,
-        ?int $menuId = null
+        ?string $icone = null,
+        ?int $posicao = 0
     ) {
-        $this->nome = $nome;
-        $this->icone = $icone;
-        $this->rota = $rota;
-        $this->posicao = $posicao;
+        $this->id = $id;
         $this->menuId = $menuId;
+        $this->nome = $nome;
+        $this->rota = $rota;
+        $this->icone = $icone;
+        $this->posicao = $posicao;
     }
 
     // --------------------------
     // GETTERS
     // --------------------------
+    public function getId(): ?int
+    {
+        return $this->id;
+    }
+
+    public function getMenuId(): int
+    {
+        return $this->menuId;
+    }
+
     public function getNome(): string
     {
         return $this->nome;
-    }
-
-    public function getIcone(): ?string
-    {
-        return $this->icone;
     }
 
     public function getRota(): ?string
@@ -42,27 +50,28 @@ class MenuItemModel
         return $this->rota;
     }
 
+    public function getIcone(): ?string
+    {
+        return $this->icone;
+    }
+
     public function getPosicao(): ?int
     {
         return $this->posicao;
     }
 
-    public function getMenuId(): ?int
-    {
-        return $this->menuId;
-    }
-
     // --------------------------
-    // TO ARRAY
+    // TO ARRAY (🔥 OBRIGATÓRIO PRA API)
     // --------------------------
     public function toArray(): array
     {
         return [
+            "id_item" => $this->id,
+            "menu_id" => $this->menuId,
             "nome" => $this->nome,
-            "icone" => $this->icone,
             "rota" => $this->rota,
-            "posicao" => $this->posicao,
-            "menu_id" => $this->menuId
+            "icone" => $this->icone,
+            "posicao" => $this->posicao
         ];
     }
 }

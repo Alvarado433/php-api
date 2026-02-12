@@ -9,21 +9,26 @@ class MenuDao extends BaseDao
 {
     protected static string $tabela = "menu";
 
-    /**
-     * Retorna todos os menus
-     */
+    // ==================================================
+    // LISTAR TODOS OS MENUS
+    // ==================================================
     public static function listar(): array
     {
         self::info("Buscando todos os menus...");
 
-        $sql = "SELECT * FROM " . self::$tabela;
+        $sql = "
+            SELECT *
+            FROM " . self::$tabela . "
+            ORDER BY id_menu ASC
+        ";
+
         $rows = self::findAll($sql);
 
         self::success("Menus carregados: " . count($rows));
 
         return array_map(
-            fn($row) =>
-            new MenuModel(
+            fn($row) => new MenuModel(
+                $row["id_menu"],
                 $row["nome"],
                 $row["icone"],
                 $row["rota"],
@@ -33,24 +38,52 @@ class MenuDao extends BaseDao
         );
     }
 
-    /**
-     * Buscar menu por ID
-     */
+    public static function listarComItens(): array
+    {
+        self::info("Buscando menus com itens (JOIN)");
+
+        $sql = "
+            SELECT 
+                m.id_menu,
+                m.nome AS menu_nome,
+                m.icone AS menu_icone,
+                m.rota AS menu_rota,
+                m.pesquisa_placeholder,
+
+                mi.id_item,
+                mi.nome AS item_nome,
+                mi.icone AS item_icone,
+                mi.rota AS item_rota,
+                mi.posicao
+            FROM menu m
+            LEFT JOIN menu_item mi ON mi.menu_id = m.id_menu
+            ORDER BY m.id_menu, mi.posicao ASC
+        ";
+
+        return self::findAll($sql);
+    }
+    // ==================================================
+    // BUSCAR MENU POR ID
+    // ==================================================
     public static function buscarPorId(int $id): ?MenuModel
     {
-        self::info("Buscando menu ID: $id");
+        self::info("Buscando menu ID: {$id}");
 
-        $sql = "SELECT * FROM " . self::$tabela . " WHERE id_menu = ?";
+        $sql = "
+            SELECT *
+            FROM " . self::$tabela . "
+            WHERE id_menu = ?
+        ";
+
         $row = self::find($sql, [$id]);
 
         if (!$row) {
-            self::warning("Menu ID $id não encontrado.");
+            self::warning("Menu não encontrado.");
             return null;
         }
 
-        self::success("Menu encontrado.");
-
         return new MenuModel(
+            $row["id_menu"],
             $row["nome"],
             $row["icone"],
             $row["rota"],
@@ -58,9 +91,9 @@ class MenuDao extends BaseDao
         );
     }
 
-    /**
-     * Criar menu
-     */
+    // ==================================================
+    // CRIAR MENU
+    // ==================================================
     public static function criar(MenuModel $menu): bool
     {
         self::info("Criando novo menu: " . $menu->getNome());
@@ -78,25 +111,26 @@ class MenuDao extends BaseDao
             $menu->getPesquisaPlaceholder()
         ]);
 
-        if ($ok) {
-            self::success("Menu criado com sucesso!");
-        } else {
-            self::error("Erro ao criar menu.");
-        }
+        if ($ok) self::success("Menu criado com sucesso!");
+        else self::error("Erro ao criar menu.");
 
         return $ok;
     }
 
-    /**
-     * Atualizar menu
-     */
+    // ==================================================
+    // ATUALIZAR MENU
+    // ==================================================
     public static function atualizar(int $id, MenuModel $menu): bool
     {
-        self::info("Atualizando menu ID: $id");
+        self::info("Atualizando menu ID: {$id}");
 
         $sql = "
             UPDATE " . self::$tabela . "
-            SET nome = ?, icone = ?, rota = ?, pesquisa_placeholder = ?
+            SET
+                nome = ?,
+                icone = ?,
+                rota = ?,
+                pesquisa_placeholder = ?
             WHERE id_menu = ?
         ";
 
@@ -108,46 +142,46 @@ class MenuDao extends BaseDao
             $id
         ]);
 
-        if ($ok) {
-            self::success("Menu atualizado com sucesso!");
-        } else {
-            self::error("Erro ao atualizar menu.");
-        }
+        if ($ok) self::success("Menu atualizado com sucesso!");
+        else self::error("Erro ao atualizar menu.");
 
         return $ok;
     }
 
-    /**
-     * Deletar menu
-     */
+    // ==================================================
+    // DELETAR MENU
+    // ==================================================
     public static function deletar(int $id): bool
     {
-        self::warning("Deletando menu ID: $id");
+        self::warning("Deletando menu ID: {$id}");
 
-        $sql = "DELETE FROM " . self::$tabela . " WHERE id_menu = ?";
-        $ok = self::execute($sql, [$id]);
+        $sql = "
+            DELETE FROM " . self::$tabela . "
+            WHERE id_menu = ?
+        ";
 
-        if ($ok) self::success("Menu deletado.");
-        else self::error("Erro ao deletar menu.");
-
-        return $ok;
+        return self::execute($sql, [$id]);
     }
 
-    /**
-     * Listar menus ativos (vinculados ao INICIO)
-     */
+    // ==================================================
+    // LISTAR MENUS ATIVOS (NAVBAR)
+    // ==================================================
     public static function listarAtivos(): array
     {
-        self::info("Buscando menus ATIVOS...");
+        self::info("Buscando menus ativos...");
 
-        $sql = "SELECT * FROM " . self::$tabela; // Retorna todos
+        // Caso futuramente tenha status, já está preparado
+        $sql = "
+            SELECT *
+            FROM " . self::$tabela . "
+            ORDER BY id_menu ASC
+        ";
+
         $rows = self::findAll($sql);
 
-        self::success("Menus ativos retornados: " . count($rows));
-
         return array_map(
-            fn($row) =>
-            new MenuModel(
+            fn($row) => new MenuModel(
+                $row["id_menu"],
                 $row["nome"],
                 $row["icone"],
                 $row["rota"],

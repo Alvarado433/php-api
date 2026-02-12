@@ -1,19 +1,16 @@
-# ==========================================================
-# 🌍 Redirecionamento principal (InfinityFree compatível)
-# ==========================================================
-<IfModule mod_rewrite.c>
-    RewriteEngine On
+RewriteEngine On
 
-    # 🚫 Evita loop quando já está dentro de /Visacont/public
-    RewriteCond %{REQUEST_URI} !^/Imperio/public/
-
-    # ✅ Redireciona tudo para Visacont/public
-    RewriteRule ^(.*)$ Imperio/public/$1 [L]
-</IfModule>
-
-# ==========================================================
-# 🚫 Protege arquivos sensíveis
-# ==========================================================
-<FilesMatch "\.(env|ini|log|json|lock|md|git|htaccess)$">
-    Require all denied
+# Bloqueia arquivos sensíveis
+<FilesMatch "^(\.env|composer\.json|composer\.lock|package\.json|package-lock\.json)$">
+  Require all denied
 </FilesMatch>
+
+# Não entra em loop se já estiver em /public
+RewriteRule ^public/ - [L]
+
+# Se existir arquivo físico na raiz, serve normal (ex: /robots.txt)
+RewriteCond %{REQUEST_FILENAME} -f
+RewriteRule ^ - [L]
+
+# ✅ Qualquer outra coisa (inclui "/") vai para public/index.php
+RewriteRule ^ public/index.php [L]
