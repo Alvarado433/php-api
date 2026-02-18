@@ -159,6 +159,7 @@ roteamento::post("/carrinho/endereco", "CarrinhoController@salvarEndereco");    
 | 📦 PEDIDO
 |----------------------------------------------------------------------
 */
+roteamento::get("/pedidos", "PedidoController@listarTodos");                     // listar todos pedidos (admin)
 roteamento::post("/pedido/finalizar", "PedidoController@finalizar");                     // criar pedido com itens + endereço do carrinho
 roteamento::get("/pedido/{usuarioId}", "PedidoController@listarPorUsuario");             // listar pedidos do usuário
 roteamento::get("/pedido/detalhes/{pedidoId}", "PedidoController@detalhes");             // detalhes do pedido

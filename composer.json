@@ -18,6 +18,7 @@
         }
     ],
     "require": {
-        "mercadopago/dx-php": "^3.8"
+        "mercadopago/dx-php": "^3.8",
+        "phpmailer/phpmailer": "*"
     }
 }

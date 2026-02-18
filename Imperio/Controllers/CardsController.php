@@ -40,7 +40,7 @@ class CardsController extends Basecontrolador
             [
                 "titulo" => "Configuração de Login",
                 "quantidade" => count(\App\Dao\ConfiguracaoDao\ConfiguracaoLoginDao::listar()),
-                "rota" => "/admin/configuracoes/gerenciar/login" // cada card terá uma rota própria
+                "rota" => "/admin/configuracoes/gerenciar/login"
             ],
             [
                 "titulo" => "Configuração de Menu",
@@ -52,9 +52,15 @@ class CardsController extends Basecontrolador
                 "rota" => "/admin/configuracoes/gerenciar/forma-pagamento"
             ],
 
-            // Adicione outras configurações se necessário
+            // ✅ NOVO CARD: Mensagem pós-compra (personalizada)
+            [
+                "titulo" => "Configuração de Mensagem (Pós-compra)",
+                "quantidade" => 0, // se tiver DAO depois, troca pra count(....::listar())
+                "rota" => "/admin/configuracoes/gerenciar/mensagem-compra"
+            ],
         ];
 
-        self::Mensagemjson("Cards de configuração carregados com sucesso", 200, $cards);
+        self::success(count($cards) . " cards de configuração carregados");
+        self::Mensagemjson("Cards carregados com sucesso", 200, $cards);
     }
 }
