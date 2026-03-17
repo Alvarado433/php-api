@@ -15,7 +15,7 @@ class Autoload
         "App\\"      => __DIR__ . "/../app/",
         "Config\\"   => __DIR__ . "/../config/",
         "Database\\" => __DIR__ . "/../database/",
-        "Routers\\"  => __DIR__ . "/../routers/",  // NOVO SUPORTE PARA ROTAS
+        "Routers\\"  => __DIR__ . "/../routers/",
     ];
 
     /**
@@ -23,6 +23,14 @@ class Autoload
      */
     public static function register(): void
     {
+        // ✅ 1️⃣ Primeiro carrega o autoload do Composer (vendor)
+        $vendor = __DIR__ . "/../vendor/autoload.php";
+
+        if (file_exists($vendor)) {
+            require_once $vendor;
+        }
+
+        // ✅ 2️⃣ Depois registra o autoload do framework
         spl_autoload_register([self::class, "loader"]);
     }
 
@@ -31,19 +39,13 @@ class Autoload
      */
     private static function loader(string $classe): bool
     {
-        // Verifica todos os namespaces mapeados
         foreach (self::$map as $namespace => $baseDir) {
 
-            // Verifica se a classe começa com o namespace atual
             if (strpos($classe, $namespace) === 0) {
-
-                // Remove o prefixo do namespace
                 $relativeClass = substr($classe, strlen($namespace));
 
-                // Monta caminho do arquivo final
                 $arquivo = $baseDir . str_replace("\\", "/", $relativeClass) . ".php";
 
-                // Se o arquivo existir → inclui
                 if (file_exists($arquivo)) {
                     require_once $arquivo;
                     return true;

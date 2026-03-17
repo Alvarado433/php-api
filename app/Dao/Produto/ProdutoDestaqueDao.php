@@ -29,26 +29,41 @@ class ProdutoDestaqueDao extends BaseDao
         return self::findAll($sql);
     }
 
-    // 🔹 Listar destaques ativos (statusid = 1)
-    public static function listarAtivos(): array
-    {
-        $sql = "
-            SELECT 
-                pd.*,
-                p.nome AS produto_nome,
-                p.slug AS produto_slug,
-                p.imagem AS produto_imagem,
-                p.preco AS produto_preco,
-                p.descricao AS produto_descricao
-            FROM " . self::$tabela . " pd
-            INNER JOIN produto p 
-                ON p.id_produto = pd.produto_id
-            WHERE pd.statusid = 1
-            ORDER BY pd.ordem ASC
-        ";
+   // 🔹 Listar destaques ativos (statusid = 1)
+public static function listarAtivos(): array
+{
+    $sql = "
+        SELECT 
+            pd.*,
 
-        return self::findAll($sql);
-    }
+            p.id_produto            AS produto_id,
+            p.nome                  AS produto_nome,
+            p.sku                   AS produto_sku,
+            p.modelo                AS produto_modelo,
+            p.descricao             AS produto_descricao,
+            p.preco                 AS produto_preco,
+            p.preco_promocional     AS produto_preco_promocional,
+            p.parcelamento          AS produto_parcelamento,
+            p.slug                  AS produto_slug,
+            p.imagem                AS produto_imagem,
+            p.estoque               AS produto_estoque,
+            p.ilimitado             AS produto_ilimitado,
+            p.statusid              AS produto_statusid,
+            p.catalogo              AS produto_catalogo,
+            p.categoria_id          AS produto_categoria_id,
+            p.destaque              AS produto_destaque,
+            p.criado                AS produto_criado,
+            p.atualizado            AS produto_atualizado
+
+        FROM " . self::$tabela . " pd
+        INNER JOIN produto p 
+            ON p.id_produto = pd.produto_id
+        WHERE pd.statusid = 3
+        ORDER BY pd.ordem ASC
+    ";
+
+    return self::findAll($sql);
+}
 
     // 🔹 Listar produtos com status destaque (statusid = 3)
     public static function listarProdutosStatusDestaque(): array

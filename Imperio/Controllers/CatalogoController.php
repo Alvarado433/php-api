@@ -4,13 +4,10 @@ namespace Imperio\Controllers;
 
 use Config\Base\Basecontrolador;
 use App\Dao\Produto\ProdutoDao;
+use App\Dao\Produto\ProdutoDestaqueDao; // ✅ FALTAVA ISSO
 
 class CatalogoController extends Basecontrolador
 {
-    /**
-     * 🔹 Listagem do catálogo com filtros
-     * categoria | preco_min | preco_max
-     */
     public function listar(): void
     {
         $categoriaId = $_GET['categoria'] ?? null;
@@ -39,29 +36,30 @@ class CatalogoController extends Basecontrolador
 
         $produtos = array_values($produtos);
 
-        self::Mensagemjson(
-            "Catálogo carregado com sucesso",
-            200,
-            [
-                "total" => count($produtos),
-                "filtros" => [
-                    "categoria" => $categoriaId,
-                    "preco_min" => $precoMin,
-                    "preco_max" => $precoMax
-                ],
-                "produtos" => $produtos
-            ]
-        );
+        self::Mensagemjson("Catálogo carregado com sucesso", 200, [
+            "total" => count($produtos),
+            "filtros" => [
+                "categoria" => $categoriaId,
+                "preco_min" => $precoMin,
+                "preco_max" => $precoMax
+            ],
+            "produtos" => $produtos
+        ]);
     }
 
-    /**
-     * 🔥 Unificar produtos em uma categoria
-     * POST /catalogo/unificar
-     * body JSON:
-     * {
-     *   "categoria_id": 1,
-     *   "produtos": [5, 9, 12]
-     * }
-     */
-   
+    // ✅ Destaques ativos
+    public function listardestaques(): void
+    {
+        try {
+            $destaques = ProdutoDestaqueDao::listarAtivos();
+
+            self::Mensagemjson(
+                "Produtos em destaque ativos listados com sucesso",
+                200,
+                $destaques
+            );
+        } catch (\Throwable $th) {
+            self::Mensagemjson("Erro ao listar destaques: " . $th->getMessage(), 500);
+        }
+    }
 }

@@ -17,51 +17,49 @@ class MenuDao extends BaseDao
         self::info("Buscando todos os menus...");
 
         $sql = "
-            SELECT *
-            FROM " . self::$tabela . "
-            ORDER BY id_menu ASC
-        ";
+        SELECT *
+        FROM " . self::$tabela . "
+        ORDER BY id_menu ASC
+    ";
 
         $rows = self::findAll($sql);
 
         self::success("Menus carregados: " . count($rows));
 
-        return array_map(
-            fn($row) => new MenuModel(
-                $row["id_menu"],
-                $row["nome"],
-                $row["icone"],
-                $row["rota"],
-                $row["pesquisa_placeholder"]
-            ),
-            $rows
-        );
-    }
+        return array_map(function ($row) {
 
-    public static function listarComItens(): array
+            $itens = self::listarItensPorMenu($row["id_menu"]);
+
+            return [
+                "id" => (int) $row["id_menu"],
+                "nome" => $row["nome"],
+                "icone" => $row["icone"],
+                "rota" => $row["rota"],
+                "pesquisa_placeholder" => $row["pesquisa_placeholder"],
+                "itens" => array_map(function ($item) {
+                    return [
+                        "id" => (int) $item["id_item"],
+                        "nome" => $item["nome"],
+                        "rota" => $item["rota"],
+                        "icone" => $item["icone"],
+                        "posicao" => (int) $item["posicao"],
+                    ];
+                }, $itens)
+            ];
+        }, $rows);
+    }
+    public static function listarItensPorMenu(int $menuId): array
     {
-        self::info("Buscando menus com itens (JOIN)");
-
         $sql = "
-            SELECT 
-                m.id_menu,
-                m.nome AS menu_nome,
-                m.icone AS menu_icone,
-                m.rota AS menu_rota,
-                m.pesquisa_placeholder,
+        SELECT *
+        FROM menu_item
+        WHERE menu_id = ?
+        ORDER BY posicao ASC
+    ";
 
-                mi.id_item,
-                mi.nome AS item_nome,
-                mi.icone AS item_icone,
-                mi.rota AS item_rota,
-                mi.posicao
-            FROM menu m
-            LEFT JOIN menu_item mi ON mi.menu_id = m.id_menu
-            ORDER BY m.id_menu, mi.posicao ASC
-        ";
-
-        return self::findAll($sql);
+        return self::findAll($sql, [$menuId]);
     }
+
     // ==================================================
     // BUSCAR MENU POR ID
     // ==================================================
@@ -189,5 +187,27 @@ class MenuDao extends BaseDao
             ),
             $rows
         );
+    }
+    public static function listarPermissoes(?int $menuId = null, ?int $itemId = null): array
+    {
+        $sql = "SELECT * FROM menu_permissao WHERE 1=1";
+        $params = [];
+
+        if ($menuId !== null) {
+            $sql .= " AND menu_id = ?";
+            $params[] = $menuId;
+        }
+
+        if ($itemId !== null) {
+            $sql .= " AND menu_item_id = ?";
+            $params[] = $itemId;
+        }
+
+        $rows = self::findAll($sql, $params);
+
+        return array_map(fn($row) => [
+            "nivel_id" => (int) $row["nivel_id"],
+            "id_permissao" => (int) $row["id_permissao"]
+        ], $rows);
     }
 }

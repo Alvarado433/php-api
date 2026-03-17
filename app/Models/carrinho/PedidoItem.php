@@ -1,5 +1,5 @@
 <?php
-namespace App\Models\carrinho;
+namespace App\Models\Carrinho;
 
 class PedidoItem {
     private int $id_item;

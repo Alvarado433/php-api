@@ -9,49 +9,30 @@ class BannerDao extends BaseDao
 {
     protected static string $tabela = "banner";
 
-    // 🔹 Listar todos os banners
+    // 🔹 Listar todos os banners (retorna MODELS com id_banner)
     public static function listar(): array
     {
         $sql = "SELECT * FROM " . static::$tabela . " ORDER BY id_banner DESC";
         $dados = self::findAll($sql);
 
-        return array_map(fn($b) => new BannerModel(
-            $b['titulo'],
-            $b['descricao'],
-            $b['imagem'],
-            $b['link'] ?? null,
-            $b['visualizacoes'] ?? 0,
-            $b['cliques'] ?? 0
-        ), $dados);
+        return array_map(fn($b) => BannerModel::fromDb($b), $dados);
     }
 
-    
     // 🔹 Listar banners ativos
     public static function listarAtivos(): array
     {
-        // CTE para filtrar apenas banners com statusid = 1
         $sql = "
-        WITH StatusAtivo AS (
-            SELECT 1 AS id_status
-        )
-        SELECT b.*
-        FROM " . static::$tabela . " b
-        INNER JOIN StatusAtivo s ON s.id_status = b.statusid
-        ORDER BY b.id_banner DESC
-    ";
+            SELECT *
+            FROM " . static::$tabela . "
+            WHERE statusid = 1
+            ORDER BY id_banner DESC
+        ";
 
         $dados = self::findAll($sql);
-
-        return array_map(fn($b) => new BannerModel(
-            $b['titulo'],
-            $b['descricao'],
-            $b['imagem'],
-            $b['link'] ?? null,
-            $b['visualizacoes'] ?? 0,
-            $b['cliques'] ?? 0
-        ), $dados);
+        return array_map(fn($b) => BannerModel::fromDb($b), $dados);
     }
-public static function Todos(): array
+
+    public static function Todos(): array
     {
         $sql = "SELECT * FROM " . self::$tabela . " ORDER BY criado DESC";
         return self::findAll($sql);
@@ -69,17 +50,10 @@ public static function Todos(): array
         ";
 
         $dados = self::findAll($sql);
-        return array_map(fn($b) => new BannerModel(
-            $b['titulo'],
-            $b['descricao'],
-            $b['imagem'],
-            $b['link'] ?? null,
-            $b['visualizacoes'] ?? 0,
-            $b['cliques'] ?? 0
-        ), $dados);
+        return array_map(fn($b) => BannerModel::fromDb($b), $dados);
     }
 
-    // 🔹 Buscar banner por ID
+    // 🔹 Buscar banner por ID (retorna MODEL)
     public static function buscarPorId(int $id): ?BannerModel
     {
         $sql = "SELECT * FROM " . static::$tabela . " WHERE id_banner = ? LIMIT 1";
@@ -87,14 +61,7 @@ public static function Todos(): array
 
         if (!$dados) return null;
 
-        return new BannerModel(
-            $dados['titulo'],
-            $dados['descricao'],
-            $dados['imagem'],
-            $dados['link'] ?? null,
-            $dados['visualizacoes'] ?? 0,
-            $dados['cliques'] ?? 0
-        );
+        return BannerModel::fromDb($dados);
     }
 
     // 🔹 Criar novo banner

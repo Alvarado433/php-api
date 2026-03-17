@@ -22,6 +22,13 @@ class CarrinhoController extends Basecontrolador
         ]);
     }
 
+    // ✅ NOVO: listar endereços salvos do usuário
+    public static function listarEnderecos(int $usuarioId): void
+    {
+        $lista = CarrinhoEnderecoDao::listarPorUsuario($usuarioId);
+        self::Mensagemjson("Endereços do usuário", 200, $lista);
+    }
+
     // Adicionar item ao carrinho
     public static function adicionar(): void
     {
@@ -84,11 +91,58 @@ class CarrinhoController extends Basecontrolador
         self::Mensagemjson("Carrinho limpo com sucesso");
     }
 
-    // Adicionar ou atualizar endereço do carrinho
+    // ✅ Ajustado: salvar endereço do carrinho OU aplicar endereço pelo enderecoId
     public static function salvarEndereco(): void
     {
         $dados = self::receberJson();
-        $carrinhoId = CarrinhoDao::criarOuObter($dados['usuarioId']);
+
+        if (!isset($dados['usuarioId'])) {
+            self::Mensagemjson("usuarioId é obrigatório", 400);
+            return;
+        }
+
+        $carrinhoId = CarrinhoDao::criarOuObter((int)$dados['usuarioId']);
+
+        // ✅ Se veio enderecoId, usa o endereço salvo e aplica no carrinho (copia)
+        if (isset($dados['enderecoId']) && (int)$dados['enderecoId'] > 0) {
+            $end = CarrinhoEnderecoDao::buscarPorId((int)$dados['enderecoId']);
+
+            if (!$end) {
+                self::Mensagemjson("Endereço selecionado não encontrado", 404);
+                return;
+            }
+
+            $endereco = new \App\Models\Carrinho\CarrinhoEndereco(
+                $carrinhoId,
+                $end['cep'] ?? "",
+                $end['rua'] ?? "",
+                $end['numero'] ?? "",
+                $end['bairro'] ?? "",
+                $end['cidade'] ?? "",
+                $end['estado'] ?? "",
+                $end['complemento'] ?? null
+            );
+
+            $existente = CarrinhoEnderecoDao::buscarPorCarrinho($carrinhoId);
+
+            if ($existente) {
+                CarrinhoEnderecoDao::atualizar($endereco);
+            } else {
+                CarrinhoEnderecoDao::criar($endereco);
+            }
+
+            self::Mensagemjson("Endereço selecionado aplicado ao carrinho", 200);
+            return;
+        }
+
+        // ✅ Caso normal: salvar endereço pelos campos
+        $required = ['cep', 'rua', 'numero', 'bairro', 'cidade', 'estado'];
+        foreach ($required as $k) {
+            if (!isset($dados[$k]) || trim((string)$dados[$k]) === "") {
+                self::Mensagemjson("Campo obrigatório ausente: {$k}", 400);
+                return;
+            }
+        }
 
         $endereco = new \App\Models\Carrinho\CarrinhoEndereco(
             $carrinhoId,
@@ -109,6 +163,6 @@ class CarrinhoController extends Basecontrolador
             CarrinhoEnderecoDao::criar($endereco);
         }
 
-        self::Mensagemjson("Endereço salvo com sucesso");
+        self::Mensagemjson("Endereço salvo com sucesso", 200);
     }
 }
