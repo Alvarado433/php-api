@@ -178,7 +178,6 @@ class Inicio
         // PUT
         roteamento::put("/pedido/{id}/status", "InicioController@alterarStatusPedido");
 
-        // DELETE
-        roteamento::delete("/pedido/{id}", "InicioController@deletarPedido");er@deletarPedido");
+        roteamento::delete("/pedido/{id}", "InicioController@deletarPedido");
     }
 }
